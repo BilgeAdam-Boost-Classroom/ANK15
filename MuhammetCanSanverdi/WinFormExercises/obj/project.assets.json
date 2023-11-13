@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BilgeAdam Repo\\GitHub\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj",
+      "projectUniqueName": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj",
       "projectName": "WinFormExercises",
-      "projectPath": "C:\\BilgeAdam Repo\\GitHub\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj",
+      "projectPath": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj",
       "packagesPath": "C:\\Users\\muham_9lszvft\\.nuget\\packages\\",
-      "outputPath": "C:\\BilgeAdam Repo\\GitHub\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\obj\\",
+      "outputPath": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muham_9lszvft\\AppData\\Roaming\\NuGet\\NuGet.Config",
