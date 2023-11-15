@@ -1,0 +1,10 @@
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\Odev_3\bin\Debug\Odev_3.exe.config
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\Odev_3\bin\Debug\Odev_3.exe
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\Odev_3\bin\Debug\Odev_3.pdb
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\Odev_3\obj\Debug\Odev_3.csproj.AssemblyReference.cache
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\Odev_3\obj\Debug\Odev_3.Form1.resources
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\Odev_3\obj\Debug\Odev_3.Properties.Resources.resources
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\Odev_3\obj\Debug\Odev_3.csproj.GenerateResource.cache
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\Odev_3\obj\Debug\Odev_3.csproj.CoreCompileInputs.cache
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\Odev_3\obj\Debug\Odev_3.exe
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\Odev_3\obj\Debug\Odev_3.pdb
