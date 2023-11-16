@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\muham_9lszvft\\.nuget\\packages\\": {}
+    "C:\\Users\\enes.ozturk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj",
+      "projectUniqueName": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj",
       "projectName": "WinFormExercises",
-      "projectPath": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj",
-      "packagesPath": "C:\\Users\\muham_9lszvft\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\obj\\",
+      "projectPath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj",
+      "packagesPath": "C:\\Users\\enes.ozturk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\MuhammetCanSanverdi\\WinFormExercises\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\muham_9lszvft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\enes.ozturk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows"
+        "net6.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -51,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -64,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
