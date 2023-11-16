@@ -17,7 +17,7 @@ namespace Sınıf
             yeniCalisan.Soyad = txtSoyad.Text;
             yeniCalisan.Yas = Convert.ToInt32(txtYas.Text);
             yeniCalisan.TC = Convert.ToInt64(txtTC.Text);
-            if(txtAd.Text.Trim()=="" || txtSoyad.Text.Trim() == "" || txtYas.Text.Trim() == "")
+            if(string.IsNullOrWhiteSpace(txtAd.Text.Trim()) || string.IsNullOrWhiteSpace(txtSoyad.Text.Trim()) || string.IsNullOrWhiteSpace(txtYas.Text.Trim()))
             {
                 MessageBox.Show("Lütfen boş bırakmayınız.");
                 return;
