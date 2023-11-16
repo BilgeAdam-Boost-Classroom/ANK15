@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Sınıf\\Sınıf\\Sınıf.csproj": {}
+    "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Sınıf\\Sınıf\\Sınıf.csproj": {
+    "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Sınıf\\Sınıf\\Sınıf.csproj",
+        "projectUniqueName": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj",
         "projectName": "Sınıf",
-        "projectPath": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Sınıf\\Sınıf\\Sınıf.csproj",
+        "projectPath": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj",
         "packagesPath": "C:\\Users\\burak.akyil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Sınıf\\Sınıf\\obj\\",
+        "outputPath": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Sınıf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\burak.akyil\\AppData\\Roaming\\NuGet\\NuGet.Config",
