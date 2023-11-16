@@ -27,8 +27,6 @@ namespace calisan_bilgileri
                 return;
             }
             calisanlar.Add(calisan);
-            
-            
             listBox1.Items.Add(calisan);
             MessageBox.Show($"{calisan} listeye eklendi");
             txtAd.Clear();
