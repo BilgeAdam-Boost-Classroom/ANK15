@@ -11,6 +11,10 @@ namespace Calisanlar.Models
         public long Tc { get; set; }
         public string Ad {  get; set; } 
         public string Soyad { get; set; }
-        public int Yas { get; set; }    
+        public int Yas { get; set; }
+        public override string ToString()
+        {
+            return $"{Ad} {Soyad} {Yas} {Tc}";
+        }
     }
 }
