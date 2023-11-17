@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\firin\\firin\\firin.csproj",
-      "projectName": "firin",
-      "projectPath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\firin\\firin\\firin.csproj",
+      "projectUniqueName": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\firin\\firin\\firin_özellilker.csproj",
+      "projectName": "firin_özellilker",
+      "projectPath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\firin\\firin\\firin_özellilker.csproj",
       "packagesPath": "C:\\Users\\Sibel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\firin\\firin\\obj\\",
       "projectStyle": "PackageReference",
