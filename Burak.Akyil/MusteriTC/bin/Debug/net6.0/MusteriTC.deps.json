@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MusteriTC/1.0.0": {
+        "runtime": {
+          "MusteriTC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MusteriTC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
