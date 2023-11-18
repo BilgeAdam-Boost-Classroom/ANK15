@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj": {}
+    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj": {
+    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj",
         "projectName": "Kalitim",
-        "projectPath": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj",
+        "projectPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\obj\\",
+        "outputPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oztur\\AppData\\Roaming\\NuGet\\NuGet.Config",
