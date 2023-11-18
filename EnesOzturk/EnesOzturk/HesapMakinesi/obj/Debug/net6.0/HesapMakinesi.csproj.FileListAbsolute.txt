@@ -1,0 +1,14 @@
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\bin\Debug\net6.0\HesapMakinesi.exe
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\bin\Debug\net6.0\HesapMakinesi.deps.json
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\bin\Debug\net6.0\HesapMakinesi.runtimeconfig.json
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\bin\Debug\net6.0\HesapMakinesi.dll
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\bin\Debug\net6.0\HesapMakinesi.pdb
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\HesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\HesapMakinesi.AssemblyInfo.cs
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\HesapMakinesi.dll
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\refint\HesapMakinesi.dll
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\HesapMakinesi.pdb
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\HesapMakinesi.genruntimeconfig.cache
+C:\Users\oztur\source\repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\ref\HesapMakinesi.dll
