@@ -8,5 +8,13 @@ namespace firinÖzellikler
 {
     internal class Esya
     {
-    }
+		private int _fiyat;
+
+		public int Fiyat
+		{
+			get { return _fiyat; }
+			set { _fiyat = value; }
+		}
+
+	}
 }

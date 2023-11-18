@@ -1,0 +1,14 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\bin\Debug\net6.0\Canta.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\bin\Debug\net6.0\Canta.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\bin\Debug\net6.0\Canta.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\bin\Debug\net6.0\Canta.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\bin\Debug\net6.0\Canta.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\obj\Debug\net6.0\Canta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\obj\Debug\net6.0\Canta.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\obj\Debug\net6.0\Canta.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\obj\Debug\net6.0\Canta.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\obj\Debug\net6.0\Canta.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\obj\Debug\net6.0\refint\Canta.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\obj\Debug\net6.0\Canta.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\obj\Debug\net6.0\Canta.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Canta\Canta\obj\Debug\net6.0\ref\Canta.dll

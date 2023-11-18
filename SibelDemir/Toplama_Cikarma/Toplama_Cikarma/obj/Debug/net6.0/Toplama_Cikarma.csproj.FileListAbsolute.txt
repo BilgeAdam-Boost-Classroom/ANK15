@@ -1,0 +1,14 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\bin\Debug\net6.0\Toplama_Cikarma.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\bin\Debug\net6.0\Toplama_Cikarma.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\bin\Debug\net6.0\Toplama_Cikarma.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\bin\Debug\net6.0\Toplama_Cikarma.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\bin\Debug\net6.0\Toplama_Cikarma.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\obj\Debug\net6.0\Toplama_Cikarma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\obj\Debug\net6.0\Toplama_Cikarma.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\obj\Debug\net6.0\Toplama_Cikarma.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\obj\Debug\net6.0\Toplama_Cikarma.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\obj\Debug\net6.0\Toplama_Cikarma.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\obj\Debug\net6.0\refint\Toplama_Cikarma.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\obj\Debug\net6.0\Toplama_Cikarma.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\obj\Debug\net6.0\Toplama_Cikarma.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Toplama_Cikarma\Toplama_Cikarma\obj\Debug\net6.0\ref\Toplama_Cikarma.dll
