@@ -7,7 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HesapMakinesi", "HesapMakin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capsuleme", "Capsuleme\Capsuleme.csproj", "{8A0949F5-5606-4F13-835A-EAF2475FDD2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odev3SonSoru", "odev3SonSoru\odev3SonSoru.csproj", "{E0861866-372B-483C-A5C2-B1B5686E5AC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev3SonSoru", "odev3SonSoru\odev3SonSoru.csproj", "{E0861866-372B-483C-A5C2-B1B5686E5AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginOdev", "LoginOdev\LoginOdev.csproj", "{601E321D-C1D6-439F-96A8-800B41BAD26B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometriOdev", "GeometriOdev\GeometriOdev.csproj", "{04F79707-F77D-4809-8C10-AB364F4614E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometri", "Geometri\Geometri.csproj", "{AF34480B-D59E-4984-AFD5-4A4ED9E38C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "renkdegistirme", "renkdegistirme\renkdegistirme.csproj", "{D03ABB3E-EA5E-4847-BA8A-3F6397CEF839}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{E0861866-372B-483C-A5C2-B1B5686E5AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0861866-372B-483C-A5C2-B1B5686E5AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0861866-372B-483C-A5C2-B1B5686E5AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601E321D-C1D6-439F-96A8-800B41BAD26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601E321D-C1D6-439F-96A8-800B41BAD26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601E321D-C1D6-439F-96A8-800B41BAD26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601E321D-C1D6-439F-96A8-800B41BAD26B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F79707-F77D-4809-8C10-AB364F4614E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F79707-F77D-4809-8C10-AB364F4614E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F79707-F77D-4809-8C10-AB364F4614E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F79707-F77D-4809-8C10-AB364F4614E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF34480B-D59E-4984-AFD5-4A4ED9E38C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF34480B-D59E-4984-AFD5-4A4ED9E38C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF34480B-D59E-4984-AFD5-4A4ED9E38C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF34480B-D59E-4984-AFD5-4A4ED9E38C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03ABB3E-EA5E-4847-BA8A-3F6397CEF839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03ABB3E-EA5E-4847-BA8A-3F6397CEF839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03ABB3E-EA5E-4847-BA8A-3F6397CEF839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03ABB3E-EA5E-4847-BA8A-3F6397CEF839}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

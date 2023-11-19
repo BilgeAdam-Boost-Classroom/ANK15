@@ -1,0 +1,14 @@
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\bin\Debug\net6.0\GeometriOdev.exe
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\bin\Debug\net6.0\GeometriOdev.deps.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\bin\Debug\net6.0\GeometriOdev.runtimeconfig.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\bin\Debug\net6.0\GeometriOdev.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\bin\Debug\net6.0\GeometriOdev.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\GeometriOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\GeometriOdev.AssemblyInfoInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\GeometriOdev.AssemblyInfo.cs
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\GeometriOdev.csproj.CoreCompileInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\GeometriOdev.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\refint\GeometriOdev.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\GeometriOdev.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\GeometriOdev.genruntimeconfig.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\ref\GeometriOdev.dll

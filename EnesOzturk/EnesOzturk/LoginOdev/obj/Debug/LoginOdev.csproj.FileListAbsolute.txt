@@ -1,0 +1,11 @@
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\LoginOdev\bin\Debug\LoginOdev.exe.config
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\LoginOdev\bin\Debug\LoginOdev.exe
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\LoginOdev\bin\Debug\LoginOdev.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\LoginOdev\obj\Debug\LoginOdev.csproj.AssemblyReference.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\LoginOdev\obj\Debug\LoginOdev.Form1.resources
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\LoginOdev\obj\Debug\LoginOdev.Form2.resources
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\LoginOdev\obj\Debug\LoginOdev.Properties.Resources.resources
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\LoginOdev\obj\Debug\LoginOdev.csproj.GenerateResource.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\LoginOdev\obj\Debug\LoginOdev.csproj.CoreCompileInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\LoginOdev\obj\Debug\LoginOdev.exe
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\LoginOdev\obj\Debug\LoginOdev.pdb
