@@ -2,11 +2,17 @@
   "ExpandedNodes": [
     "",
     "\\Burak.Akyil",
+<<<<<<< HEAD
     "\\Burak.Akyil\\MusteriTC",
     "\\Burak.Akyil\\Odev3",
     "\\Burak.Akyil\\Odev3_2",
     "\\Burak.Akyil\\Sınıf"
   ],
   "SelectedNode": "\\Burak.Akyil\\Odev3\\Form2.cs",
+=======
+    "\\Burak.Akyil\\Sınıf"
+  ],
+  "SelectedNode": "\\Burak.Akyil\\Sınıf\\Form1.cs",
+>>>>>>> 648062bc31f33c02bec971abec5b87cfd6020901
   "PreviewInSolutionExplorer": false
 }
