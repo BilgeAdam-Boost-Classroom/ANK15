@@ -1,0 +1,15 @@
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\bin\Debug\net6.0\Geometrik_Şekiller.exe
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\bin\Debug\net6.0\Geometrik_Şekiller.deps.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\bin\Debug\net6.0\Geometrik_Şekiller.runtimeconfig.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\bin\Debug\net6.0\Geometrik_Şekiller.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\bin\Debug\net6.0\Geometrik_Şekiller.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\obj\Debug\net6.0\Geometrik_Şekiller.csproj.AssemblyReference.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\obj\Debug\net6.0\Geometrik_Şekiller.GeneratedMSBuildEditorConfig.editorconfig
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\obj\Debug\net6.0\Geometrik_Şekiller.AssemblyInfoInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\obj\Debug\net6.0\Geometrik_Şekiller.AssemblyInfo.cs
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\obj\Debug\net6.0\Geometrik_Şekiller.csproj.CoreCompileInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\obj\Debug\net6.0\Geometrik_Şekiller.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\obj\Debug\net6.0\refint\Geometrik_Şekiller.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\obj\Debug\net6.0\Geometrik_Şekiller.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\obj\Debug\net6.0\Geometrik_Şekiller.genruntimeconfig.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Geometrik_Şekiller\Geometrik_Şekiller\obj\Debug\net6.0\ref\Geometrik_Şekiller.dll

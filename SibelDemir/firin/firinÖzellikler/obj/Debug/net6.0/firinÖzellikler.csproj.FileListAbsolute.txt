@@ -1,0 +1,14 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\bin\Debug\net6.0\firinÖzellikler.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\bin\Debug\net6.0\firinÖzellikler.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\bin\Debug\net6.0\firinÖzellikler.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\bin\Debug\net6.0\firinÖzellikler.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\bin\Debug\net6.0\firinÖzellikler.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\obj\Debug\net6.0\firinÖzellikler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\obj\Debug\net6.0\firinÖzellikler.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\obj\Debug\net6.0\firinÖzellikler.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\obj\Debug\net6.0\firinÖzellikler.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\obj\Debug\net6.0\firinÖzellikler.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\obj\Debug\net6.0\refint\firinÖzellikler.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\obj\Debug\net6.0\firinÖzellikler.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\obj\Debug\net6.0\firinÖzellikler.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\firin\firinÖzellikler\obj\Debug\net6.0\ref\firinÖzellikler.dll

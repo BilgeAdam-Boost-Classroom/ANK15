@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\calisan_bilgileri\\calisan_bilgileri\\calisan_bilgileri.csproj",
       "projectName": "calisan_bilgileri",
       "projectPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\calisan_bilgileri\\calisan_bilgileri\\calisan_bilgileri.csproj",
       "packagesPath": "C:\\Users\\sibel.babayigit\\.nuget\\packages\\",
       "outputPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\calisan_bilgileri\\calisan_bilgileri\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\calisan_bilgileri\\calisan_bilgileri\\calisan_bilgileri.csproj",
+      "projectName": "calisan_bilgileri",
+      "projectPath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\calisan_bilgileri\\calisan_bilgileri\\calisan_bilgileri.csproj",
+      "packagesPath": "C:\\Users\\Sibel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\calisan_bilgileri\\calisan_bilgileri\\obj\\",
+>>>>>>> c9d9bc6e303a0e09cd56d585a5dd4b11b6962a81
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sibel.babayigit\\AppData\\Roaming\\NuGet\\NuGet.Config",
