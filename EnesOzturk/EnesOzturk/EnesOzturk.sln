@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometriOdev", "GeometriOde
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "renkdegistirme", "renkdegistirme\renkdegistirme.csproj", "{D03ABB3E-EA5E-4847-BA8A-3F6397CEF839}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akademikuygulama", "Akademikuygulama\Akademikuygulama.csproj", "{D288CB67-FC16-4150-A94C-FEABC590F9FA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{D03ABB3E-EA5E-4847-BA8A-3F6397CEF839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D03ABB3E-EA5E-4847-BA8A-3F6397CEF839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D03ABB3E-EA5E-4847-BA8A-3F6397CEF839}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D288CB67-FC16-4150-A94C-FEABC590F9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D288CB67-FC16-4150-A94C-FEABC590F9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D288CB67-FC16-4150-A94C-FEABC590F9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D288CB67-FC16-4150-A94C-FEABC590F9FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
