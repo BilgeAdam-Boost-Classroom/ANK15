@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj": {}
+    "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj": {
+    "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj",
+        "projectUniqueName": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj",
         "projectName": "Kalitim",
-        "projectPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj",
-        "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\obj\\",
+        "projectPath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\Kalitim.csproj",
+        "packagesPath": "C:\\Users\\enes.ozturk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\Kalitim\\Kalitim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\oztur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\enes.ozturk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
