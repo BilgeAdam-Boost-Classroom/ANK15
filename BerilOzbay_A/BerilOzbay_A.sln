@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev3_Calisan", "Odev3_Cali
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev3_Canta", "Odev3_Canta\Odev3_Canta.csproj", "{5451A9EE-D0D2-4FAE-B412-26AA55055FBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Inheritance", "OOP_Inheritance\OOP_Inheritance.csproj", "{328ABCB9-9403-48E2-9EBF-547F489F71C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_Inheritance", "OOP_Inheritance\OOP_Inheritance.csproj", "{328ABCB9-9403-48E2-9EBF-547F489F71C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev4", "Odev4\Odev4.csproj", "{7DFD37D5-A1F5-44BD-A204-8E0E7C47F089}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{328ABCB9-9403-48E2-9EBF-547F489F71C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{328ABCB9-9403-48E2-9EBF-547F489F71C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{328ABCB9-9403-48E2-9EBF-547F489F71C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DFD37D5-A1F5-44BD-A204-8E0E7C47F089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFD37D5-A1F5-44BD-A204-8E0E7C47F089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFD37D5-A1F5-44BD-A204-8E0E7C47F089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFD37D5-A1F5-44BD-A204-8E0E7C47F089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
