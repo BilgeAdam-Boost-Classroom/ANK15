@@ -9,7 +9,7 @@ namespace Odev3_Sifre
 
         private void btnGirisYap_Click(object sender, EventArgs e)
         {
-            if(tbAd.Text == "admin" && Convert.ToInt32(tbSifre.Text) == 1234)
+            if(tbAd.Text == "admin" && tbSifre.Text == "1234")
             {
                 Form2 form2 = new Form2();
                 form2.ShowDialog();

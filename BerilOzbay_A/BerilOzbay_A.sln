@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3Renk", "Odev3Renk\Odev3Renk.csproj", "{16A95A0B-882F-4A5A-B658-799C18DA54E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev3Renk", "Odev3Renk\Odev3Renk.csproj", "{16A95A0B-882F-4A5A-B658-799C18DA54E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3_Sifre", "Odev3_Sifre\Odev3_Sifre.csproj", "{41BB6012-C574-4E8C-8591-728A5B3D8587}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev3_Sifre", "Odev3_Sifre\Odev3_Sifre.csproj", "{41BB6012-C574-4E8C-8591-728A5B3D8587}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3_Hesapla", "Odev3_Hesapla\Odev3_Hesapla.csproj", "{F2F7E79F-48E1-49A2-9DDD-69A70A055B85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev3_Hesapla", "Odev3_Hesapla\Odev3_Hesapla.csproj", "{F2F7E79F-48E1-49A2-9DDD-69A70A055B85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3_Calisan", "Odev3_Calisan\Odev3_Calisan.csproj", "{025A2E4E-E13D-401E-8A64-0C8C7D849157}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev3_Calisan", "Odev3_Calisan\Odev3_Calisan.csproj", "{025A2E4E-E13D-401E-8A64-0C8C7D849157}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3_Canta", "Odev3_Canta\Odev3_Canta.csproj", "{5451A9EE-D0D2-4FAE-B412-26AA55055FBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev3_Canta", "Odev3_Canta\Odev3_Canta.csproj", "{5451A9EE-D0D2-4FAE-B412-26AA55055FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Inheritance", "OOP_Inheritance\OOP_Inheritance.csproj", "{328ABCB9-9403-48E2-9EBF-547F489F71C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{5451A9EE-D0D2-4FAE-B412-26AA55055FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5451A9EE-D0D2-4FAE-B412-26AA55055FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5451A9EE-D0D2-4FAE-B412-26AA55055FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328ABCB9-9403-48E2-9EBF-547F489F71C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328ABCB9-9403-48E2-9EBF-547F489F71C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328ABCB9-9403-48E2-9EBF-547F489F71C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328ABCB9-9403-48E2-9EBF-547F489F71C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
