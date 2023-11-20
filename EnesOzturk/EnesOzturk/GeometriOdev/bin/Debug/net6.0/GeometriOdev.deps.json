@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GeometriOdev/1.0.0": {
+        "runtime": {
+          "GeometriOdev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeometriOdev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

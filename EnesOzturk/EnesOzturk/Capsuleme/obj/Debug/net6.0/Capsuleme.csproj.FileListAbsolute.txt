@@ -1,0 +1,14 @@
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\Capsuleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\Capsuleme.AssemblyInfoInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\Capsuleme.AssemblyInfo.cs
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\Capsuleme.csproj.CoreCompileInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\bin\Debug\net6.0\Capsuleme.exe
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\bin\Debug\net6.0\Capsuleme.deps.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\bin\Debug\net6.0\Capsuleme.runtimeconfig.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\bin\Debug\net6.0\Capsuleme.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\bin\Debug\net6.0\Capsuleme.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\Capsuleme.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\refint\Capsuleme.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\Capsuleme.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\Capsuleme.genruntimeconfig.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\ref\Capsuleme.dll
