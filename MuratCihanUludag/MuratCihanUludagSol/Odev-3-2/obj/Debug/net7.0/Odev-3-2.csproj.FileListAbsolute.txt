@@ -1,0 +1,14 @@
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\bin\Debug\net7.0\Odev-3-2.exe
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\bin\Debug\net7.0\Odev-3-2.deps.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\bin\Debug\net7.0\Odev-3-2.runtimeconfig.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\bin\Debug\net7.0\Odev-3-2.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\bin\Debug\net7.0\Odev-3-2.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\obj\Debug\net7.0\Odev-3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\obj\Debug\net7.0\Odev-3-2.AssemblyInfoInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\obj\Debug\net7.0\Odev-3-2.AssemblyInfo.cs
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\obj\Debug\net7.0\Odev-3-2.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\obj\Debug\net7.0\Odev-3-2.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\obj\Debug\net7.0\refint\Odev-3-2.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\obj\Debug\net7.0\Odev-3-2.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\obj\Debug\net7.0\Odev-3-2.genruntimeconfig.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-3-2\obj\Debug\net7.0\ref\Odev-3-2.dll
