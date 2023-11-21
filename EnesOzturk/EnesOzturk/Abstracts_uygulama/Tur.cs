@@ -31,8 +31,12 @@ namespace Abstracts_uygulama
             Console.WriteLine("aile");
         }
         public abstract void FamilyaGoster();
-        
 
-       
+        public override string ToString()
+        {
+            return Familya + Aile + CanliTuru;
+        }
+
+
     }
 }
