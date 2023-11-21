@@ -1,0 +1,14 @@
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\bin\Debug\net6.0\Odev4.exe
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\bin\Debug\net6.0\Odev4.deps.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\bin\Debug\net6.0\Odev4.runtimeconfig.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\bin\Debug\net6.0\Odev4.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\bin\Debug\net6.0\Odev4.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\obj\Debug\net6.0\Odev4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\obj\Debug\net6.0\Odev4.AssemblyInfoInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\obj\Debug\net6.0\Odev4.AssemblyInfo.cs
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\obj\Debug\net6.0\Odev4.csproj.CoreCompileInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\obj\Debug\net6.0\Odev4.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\obj\Debug\net6.0\refint\Odev4.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\obj\Debug\net6.0\Odev4.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\obj\Debug\net6.0\Odev4.genruntimeconfig.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev4\obj\Debug\net6.0\ref\Odev4.dll
