@@ -12,6 +12,11 @@ namespace calisan_bilgileri
         public string Soyad { get; set; }
         public int Yas { get; set; }
         public long TC { get; set;}
+
+        public override string ToString()
+        {
+            return Ad+" "+Soyad+" "+Yas+" "+TC;
+        }
     }
     
 }

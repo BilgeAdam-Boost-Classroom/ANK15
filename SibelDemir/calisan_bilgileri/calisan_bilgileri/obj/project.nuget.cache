@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "C1kV4V3uRI+Ixm6thtcQN80KTxkL7v+ZtkDhN7Xb4/vbycIHBmO4jsDbrHQgvQVOJV40oWR+d9/qdvZ0WnqO3A==",
+  "success": true,
+  "projectFilePath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\calisan_bilgileri\\calisan_bilgileri\\calisan_bilgileri.csproj",
+=======
   "dgSpecHash": "kwnELyaz01QloeHwlj8uZcIOT07AlJN9ckJgj4n9TeRqnkkWIOl0Lt4Io1/43E0RiSSO0s0ml3adsmmhI1lK4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\calisan_bilgileri\\calisan_bilgileri\\calisan_bilgileri.csproj",
+>>>>>>> c9d9bc6e303a0e09cd56d585a5dd4b11b6962a81
   "expectedPackageFiles": [],
   "logs": []
 }
