@@ -1,0 +1,14 @@
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\bin\Debug\net6.0\Odev4.exe
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\bin\Debug\net6.0\Odev4.deps.json
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\bin\Debug\net6.0\Odev4.runtimeconfig.json
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\bin\Debug\net6.0\Odev4.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\bin\Debug\net6.0\Odev4.pdb
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\obj\Debug\net6.0\Odev4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\obj\Debug\net6.0\Odev4.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\obj\Debug\net6.0\Odev4.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\obj\Debug\net6.0\Odev4.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\obj\Debug\net6.0\Odev4.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\obj\Debug\net6.0\refint\Odev4.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\obj\Debug\net6.0\Odev4.pdb
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\obj\Debug\net6.0\Odev4.genruntimeconfig.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev4\obj\Debug\net6.0\ref\Odev4.dll
