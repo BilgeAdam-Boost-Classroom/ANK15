@@ -12,3 +12,18 @@ C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev3_2\obj\Debug\net6.0\refi
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev3_2\obj\Debug\net6.0\Odev3_2.pdb
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev3_2\obj\Debug\net6.0\Odev3_2.genruntimeconfig.cache
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev3_2\obj\Debug\net6.0\ref\Odev3_2.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\bin\Debug\net6.0\Odev3_2.exe
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\bin\Debug\net6.0\Odev3_2.deps.json
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\bin\Debug\net6.0\Odev3_2.runtimeconfig.json
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\bin\Debug\net6.0\Odev3_2.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\bin\Debug\net6.0\Odev3_2.pdb
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\obj\Debug\net6.0\Odev3_2.csproj.AssemblyReference.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\obj\Debug\net6.0\Odev3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\obj\Debug\net6.0\Odev3_2.AssemblyInfoInputs.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\obj\Debug\net6.0\Odev3_2.AssemblyInfo.cs
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\obj\Debug\net6.0\Odev3_2.csproj.CoreCompileInputs.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\obj\Debug\net6.0\Odev3_2.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\obj\Debug\net6.0\refint\Odev3_2.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\obj\Debug\net6.0\Odev3_2.pdb
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\obj\Debug\net6.0\Odev3_2.genruntimeconfig.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3_2\obj\Debug\net6.0\ref\Odev3_2.dll
