@@ -8,7 +8,11 @@ namespace Inheritance
 {
     public class Akademisyen : Kisi
     {
-        public List<string> Makaleler { get; set; }
+        public Akademisyen(string ad, string soyad) : base(ad, soyad)
+        {
+
+        }
+        public List<string> Makaleler { get; set; } = new List<string>();
         public void MakaleGoster()
         {
             Console.WriteLine(Makaleler);

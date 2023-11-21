@@ -8,6 +8,10 @@ namespace Inheritance
 {
     public class IdariPersonel : Kisi
     {
+        public IdariPersonel(string ad, string soyad) : base(ad, soyad)
+        {
+
+        }
         public string Birimi { get; set; }
     }
 }

@@ -27,7 +27,34 @@
             dikdortgen.Yukseklik = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Çevre = " + dikdortgen.CevreHesapla());
             Console.WriteLine("Alan = " + dikdortgen.AlanHesapla());
+            
+            Thread.Sleep(2000);
             Console.Clear();
+
+            Akademisyen akademisyen = new Akademisyen("Caner", "Özdemir");
+            Ogrenci ogrenci = new Ogrenci("Burak", "Akyıl");
+            IdariPersonel idariPersonel = new IdariPersonel("Sadettin", "Akyıl");
+
+            ogrenci.Bolum = "Mühendislik";
+            ogrenci.DersEkle("Termodinamik");
+            ogrenci.DersEkle("Matematik");
+
+            idariPersonel.Birimi = "IT";
+
+            akademisyen.MakaleEkle("Araştırma 1");
+            akademisyen.MakaleEkle("Araştırma 2");
+
+            foreach (var makale in akademisyen.Makaleler)
+            {
+                Console.WriteLine(makale);
+            }
+            Console.WriteLine("-----------------");
+            foreach (var ders in ogrenci.Dersler)
+            {
+                Console.WriteLine(ders);
+            }
+
+
 
         }
     }

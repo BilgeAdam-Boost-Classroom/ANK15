@@ -8,12 +8,12 @@ namespace Inheritance
 {
     public class Ogrenci : Kisi
     {
-        public Ogrenci()
+        public Ogrenci(string ad, string soyad) : base(ad, soyad)
         {
-            Dersler = new List<string>();
+            
         }
         public string Bolum { get; set; }
-        public List<string> Dersler { get; set; }
+        public List<string> Dersler { get; set; } = new List<string>();
 
         public void DersEkle(string ders)
         {
