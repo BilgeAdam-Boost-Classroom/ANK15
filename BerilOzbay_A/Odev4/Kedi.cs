@@ -8,6 +8,10 @@ namespace Odev4
 {
     internal class Kedi : Canli
     {
+        public Kedi(string ad, string yas) : base(ad,yas)
+        {
+            
+        }
         public override void SesCikar()
         {
             Console.WriteLine("Kedi");
