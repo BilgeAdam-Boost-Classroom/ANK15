@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\odev3SonSoru\\odev3SonSoru.csproj": {}
+    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\odev3SonSoru\\odev3SonSoru.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\odev3SonSoru\\odev3SonSoru.csproj": {
+    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\odev3SonSoru\\odev3SonSoru.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\odev3SonSoru\\odev3SonSoru.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\odev3SonSoru\\odev3SonSoru.csproj",
         "projectName": "odev3SonSoru",
-        "projectPath": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\odev3SonSoru\\odev3SonSoru.csproj",
+        "projectPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\odev3SonSoru\\odev3SonSoru.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\odev3SonSoru\\obj\\",
+        "outputPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\odev3SonSoru\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oztur\\AppData\\Roaming\\NuGet\\NuGet.Config",

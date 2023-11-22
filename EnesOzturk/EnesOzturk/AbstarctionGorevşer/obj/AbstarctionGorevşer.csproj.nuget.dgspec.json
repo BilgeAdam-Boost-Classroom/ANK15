@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\AbstarctionGorevşer\\AbstarctionGorevşer.csproj": {}
+    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\AbstarctionGorevşer\\AbstarctionGorevşer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\AbstarctionGorevşer\\AbstarctionGorevşer.csproj": {
+    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\AbstarctionGorevşer\\AbstarctionGorevşer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\AbstarctionGorevşer\\AbstarctionGorevşer.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\AbstarctionGorevşer\\AbstarctionGorevşer.csproj",
         "projectName": "AbstarctionGorevşer",
-        "projectPath": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\AbstarctionGorevşer\\AbstarctionGorevşer.csproj",
+        "projectPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\AbstarctionGorevşer\\AbstarctionGorevşer.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\AbstarctionGorevşer\\obj\\",
+        "outputPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\AbstarctionGorevşer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oztur\\AppData\\Roaming\\NuGet\\NuGet.Config",

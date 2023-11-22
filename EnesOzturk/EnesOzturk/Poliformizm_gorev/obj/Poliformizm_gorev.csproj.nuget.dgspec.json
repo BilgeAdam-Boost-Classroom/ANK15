@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Capsuleme\\Capsuleme.csproj": {}
+    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Capsuleme\\Capsuleme.csproj": {
+    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Capsuleme\\Capsuleme.csproj",
-        "projectName": "Capsuleme",
-        "projectPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Capsuleme\\Capsuleme.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj",
+        "projectName": "Poliformizm_gorev",
+        "projectPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Capsuleme\\obj\\",
+        "outputPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oztur\\AppData\\Roaming\\NuGet\\NuGet.Config",
