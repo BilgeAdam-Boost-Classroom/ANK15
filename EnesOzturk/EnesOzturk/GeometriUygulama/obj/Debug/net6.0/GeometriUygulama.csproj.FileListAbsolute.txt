@@ -1,0 +1,14 @@
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\bin\Debug\net6.0\GeometriUygulama.exe
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\bin\Debug\net6.0\GeometriUygulama.deps.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\bin\Debug\net6.0\GeometriUygulama.runtimeconfig.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\bin\Debug\net6.0\GeometriUygulama.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\bin\Debug\net6.0\GeometriUygulama.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\GeometriUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\GeometriUygulama.AssemblyInfoInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\GeometriUygulama.AssemblyInfo.cs
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\GeometriUygulama.csproj.CoreCompileInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\GeometriUygulama.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\refint\GeometriUygulama.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\GeometriUygulama.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\GeometriUygulama.genruntimeconfig.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\ref\GeometriUygulama.dll

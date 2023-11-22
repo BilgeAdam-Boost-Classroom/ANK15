@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometriOdev", "GeometriOde
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "renkdegistirme", "renkdegistirme\renkdegistirme.csproj", "{D03ABB3E-EA5E-4847-BA8A-3F6397CEF839}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev4", "Odev4\Odev4.csproj", "{8A200884-09FE-4DFF-97F6-8655F0CF98F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev4", "Odev4\Odev4.csproj", "{8A200884-09FE-4DFF-97F6-8655F0CF98F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometriUygulama", "GeometriUygulama\GeometriUygulama.csproj", "{FAF6DFD2-5775-475B-883C-6BD71868BB0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstarctionGorevşer", "AbstarctionGorevşer\AbstarctionGorevşer.csproj", "{06C09B17-F183-4C1A-A8B6-E439F4EADA3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{8A200884-09FE-4DFF-97F6-8655F0CF98F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A200884-09FE-4DFF-97F6-8655F0CF98F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A200884-09FE-4DFF-97F6-8655F0CF98F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF6DFD2-5775-475B-883C-6BD71868BB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF6DFD2-5775-475B-883C-6BD71868BB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF6DFD2-5775-475B-883C-6BD71868BB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF6DFD2-5775-475B-883C-6BD71868BB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C09B17-F183-4C1A-A8B6-E439F4EADA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C09B17-F183-4C1A-A8B6-E439F4EADA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C09B17-F183-4C1A-A8B6-E439F4EADA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C09B17-F183-4C1A-A8B6-E439F4EADA3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
