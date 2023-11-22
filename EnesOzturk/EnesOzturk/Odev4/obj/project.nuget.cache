@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "IWxJ3QMUPMWGtspB2eRLxKGh5pRuG6HSyE4YmDnOEiv5k71T9MNAynNgmCl/6hqYNdUQSHrkUo4s3qKPoBBcAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Odev4\\Odev4.csproj",
-=======
-  "dgSpecHash": "lkVgQu0ejC7gBLcPoHQUIBcWk/5FVCVlwQtYuSUZOPKV++8V35dFvVeCNNcAJVQ6Mgyx7EpqwbAf/pllPYrkAA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Odev4\\Odev4.csproj",
->>>>>>> 659789bbd8c29f521144cbd92c7a5b488599f18e
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Odev4\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

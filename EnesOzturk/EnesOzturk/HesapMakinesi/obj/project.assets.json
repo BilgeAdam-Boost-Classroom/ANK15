@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\enes.ozturk\\.nuget\\packages\\": {}
+    "C:\\Users\\oztur\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj",
+      "projectUniqueName": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj",
       "projectName": "HesapMakinesi",
-      "projectPath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj",
-      "packagesPath": "C:\\Users\\enes.ozturk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\obj\\",
+      "projectPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj",
+      "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\enes.ozturk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oztur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,8 +61,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
