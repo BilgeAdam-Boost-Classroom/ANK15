@@ -10,12 +10,12 @@ namespace Tur_bilgisi
     {
         public override void FamilyaGoster()
         {
-            Console.WriteLine("familya");
+            Console.WriteLine("Hominidae");
         }
         public override void TurGoster()
         {
             base.TurGoster();
-            Console.WriteLine(" canlı türü");
+            Console.WriteLine("Homo sapiens");
         }
     }
 }
