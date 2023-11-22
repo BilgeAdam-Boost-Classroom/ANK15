@@ -17,15 +17,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "renkdegistirme", "renkdegis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev4", "Odev4\Odev4.csproj", "{8A200884-09FE-4DFF-97F6-8655F0CF98F9}"
 EndProject
-<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometriUygulama", "GeometriUygulama\GeometriUygulama.csproj", "{FAF6DFD2-5775-475B-883C-6BD71868BB0B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstarctionGorevşer", "AbstarctionGorevşer\AbstarctionGorevşer.csproj", "{06C09B17-F183-4C1A-A8B6-E439F4EADA3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poliformizm_gorev", "Poliformizm_gorev\Poliformizm_gorev.csproj", "{C541CB5F-13B2-4776-9376-B02B780FC2E2}"
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstracts_uygulama", "Abstracts_uygulama\Abstracts_uygulama.csproj", "{DDE759CF-F345-4F31-BAAC-999D285AAA60}"
->>>>>>> 659789bbd8c29f521144cbd92c7a5b488599f18e
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poliformizm_gorev", "Poliformizm_gorev\Poliformizm_gorev.csproj", "{C541CB5F-13B2-4776-9376-B02B780FC2E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstracts_uygulama", "Abstracts_uygulama\Abstracts_uygulama.csproj", "{DDE759CF-F345-4F31-BAAC-999D285AAA60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odev_4poliformizm", "odev_4poliformizm\odev_4poliformizm.csproj", "{7710A893-07A1-4175-AC4F-C7C95A91CFF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,7 +61,6 @@ Global
 		{8A200884-09FE-4DFF-97F6-8655F0CF98F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A200884-09FE-4DFF-97F6-8655F0CF98F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A200884-09FE-4DFF-97F6-8655F0CF98F9}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
 		{FAF6DFD2-5775-475B-883C-6BD71868BB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FAF6DFD2-5775-475B-883C-6BD71868BB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAF6DFD2-5775-475B-883C-6BD71868BB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -74,12 +73,14 @@ Global
 		{C541CB5F-13B2-4776-9376-B02B780FC2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C541CB5F-13B2-4776-9376-B02B780FC2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C541CB5F-13B2-4776-9376-B02B780FC2E2}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
 		{DDE759CF-F345-4F31-BAAC-999D285AAA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DDE759CF-F345-4F31-BAAC-999D285AAA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDE759CF-F345-4F31-BAAC-999D285AAA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDE759CF-F345-4F31-BAAC-999D285AAA60}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> 659789bbd8c29f521144cbd92c7a5b488599f18e
+		{7710A893-07A1-4175-AC4F-C7C95A91CFF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7710A893-07A1-4175-AC4F-C7C95A91CFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7710A893-07A1-4175-AC4F-C7C95A91CFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7710A893-07A1-4175-AC4F-C7C95A91CFF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
