@@ -1,0 +1,14 @@
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\bin\Debug\net7.0\GeometrikSekil.exe
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\bin\Debug\net7.0\GeometrikSekil.deps.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\bin\Debug\net7.0\GeometrikSekil.runtimeconfig.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\bin\Debug\net7.0\GeometrikSekil.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\bin\Debug\net7.0\GeometrikSekil.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\obj\Debug\net7.0\GeometrikSekil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\obj\Debug\net7.0\GeometrikSekil.AssemblyInfoInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\obj\Debug\net7.0\GeometrikSekil.AssemblyInfo.cs
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\obj\Debug\net7.0\GeometrikSekil.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\obj\Debug\net7.0\GeometrikSekil.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\obj\Debug\net7.0\refint\GeometrikSekil.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\obj\Debug\net7.0\GeometrikSekil.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\obj\Debug\net7.0\GeometrikSekil.genruntimeconfig.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\GeometrikSekil\obj\Debug\net7.0\ref\GeometrikSekil.dll

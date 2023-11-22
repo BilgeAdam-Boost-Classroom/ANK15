@@ -1,0 +1,14 @@
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\bin\Debug\net7.0\21_01_2023.exe
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\bin\Debug\net7.0\21_01_2023.deps.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\bin\Debug\net7.0\21_01_2023.runtimeconfig.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\bin\Debug\net7.0\21_01_2023.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\bin\Debug\net7.0\21_01_2023.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\obj\Debug\net7.0\21_01_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\obj\Debug\net7.0\21_01_2023.AssemblyInfoInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\obj\Debug\net7.0\21_01_2023.AssemblyInfo.cs
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\obj\Debug\net7.0\21_01_2023.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\obj\Debug\net7.0\21_01_2023.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\obj\Debug\net7.0\refint\21_01_2023.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\obj\Debug\net7.0\21_01_2023.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\obj\Debug\net7.0\21_01_2023.genruntimeconfig.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\21_01_2023\obj\Debug\net7.0\ref\21_01_2023.dll

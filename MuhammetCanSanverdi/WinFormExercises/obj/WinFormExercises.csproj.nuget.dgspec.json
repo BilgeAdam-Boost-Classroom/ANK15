@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj": {}
+    "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj": {
+    "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj",
+        "projectUniqueName": "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj",
         "projectName": "WinFormExercises",
-        "projectPath": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj",
-        "packagesPath": "C:\\Users\\muham_9lszvft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\obj\\",
+        "projectPath": "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj",
+        "packagesPath": "C:\\Users\\Cihan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\muham_9lszvft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,0 +1,14 @@
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\bin\Debug\net7.0\Odev-A-5.exe
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\bin\Debug\net7.0\Odev-A-5.deps.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\bin\Debug\net7.0\Odev-A-5.runtimeconfig.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\bin\Debug\net7.0\Odev-A-5.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\bin\Debug\net7.0\Odev-A-5.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\obj\Debug\net7.0\Odev-A-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\obj\Debug\net7.0\Odev-A-5.AssemblyInfoInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\obj\Debug\net7.0\Odev-A-5.AssemblyInfo.cs
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\obj\Debug\net7.0\Odev-A-5.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\obj\Debug\net7.0\Odev-A-5.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\obj\Debug\net7.0\refint\Odev-A-5.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\obj\Debug\net7.0\Odev-A-5.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\obj\Debug\net7.0\Odev-A-5.genruntimeconfig.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-A-5\obj\Debug\net7.0\ref\Odev-A-5.dll
