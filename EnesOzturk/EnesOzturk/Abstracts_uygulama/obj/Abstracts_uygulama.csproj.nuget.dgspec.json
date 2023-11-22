@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Abstracts_uygulama\\Abstracts_uygulama.csproj": {}
+    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Abstracts_uygulama\\Abstracts_uygulama.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Abstracts_uygulama\\Abstracts_uygulama.csproj": {
+    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Abstracts_uygulama\\Abstracts_uygulama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Abstracts_uygulama\\Abstracts_uygulama.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Abstracts_uygulama\\Abstracts_uygulama.csproj",
         "projectName": "Abstracts_uygulama",
-        "projectPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Abstracts_uygulama\\Abstracts_uygulama.csproj",
+        "projectPath": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Abstracts_uygulama\\Abstracts_uygulama.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Abstracts_uygulama\\obj\\",
         "projectStyle": "PackageReference",

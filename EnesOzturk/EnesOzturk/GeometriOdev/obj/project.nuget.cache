@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Ng7n8XuLFkGQ2a8rYmw7Gqy29iEhBLPf8hehOF/ZQBIhkJY6JlBzThvsgC8OZkEX/8hh535mRP9R3BHRbIgtQ==",
+  "dgSpecHash": "17iWPktntNMRC5M5e0/fWYRrQqFXonRRrL3TT4qwyfiVVr3kk3mYfmvUK//wpFXxK+hzYKy9TlTFEbOrAumweQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj",
+  "projectFilePath": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

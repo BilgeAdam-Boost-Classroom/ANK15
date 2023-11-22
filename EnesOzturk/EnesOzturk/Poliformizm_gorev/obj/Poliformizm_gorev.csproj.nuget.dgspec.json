@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj": {}
+    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj": {
+    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj",
         "projectName": "Poliformizm_gorev",
-        "projectPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj",
+        "projectPath": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\Poliformizm_gorev.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Poliformizm_gorev\\obj\\",
         "projectStyle": "PackageReference",

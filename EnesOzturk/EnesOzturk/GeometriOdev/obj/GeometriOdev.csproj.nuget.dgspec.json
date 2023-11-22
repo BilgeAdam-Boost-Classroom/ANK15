@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj": {}
+    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj": {
+    "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj",
         "projectName": "GeometriOdev",
-        "projectPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj",
+        "projectPath": "C:\\Users\\oztur\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\obj\\",
         "projectStyle": "PackageReference",
