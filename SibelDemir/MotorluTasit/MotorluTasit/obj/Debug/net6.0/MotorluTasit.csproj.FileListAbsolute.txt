@@ -1,0 +1,14 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\bin\Debug\net6.0\MotorluTasit.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\bin\Debug\net6.0\MotorluTasit.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\bin\Debug\net6.0\MotorluTasit.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\bin\Debug\net6.0\MotorluTasit.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\bin\Debug\net6.0\MotorluTasit.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\obj\Debug\net6.0\MotorluTasit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\obj\Debug\net6.0\MotorluTasit.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\obj\Debug\net6.0\MotorluTasit.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\obj\Debug\net6.0\MotorluTasit.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\obj\Debug\net6.0\MotorluTasit.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\obj\Debug\net6.0\refint\MotorluTasit.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\obj\Debug\net6.0\MotorluTasit.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\obj\Debug\net6.0\MotorluTasit.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\MotorluTasit\MotorluTasit\obj\Debug\net6.0\ref\MotorluTasit.dll

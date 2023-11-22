@@ -17,7 +17,7 @@ namespace Tur_bilgisi
         }
         public void AileGoster()
         {
-            Console.WriteLine("aile goster");
+            Console.WriteLine("Babayiğit Ailesi");
         }
         public abstract void FamilyaGoster();
     }
