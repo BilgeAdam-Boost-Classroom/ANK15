@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Abstracts_uygulama/1.0.0": {
+        "runtime": {
+          "Abstracts_uygulama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstracts_uygulama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

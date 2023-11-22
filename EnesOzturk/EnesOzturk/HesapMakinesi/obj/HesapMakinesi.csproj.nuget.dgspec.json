@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\obj\\",
+=======
+    "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj",
+        "projectName": "HesapMakinesi",
+        "projectPath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj",
+        "packagesPath": "C:\\Users\\enes.ozturk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\obj\\",
+>>>>>>> 659789bbd8c29f521144cbd92c7a5b488599f18e
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\oztur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\enes.ozturk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +59,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "UFWWO2Pya0x0D5y1JM1H3crbNmdTqgymjJcIvmchyCtFj6mzRYdkhLxBiPL9JP31qDWSlhQixMuYnkLa08qQwg==",
   "success": true,
   "projectFilePath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Capsuleme\\Capsuleme.csproj",
+=======
+  "dgSpecHash": "aHo56FK5kfdd3mUZLOlpvbAaj79vREu/9YW1R3h0P28pV8aq4hZygy75ydr77dc/BFijn03IN2hKmaCoD333rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\Capsuleme\\Capsuleme.csproj",
+>>>>>>> 659789bbd8c29f521144cbd92c7a5b488599f18e
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "z71LAfhv1/M9FbQfzJaWFtvCnNe55aXSCLGy9XoPYEIMeWFGyigW25mV6SHipDSAQdXXRYc3qYAJbD390wAxAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj",
+=======
+  "dgSpecHash": "ndrGrIrNFWnKNsPsMLCAHw5XCjvr8PyHmu8c1uemlqUpWamLQlQu4w+P+G784l1ui8SjK+shb1eHisgpYazb5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\HesapMakinesi\\HesapMakinesi.csproj",
+>>>>>>> 659789bbd8c29f521144cbd92c7a5b488599f18e
   "expectedPackageFiles": [],
   "logs": []
 }

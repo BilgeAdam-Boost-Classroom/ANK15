@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "/Ng7n8XuLFkGQ2a8rYmw7Gqy29iEhBLPf8hehOF/ZQBIhkJY6JlBzThvsgC8OZkEX/8hh535mRP9R3BHRbIgtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\oztur\\source\\repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj",
+=======
+  "dgSpecHash": "hd0nMBpambEoJBPfX2MekrJs1gJ2j8behLKnP3yIZlti1SaqDWPxP1R7U04SHLzlxxHh7ZZlxIeUi4K/QoFVVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enes.ozturk\\Source\\Repos\\ANK15AP\\EnesOzturk\\EnesOzturk\\GeometriOdev\\GeometriOdev.csproj",
+>>>>>>> 659789bbd8c29f521144cbd92c7a5b488599f18e
   "expectedPackageFiles": [],
   "logs": []
 }

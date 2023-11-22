@@ -1,0 +1,15 @@
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\bin\Debug\net6.0\Abstracts_uygulama.exe
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\bin\Debug\net6.0\Abstracts_uygulama.deps.json
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\bin\Debug\net6.0\Abstracts_uygulama.runtimeconfig.json
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\bin\Debug\net6.0\Abstracts_uygulama.dll
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\bin\Debug\net6.0\Abstracts_uygulama.pdb
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\obj\Debug\net6.0\Abstracts_uygulama.csproj.AssemblyReference.cache
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\obj\Debug\net6.0\Abstracts_uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\obj\Debug\net6.0\Abstracts_uygulama.AssemblyInfoInputs.cache
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\obj\Debug\net6.0\Abstracts_uygulama.AssemblyInfo.cs
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\obj\Debug\net6.0\Abstracts_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\obj\Debug\net6.0\Abstracts_uygulama.dll
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\obj\Debug\net6.0\refint\Abstracts_uygulama.dll
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\obj\Debug\net6.0\Abstracts_uygulama.pdb
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\obj\Debug\net6.0\Abstracts_uygulama.genruntimeconfig.cache
+C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Abstracts_uygulama\obj\Debug\net6.0\ref\Abstracts_uygulama.dll
