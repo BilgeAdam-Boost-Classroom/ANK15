@@ -12,3 +12,18 @@ C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev5\obj\Debug\net6.0\refint
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev5\obj\Debug\net6.0\Odev5.pdb
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev5\obj\Debug\net6.0\Odev5.genruntimeconfig.cache
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Odev5\obj\Debug\net6.0\ref\Odev5.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\bin\Debug\net6.0\Odev5.exe
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\bin\Debug\net6.0\Odev5.deps.json
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\bin\Debug\net6.0\Odev5.runtimeconfig.json
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\bin\Debug\net6.0\Odev5.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\bin\Debug\net6.0\Odev5.pdb
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\obj\Debug\net6.0\Odev5.csproj.AssemblyReference.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\obj\Debug\net6.0\Odev5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\obj\Debug\net6.0\Odev5.AssemblyInfoInputs.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\obj\Debug\net6.0\Odev5.AssemblyInfo.cs
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\obj\Debug\net6.0\Odev5.csproj.CoreCompileInputs.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\obj\Debug\net6.0\Odev5.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\obj\Debug\net6.0\refint\Odev5.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\obj\Debug\net6.0\Odev5.pdb
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\obj\Debug\net6.0\Odev5.genruntimeconfig.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev5\obj\Debug\net6.0\ref\Odev5.dll
