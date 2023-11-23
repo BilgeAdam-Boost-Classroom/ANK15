@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\MotorluTasit\\MotorluTasit\\MotorluTasit.csproj",
-      "projectName": "MotorluTasit",
-      "projectPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\MotorluTasit\\MotorluTasit\\MotorluTasit.csproj",
+      "projectUniqueName": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\EnumUygulama\\EnumUygulama\\EnumUygulama.csproj",
+      "projectName": "EnumUygulama",
+      "projectPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\EnumUygulama\\EnumUygulama\\EnumUygulama.csproj",
       "packagesPath": "C:\\Users\\sibel.babayigit\\.nuget\\packages\\",
-      "outputPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\MotorluTasit\\MotorluTasit\\obj\\",
+      "outputPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\EnumUygulama\\EnumUygulama\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sibel.babayigit\\AppData\\Roaming\\NuGet\\NuGet.Config",
