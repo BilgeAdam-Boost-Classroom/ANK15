@@ -8,7 +8,7 @@ namespace Odev5
 {
     internal class MotorluTasit
     {
-        public void Git()
+        public virtual void Git()
         {
             Console.WriteLine("Moturlu Taşıt gidiyor...");
         }

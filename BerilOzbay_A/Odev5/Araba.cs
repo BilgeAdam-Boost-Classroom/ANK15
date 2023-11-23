@@ -8,7 +8,7 @@ namespace Odev5
 {
     internal class Araba : MotorluTasit
     {
-        public void Git()
+        public override void Git()
         {
             Console.WriteLine("Araba gidiyor...");
         }
