@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev6", "Odev6\Odev6.csproj", "{4880921E-4F37-4357-9081-CCD78989FB87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumPersonel", "EnumPersonel\EnumPersonel.csproj", "{A89EA69B-BEDB-4815-B6B3-6D6879BEB636}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumPersonel", "EnumPersonel\EnumPersonel.csproj", "{A89EA69B-BEDB-4815-B6B3-6D6879BEB636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClass", "StaticClass\StaticClass.csproj", "{1286DA4B-0CC0-4034-9FF7-DD4FE2F85110}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{A89EA69B-BEDB-4815-B6B3-6D6879BEB636}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A89EA69B-BEDB-4815-B6B3-6D6879BEB636}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A89EA69B-BEDB-4815-B6B3-6D6879BEB636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1286DA4B-0CC0-4034-9FF7-DD4FE2F85110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1286DA4B-0CC0-4034-9FF7-DD4FE2F85110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1286DA4B-0CC0-4034-9FF7-DD4FE2F85110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1286DA4B-0CC0-4034-9FF7-DD4FE2F85110}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
