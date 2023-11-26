@@ -1,0 +1,16 @@
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\bin\Debug\net7.0-windows\Odev_A_6.exe
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\bin\Debug\net7.0-windows\Odev_A_6.deps.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\bin\Debug\net7.0-windows\Odev_A_6.runtimeconfig.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\bin\Debug\net7.0-windows\Odev_A_6.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\bin\Debug\net7.0-windows\Odev_A_6.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\obj\Debug\net7.0-windows\Odev_A_6.Form1.resources
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\obj\Debug\net7.0-windows\Odev_A_6.csproj.GenerateResource.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\obj\Debug\net7.0-windows\Odev_A_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\obj\Debug\net7.0-windows\Odev_A_6.AssemblyInfoInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\obj\Debug\net7.0-windows\Odev_A_6.AssemblyInfo.cs
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\obj\Debug\net7.0-windows\Odev_A_6.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\obj\Debug\net7.0-windows\Odev_A_6.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\obj\Debug\net7.0-windows\refint\Odev_A_6.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\obj\Debug\net7.0-windows\Odev_A_6.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\obj\Debug\net7.0-windows\Odev_A_6.genruntimeconfig.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev_A_6\obj\Debug\net7.0-windows\ref\Odev_A_6.dll
