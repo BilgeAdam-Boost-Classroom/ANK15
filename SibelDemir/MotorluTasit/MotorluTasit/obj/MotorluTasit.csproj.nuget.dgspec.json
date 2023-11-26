@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\MotorluTasit\\MotorluTasit\\MotorluTasit.csproj": {}
+    "C:\\Users\\halit\\Desktop\\Ank15 AT Yeni\\SibelDemir\\MotorluTasit\\MotorluTasit\\MotorluTasit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\MotorluTasit\\MotorluTasit\\MotorluTasit.csproj": {
+    "C:\\Users\\halit\\Desktop\\Ank15 AT Yeni\\SibelDemir\\MotorluTasit\\MotorluTasit\\MotorluTasit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\MotorluTasit\\MotorluTasit\\MotorluTasit.csproj",
+        "projectUniqueName": "C:\\Users\\halit\\Desktop\\Ank15 AT Yeni\\SibelDemir\\MotorluTasit\\MotorluTasit\\MotorluTasit.csproj",
         "projectName": "MotorluTasit",
-        "projectPath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\MotorluTasit\\MotorluTasit\\MotorluTasit.csproj",
-        "packagesPath": "C:\\Users\\Sibel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\MotorluTasit\\MotorluTasit\\obj\\",
+        "projectPath": "C:\\Users\\halit\\Desktop\\Ank15 AT Yeni\\SibelDemir\\MotorluTasit\\MotorluTasit\\MotorluTasit.csproj",
+        "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\halit\\Desktop\\Ank15 AT Yeni\\SibelDemir\\MotorluTasit\\MotorluTasit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sibel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\halit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
