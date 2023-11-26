@@ -1,0 +1,16 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\bin\Debug\net6.0-windows\ArabaFom.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\bin\Debug\net6.0-windows\ArabaFom.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\bin\Debug\net6.0-windows\ArabaFom.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\bin\Debug\net6.0-windows\ArabaFom.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\bin\Debug\net6.0-windows\ArabaFom.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\obj\Debug\net6.0-windows\ArabaFom.Form1.resources
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\obj\Debug\net6.0-windows\ArabaFom.csproj.GenerateResource.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\obj\Debug\net6.0-windows\ArabaFom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\obj\Debug\net6.0-windows\ArabaFom.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\obj\Debug\net6.0-windows\ArabaFom.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\obj\Debug\net6.0-windows\ArabaFom.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\obj\Debug\net6.0-windows\ArabaFom.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\obj\Debug\net6.0-windows\refint\ArabaFom.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\obj\Debug\net6.0-windows\ArabaFom.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\obj\Debug\net6.0-windows\ArabaFom.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\ArabaFom\ArabaFom\obj\Debug\net6.0-windows\ref\ArabaFom.dll

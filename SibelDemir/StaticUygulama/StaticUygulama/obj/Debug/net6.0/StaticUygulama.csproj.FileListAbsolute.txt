@@ -1,0 +1,14 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\bin\Debug\net6.0\StaticUygulama.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\bin\Debug\net6.0\StaticUygulama.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\bin\Debug\net6.0\StaticUygulama.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\bin\Debug\net6.0\StaticUygulama.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\bin\Debug\net6.0\StaticUygulama.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\obj\Debug\net6.0\StaticUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\obj\Debug\net6.0\StaticUygulama.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\obj\Debug\net6.0\StaticUygulama.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\obj\Debug\net6.0\StaticUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\obj\Debug\net6.0\StaticUygulama.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\obj\Debug\net6.0\refint\StaticUygulama.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\obj\Debug\net6.0\StaticUygulama.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\obj\Debug\net6.0\StaticUygulama.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\StaticUygulama\StaticUygulama\obj\Debug\net6.0\ref\StaticUygulama.dll
