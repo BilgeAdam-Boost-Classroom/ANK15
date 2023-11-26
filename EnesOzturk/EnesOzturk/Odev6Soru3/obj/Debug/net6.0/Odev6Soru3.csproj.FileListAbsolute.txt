@@ -1,0 +1,14 @@
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\bin\Debug\net6.0\Odev6Soru3.exe
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\bin\Debug\net6.0\Odev6Soru3.deps.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\bin\Debug\net6.0\Odev6Soru3.runtimeconfig.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\bin\Debug\net6.0\Odev6Soru3.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\bin\Debug\net6.0\Odev6Soru3.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\obj\Debug\net6.0\Odev6Soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\obj\Debug\net6.0\Odev6Soru3.AssemblyInfoInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\obj\Debug\net6.0\Odev6Soru3.AssemblyInfo.cs
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\obj\Debug\net6.0\Odev6Soru3.csproj.CoreCompileInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\obj\Debug\net6.0\Odev6Soru3.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\obj\Debug\net6.0\refint\Odev6Soru3.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\obj\Debug\net6.0\Odev6Soru3.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\obj\Debug\net6.0\Odev6Soru3.genruntimeconfig.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Odev6Soru3\obj\Debug\net6.0\ref\Odev6Soru3.dll

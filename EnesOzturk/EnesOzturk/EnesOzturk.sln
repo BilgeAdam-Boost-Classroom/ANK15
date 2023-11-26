@@ -27,6 +27,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstracts_uygulama", "Abstr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev_6", "Odev_6\Odev_6.csproj", "{8704ACC0-35F9-4A85-89E9-322090859A80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev_6Soru2", "Odev_6Soru2\Odev_6Soru2.csproj", "{334CBF87-1CB0-4476-9754-7D43B4BE2C0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev6Soru3", "Odev6Soru3\Odev6Soru3.csproj", "{AD2CEDA8-7BAD-4729-AA02-220FF7B26BAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{8704ACC0-35F9-4A85-89E9-322090859A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8704ACC0-35F9-4A85-89E9-322090859A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8704ACC0-35F9-4A85-89E9-322090859A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334CBF87-1CB0-4476-9754-7D43B4BE2C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334CBF87-1CB0-4476-9754-7D43B4BE2C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334CBF87-1CB0-4476-9754-7D43B4BE2C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334CBF87-1CB0-4476-9754-7D43B4BE2C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2CEDA8-7BAD-4729-AA02-220FF7B26BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2CEDA8-7BAD-4729-AA02-220FF7B26BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2CEDA8-7BAD-4729-AA02-220FF7B26BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2CEDA8-7BAD-4729-AA02-220FF7B26BAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
