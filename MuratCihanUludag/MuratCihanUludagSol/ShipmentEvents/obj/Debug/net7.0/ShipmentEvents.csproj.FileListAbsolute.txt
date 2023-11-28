@@ -1,0 +1,14 @@
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\bin\Debug\net7.0\ShipmentEvents.exe
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\bin\Debug\net7.0\ShipmentEvents.deps.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\bin\Debug\net7.0\ShipmentEvents.runtimeconfig.json
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\bin\Debug\net7.0\ShipmentEvents.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\bin\Debug\net7.0\ShipmentEvents.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\obj\Debug\net7.0\ShipmentEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\obj\Debug\net7.0\ShipmentEvents.AssemblyInfoInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\obj\Debug\net7.0\ShipmentEvents.AssemblyInfo.cs
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\obj\Debug\net7.0\ShipmentEvents.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\obj\Debug\net7.0\ShipmentEvents.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\obj\Debug\net7.0\refint\ShipmentEvents.dll
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\obj\Debug\net7.0\ShipmentEvents.pdb
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\obj\Debug\net7.0\ShipmentEvents.genruntimeconfig.cache
+C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\ShipmentEvents\obj\Debug\net7.0\ref\ShipmentEvents.dll

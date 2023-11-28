@@ -33,7 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinForms_23_11_2023", "WinF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp24_11_2023", "ConsoleApp24_11_2023\ConsoleApp24_11_2023.csproj", "{9DA2D728-9B83-44F4-B29D-1225419A4D18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev_A_6", "Odev_A_6\Odev_A_6.csproj", "{F557070B-E6C6-4FA1-85D4-C52EE9E9FB23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev_A_6", "Odev_A_6\Odev_A_6.csproj", "{F557070B-E6C6-4FA1-85D4-C52EE9E9FB23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_27_11_2023", "Delegate_27_11_2023\Delegate_27_11_2023.csproj", "{101FF8C5-0C00-4E01-8C3E-9BF36DD60D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipmentEvents", "ShipmentEvents\ShipmentEvents.csproj", "{C6B916E5-FD96-4127-B488-5053F2573A13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{F557070B-E6C6-4FA1-85D4-C52EE9E9FB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F557070B-E6C6-4FA1-85D4-C52EE9E9FB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F557070B-E6C6-4FA1-85D4-C52EE9E9FB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101FF8C5-0C00-4E01-8C3E-9BF36DD60D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101FF8C5-0C00-4E01-8C3E-9BF36DD60D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101FF8C5-0C00-4E01-8C3E-9BF36DD60D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101FF8C5-0C00-4E01-8C3E-9BF36DD60D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B916E5-FD96-4127-B488-5053F2573A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B916E5-FD96-4127-B488-5053F2573A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B916E5-FD96-4127-B488-5053F2573A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B916E5-FD96-4127-B488-5053F2573A13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
