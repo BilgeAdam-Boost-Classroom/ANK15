@@ -1,0 +1,14 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\bin\Debug\net6.0\Tur_bilgisi.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\bin\Debug\net6.0\Tur_bilgisi.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\bin\Debug\net6.0\Tur_bilgisi.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\bin\Debug\net6.0\Tur_bilgisi.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\bin\Debug\net6.0\Tur_bilgisi.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\obj\Debug\net6.0\Tur_bilgisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\obj\Debug\net6.0\Tur_bilgisi.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\obj\Debug\net6.0\Tur_bilgisi.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\obj\Debug\net6.0\Tur_bilgisi.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\obj\Debug\net6.0\Tur_bilgisi.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\obj\Debug\net6.0\refint\Tur_bilgisi.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\obj\Debug\net6.0\Tur_bilgisi.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\obj\Debug\net6.0\Tur_bilgisi.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Tur_bilgisi\Tur_bilgisi\obj\Debug\net6.0\ref\Tur_bilgisi.dll

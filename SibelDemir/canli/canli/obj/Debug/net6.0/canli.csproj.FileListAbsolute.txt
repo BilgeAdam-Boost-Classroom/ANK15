@@ -1,0 +1,29 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\bin\Debug\net6.0\canli.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\bin\Debug\net6.0\canli.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\bin\Debug\net6.0\canli.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\bin\Debug\net6.0\canli.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\bin\Debug\net6.0\canli.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\refint\canli.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\ref\canli.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\bin\Debug\net6.0\canli.exe
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\bin\Debug\net6.0\canli.deps.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\bin\Debug\net6.0\canli.runtimeconfig.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\bin\Debug\net6.0\canli.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\bin\Debug\net6.0\canli.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.csproj.AssemblyReference.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.GeneratedMSBuildEditorConfig.editorconfig
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.AssemblyInfoInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.AssemblyInfo.cs
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.csproj.CoreCompileInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\refint\canli.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\canli.genruntimeconfig.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\canli\canli\obj\Debug\net6.0\ref\canli.dll

@@ -1,0 +1,14 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\bin\Debug\net6.0\Bina_Bilgisi.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\bin\Debug\net6.0\Bina_Bilgisi.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\bin\Debug\net6.0\Bina_Bilgisi.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\bin\Debug\net6.0\Bina_Bilgisi.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\bin\Debug\net6.0\Bina_Bilgisi.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\obj\Debug\net6.0\Bina_Bilgisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\obj\Debug\net6.0\Bina_Bilgisi.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\obj\Debug\net6.0\Bina_Bilgisi.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\obj\Debug\net6.0\Bina_Bilgisi.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\obj\Debug\net6.0\Bina_Bilgisi.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\obj\Debug\net6.0\refint\Bina_Bilgisi.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\obj\Debug\net6.0\Bina_Bilgisi.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\obj\Debug\net6.0\Bina_Bilgisi.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Bina_Bilgisi\Bina_Bilgisi\obj\Debug\net6.0\ref\Bina_Bilgisi.dll

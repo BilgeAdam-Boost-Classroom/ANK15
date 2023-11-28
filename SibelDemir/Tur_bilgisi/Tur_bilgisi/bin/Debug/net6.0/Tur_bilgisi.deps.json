@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tur_bilgisi/1.0.0": {
+        "runtime": {
+          "Tur_bilgisi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tur_bilgisi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

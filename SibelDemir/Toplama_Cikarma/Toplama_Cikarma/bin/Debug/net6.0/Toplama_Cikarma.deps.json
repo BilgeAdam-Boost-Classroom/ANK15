@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Toplama_Cikarma/1.0.0": {
+        "runtime": {
+          "Toplama_Cikarma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Toplama_Cikarma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

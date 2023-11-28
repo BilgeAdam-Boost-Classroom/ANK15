@@ -1,0 +1,33 @@
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\bin\Debug\net6.0-windows\calisan_bilgileri.exe
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\bin\Debug\net6.0-windows\calisan_bilgileri.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\bin\Debug\net6.0-windows\calisan_bilgileri.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\bin\Debug\net6.0-windows\calisan_bilgileri.dll
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\bin\Debug\net6.0-windows\calisan_bilgileri.pdb
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.Form1.resources
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.csproj.GenerateResource.cache
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.dll
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\refint\calisan_bilgileri.dll
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.pdb
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör (2)\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\ref\calisan_bilgileri.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\bin\Debug\net6.0-windows\calisan_bilgileri.exe
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\bin\Debug\net6.0-windows\calisan_bilgileri.deps.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\bin\Debug\net6.0-windows\calisan_bilgileri.runtimeconfig.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\bin\Debug\net6.0-windows\calisan_bilgileri.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\bin\Debug\net6.0-windows\calisan_bilgileri.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.csproj.AssemblyReference.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.Form1.resources
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.csproj.GenerateResource.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.GeneratedMSBuildEditorConfig.editorconfig
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.AssemblyInfoInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.AssemblyInfo.cs
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.csproj.CoreCompileInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\refint\calisan_bilgileri.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\calisan_bilgileri.genruntimeconfig.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\calisan_bilgileri\calisan_bilgileri\obj\Debug\net6.0-windows\ref\calisan_bilgileri.dll

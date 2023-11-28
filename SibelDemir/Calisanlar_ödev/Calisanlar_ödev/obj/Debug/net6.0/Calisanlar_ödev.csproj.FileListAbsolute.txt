@@ -1,0 +1,14 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\bin\Debug\net6.0\Calisanlar_ödev.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\bin\Debug\net6.0\Calisanlar_ödev.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\bin\Debug\net6.0\Calisanlar_ödev.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\bin\Debug\net6.0\Calisanlar_ödev.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\bin\Debug\net6.0\Calisanlar_ödev.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\obj\Debug\net6.0\Calisanlar_ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\obj\Debug\net6.0\Calisanlar_ödev.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\obj\Debug\net6.0\Calisanlar_ödev.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\obj\Debug\net6.0\Calisanlar_ödev.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\obj\Debug\net6.0\Calisanlar_ödev.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\obj\Debug\net6.0\refint\Calisanlar_ödev.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\obj\Debug\net6.0\Calisanlar_ödev.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\obj\Debug\net6.0\Calisanlar_ödev.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Calisanlar_ödev\Calisanlar_ödev\obj\Debug\net6.0\ref\Calisanlar_ödev.dll

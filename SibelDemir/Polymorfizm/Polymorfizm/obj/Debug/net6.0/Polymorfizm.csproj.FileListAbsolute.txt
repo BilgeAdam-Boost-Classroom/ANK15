@@ -1,0 +1,14 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\bin\Debug\net6.0\Polymorfizm.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\bin\Debug\net6.0\Polymorfizm.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\bin\Debug\net6.0\Polymorfizm.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\bin\Debug\net6.0\Polymorfizm.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\bin\Debug\net6.0\Polymorfizm.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\obj\Debug\net6.0\Polymorfizm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\obj\Debug\net6.0\Polymorfizm.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\obj\Debug\net6.0\Polymorfizm.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\obj\Debug\net6.0\Polymorfizm.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\obj\Debug\net6.0\Polymorfizm.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\obj\Debug\net6.0\refint\Polymorfizm.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\obj\Debug\net6.0\Polymorfizm.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\obj\Debug\net6.0\Polymorfizm.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Polymorfizm\Polymorfizm\obj\Debug\net6.0\ref\Polymorfizm.dll

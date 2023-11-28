@@ -1,0 +1,35 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\bin\Debug\net6.0-windows\form_uygulamaları.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\bin\Debug\net6.0-windows\form_uygulamaları.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\bin\Debug\net6.0-windows\form_uygulamaları.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\bin\Debug\net6.0-windows\form_uygulamaları.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\bin\Debug\net6.0-windows\form_uygulamaları.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.Form1.resources
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.Form2.resources
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.csproj.GenerateResource.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\refint\form_uygulamaları.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\ref\form_uygulamaları.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\bin\Debug\net6.0-windows\form_uygulamaları.exe
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\bin\Debug\net6.0-windows\form_uygulamaları.deps.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\bin\Debug\net6.0-windows\form_uygulamaları.runtimeconfig.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\bin\Debug\net6.0-windows\form_uygulamaları.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\bin\Debug\net6.0-windows\form_uygulamaları.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.csproj.AssemblyReference.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.Form1.resources
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.Form2.resources
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.csproj.GenerateResource.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.GeneratedMSBuildEditorConfig.editorconfig
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.AssemblyInfoInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.AssemblyInfo.cs
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.csproj.CoreCompileInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\refint\form_uygulamaları.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\form_uygulamaları.genruntimeconfig.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\form_uygulamaları\form_uygulamaları\obj\Debug\net6.0-windows\ref\form_uygulamaları.dll
