@@ -9,7 +9,7 @@ namespace Odev7_3
 {
     public class Pawn : IPiece
     {
-        public string Name { get ; set ; }
+        public string Name { get; set; } = "Piyon";
         public PieceColor Color { get ; set ; }
         public void Move()
         {
