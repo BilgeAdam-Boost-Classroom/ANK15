@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\Piece\\Piece\\Piece.csproj": {}
+    "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\ödev_6\\Piece\\Piece\\Piece.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\Piece\\Piece\\Piece.csproj": {
+    "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\ödev_6\\Piece\\Piece\\Piece.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\Piece\\Piece\\Piece.csproj",
+        "projectUniqueName": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\ödev_6\\Piece\\Piece\\Piece.csproj",
         "projectName": "Piece",
-        "projectPath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\Piece\\Piece\\Piece.csproj",
-        "packagesPath": "C:\\Users\\Sibel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\Piece\\Piece\\obj\\",
+        "projectPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\ödev_6\\Piece\\Piece\\Piece.csproj",
+        "packagesPath": "C:\\Users\\sibel.babayigit\\.nuget\\packages\\",
+        "outputPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\ödev_6\\Piece\\Piece\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sibel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sibel.babayigit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
