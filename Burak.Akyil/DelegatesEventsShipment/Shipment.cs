@@ -22,7 +22,7 @@ namespace DelegatesEventsShipment
                 if(value.Length == 5)
                 {
                     _trackingNumber = value;
-                    ShipmentEvent("Paketiniz yola çıkmıştır.");
+                    ShipmentEvent?.Invoke("Paketiniz yola çıkmıştır.");
                 }
 
             }
