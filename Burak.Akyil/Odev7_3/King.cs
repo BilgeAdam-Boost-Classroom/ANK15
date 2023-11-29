@@ -9,7 +9,7 @@ namespace Odev7_3
 {
     public class King : IPiece
     {
-        public string Name { get ; set ; }
+        public string Name { get; set; } = "Şah";
         public PieceColor Color { get ; set ; }
         public void Move()
         {

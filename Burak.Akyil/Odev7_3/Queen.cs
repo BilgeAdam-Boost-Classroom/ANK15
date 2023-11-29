@@ -9,7 +9,7 @@ namespace Odev7_3
 {
     public class Queen : IPiece
     {
-        public string Name { get ; set ; }
+        public string Name { get; set; } = "Vezir";
         public PieceColor Color { get ; set ; }
         public void Move()
         {
