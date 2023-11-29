@@ -1,0 +1,17 @@
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\bin\Debug\net6.0-windows\BankaUygulamasi.exe
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\bin\Debug\net6.0-windows\BankaUygulamasi.deps.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\bin\Debug\net6.0-windows\BankaUygulamasi.runtimeconfig.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\bin\Debug\net6.0-windows\BankaUygulamasi.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\bin\Debug\net6.0-windows\BankaUygulamasi.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\BankaUygulamasi.csproj.AssemblyReference.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\BankaUygulamasi.Form1.resources
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\BankaUygulamasi.csproj.GenerateResource.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\BankaUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\BankaUygulamasi.AssemblyInfoInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\BankaUygulamasi.AssemblyInfo.cs
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\BankaUygulamasi.csproj.CoreCompileInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\BankaUygulamasi.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\refint\BankaUygulamasi.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\BankaUygulamasi.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\BankaUygulamasi.genruntimeconfig.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\BankaUygulamasi\BankaUygulamasi\obj\Debug\net6.0-windows\ref\BankaUygulamasi.dll

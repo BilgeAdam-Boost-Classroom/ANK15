@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "bO7CjYZy/vxKiMEF5taEojrOObSFpGK2Z8xEIJzyxo8Qx88bY6OfvrfEeSzwbCOvvV3ZXKN4AvpP/gZg1f/BDg==",
+  "success": false,
+  "projectFilePath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\BankaUygulamasi\\BankaUygulamasi.AltYapi\\BankaUygulamasi.AltYapi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BankaUygulamasi is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project BankaUygulamasi supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "BankaUygulamasi",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

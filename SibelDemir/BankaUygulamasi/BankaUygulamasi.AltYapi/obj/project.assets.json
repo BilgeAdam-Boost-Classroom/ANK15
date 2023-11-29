@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BankaUygulamasi/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/BankaUygulamasi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankaUygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankaUygulamasi/1.0.0": {
+      "type": "project",
+      "path": "../BankaUygulamasi/BankaUygulamasi.csproj",
+      "msbuildProject": "../BankaUygulamasi/BankaUygulamasi.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BankaUygulamasi >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sibel.babayigit\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\BankaUygulamasi\\BankaUygulamasi.AltYapi\\BankaUygulamasi.AltYapi.csproj",
+      "projectName": "BankaUygulamasi.AltYapi",
+      "projectPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\BankaUygulamasi\\BankaUygulamasi.AltYapi\\BankaUygulamasi.AltYapi.csproj",
+      "packagesPath": "C:\\Users\\sibel.babayigit\\.nuget\\packages\\",
+      "outputPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\BankaUygulamasi\\BankaUygulamasi.AltYapi\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sibel.babayigit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\BankaUygulamasi\\BankaUygulamasi\\BankaUygulamasi.csproj": {
+              "projectPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\BankaUygulamasi\\BankaUygulamasi\\BankaUygulamasi.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BankaUygulamasi is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project BankaUygulamasi supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "BankaUygulamasi",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
