@@ -12,3 +12,18 @@ C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Piece\Piece\obj\Debug\net6.
 C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Piece\Piece\obj\Debug\net6.0\Piece.pdb
 C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Piece\Piece\obj\Debug\net6.0\Piece.genruntimeconfig.cache
 C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Piece\Piece\obj\Debug\net6.0\ref\Piece.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\bin\Debug\net6.0\Piece.exe
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\bin\Debug\net6.0\Piece.deps.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\bin\Debug\net6.0\Piece.runtimeconfig.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\bin\Debug\net6.0\Piece.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\bin\Debug\net6.0\Piece.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\obj\Debug\net6.0\Piece.csproj.AssemblyReference.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\obj\Debug\net6.0\Piece.GeneratedMSBuildEditorConfig.editorconfig
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\obj\Debug\net6.0\Piece.AssemblyInfoInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\obj\Debug\net6.0\Piece.AssemblyInfo.cs
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\obj\Debug\net6.0\Piece.csproj.CoreCompileInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\obj\Debug\net6.0\Piece.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\obj\Debug\net6.0\refint\Piece.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\obj\Debug\net6.0\Piece.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\obj\Debug\net6.0\Piece.genruntimeconfig.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\ödev_6\Piece\Piece\obj\Debug\net6.0\ref\Piece.dll
