@@ -41,9 +41,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Odevler", "Odevler", "{C9A3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesEventsShipment", "DelegatesEventsShipment\DelegatesEventsShipment.csproj", "{A6DE5F00-6884-4EC5-A3E9-7AFD78E2FC0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankaUygulama", "BankaUygulama\BankaUygulama.csproj", "{7A4356AC-B545-4C13-9D1D-1A5CA9D80247}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankaUygulama", "BankaUygulama\BankaUygulama.csproj", "{7A4356AC-B545-4C13-9D1D-1A5CA9D80247}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankaUygulama.AltYapi", "BankaUygulama.AltYapi\BankaUygulama.AltYapi.csproj", "{87C145A6-04AE-4875-A3FD-185F11B8FF67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankaUygulama.AltYapi", "BankaUygulama.AltYapi\BankaUygulama.AltYapi.csproj", "{87C145A6-04AE-4875-A3FD-185F11B8FF67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurgerMenu", "BurgerMenu\BurgerMenu\BurgerMenu.csproj", "{11ADA300-EC59-464F-8271-79907B1F6AA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,6 +133,10 @@ Global
 		{87C145A6-04AE-4875-A3FD-185F11B8FF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87C145A6-04AE-4875-A3FD-185F11B8FF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87C145A6-04AE-4875-A3FD-185F11B8FF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11ADA300-EC59-464F-8271-79907B1F6AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11ADA300-EC59-464F-8271-79907B1F6AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11ADA300-EC59-464F-8271-79907B1F6AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11ADA300-EC59-464F-8271-79907B1F6AA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
