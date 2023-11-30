@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using BankaUygulama.AltYapi.Enums;
 using BankaUygulama.AltYapi.Interfaces;
+using static BankaUygulama.AltYapi.Interfaces.IMusteri;
 
 namespace BankaUygulama.AltYapi.Entities
 {
@@ -15,11 +16,21 @@ namespace BankaUygulama.AltYapi.Entities
             GelisSirasi = Sira;
             Sira++;
         }
-        public static int Sira { get; set; } = 1;
+        public static int Sira { get; set; } = 0;
         public string AdSoyad { get; set; }
+
         public long TCNo { get; set; }
+
         public int Numara { get; set; }
+
         public MusteriTipi MusteriTipi { get; set; }
-        public int GelisSirasi { get ; set ; }
+        public int GelisSirasi { get; set; }
+
+        public event NumaraHandler NumaratoreGit;
+
+        public int NumaraAl()
+        {
+            return NumaratoreGit(this);
+        }
     }
 }

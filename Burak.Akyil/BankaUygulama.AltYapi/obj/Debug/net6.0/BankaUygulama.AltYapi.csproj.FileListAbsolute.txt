@@ -3,3 +3,14 @@ C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama.AltY
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.AssemblyInfoInputs.cache
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.AssemblyInfo.cs
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\bin\Debug\net6.0\BankaUygulama.AltYapi.deps.json
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\bin\Debug\net6.0\BankaUygulama.AltYapi.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\bin\Debug\net6.0\BankaUygulama.AltYapi.pdb
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\refint\BankaUygulama.AltYapi.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.pdb
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\ref\BankaUygulama.AltYapi.dll
