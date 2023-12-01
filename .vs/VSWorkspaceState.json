@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Burak.Akyil",
-    "\\Burak.Akyil\\MusteriTC",
+    "\\Burak.Akyil\\BankaUygulama.AltYapi",
+    "\\Burak.Akyil\\BankaUygulama.AltYapi\\Entities",
     "\\Burak.Akyil\\Odev3",
     "\\Burak.Akyil\\Odev3_2",
     "\\Burak.Akyil\\Odev5",
@@ -10,6 +11,6 @@
     "\\Burak.Akyil\\Odev7_3",
     "\\Burak.Akyil\\Sınıf"
   ],
-  "SelectedNode": "\\Burak.Akyil\\Odev7_3\\Program.cs",
+  "SelectedNode": "\\Burak.Akyil\\BankaUygulama.AltYapi\\Entities\\TitanicNumarator.cs",
   "PreviewInSolutionExplorer": false
 }
