@@ -41,7 +41,7 @@
             numericUpDown1 = new NumericUpDown();
             btnSipraisEkle = new Button();
             lblTutar = new Label();
-            listBox1 = new ListBox();
+            lbSiparis = new ListBox();
             btnTamamla = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             groupBox1.SuspendLayout();
@@ -161,6 +161,7 @@
             btnSipraisEkle.TabIndex = 8;
             btnSipraisEkle.Text = "SİPARİŞ EKLE";
             btnSipraisEkle.UseVisualStyleBackColor = true;
+            btnSipraisEkle.Click += btnSipraisEkle_Click;
             // 
             // lblTutar
             // 
@@ -171,14 +172,14 @@
             lblTutar.Size = new Size(0, 15);
             lblTutar.TabIndex = 10;
             // 
-            // listBox1
+            // lbSiparis
             // 
-            listBox1.FormattingEnabled = true;
-            listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(218, 12);
-            listBox1.Name = "listBox1";
-            listBox1.Size = new Size(296, 364);
-            listBox1.TabIndex = 11;
+            lbSiparis.FormattingEnabled = true;
+            lbSiparis.ItemHeight = 15;
+            lbSiparis.Location = new Point(218, 12);
+            lbSiparis.Name = "lbSiparis";
+            lbSiparis.Size = new Size(296, 364);
+            lbSiparis.TabIndex = 11;
             // 
             // btnTamamla
             // 
@@ -196,7 +197,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(567, 441);
             Controls.Add(btnTamamla);
-            Controls.Add(listBox1);
+            Controls.Add(lbSiparis);
             Controls.Add(lblTutar);
             Controls.Add(btnSipraisEkle);
             Controls.Add(numericUpDown1);
@@ -230,7 +231,7 @@
         private NumericUpDown numericUpDown1;
         private Button btnSipraisEkle;
         private Label lblTutar;
-        private ListBox listBox1;
+        private ListBox lbSiparis;
         private Button btnTamamla;
     }
 }

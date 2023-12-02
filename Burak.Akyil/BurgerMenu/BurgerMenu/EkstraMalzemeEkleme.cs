@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BurgerMenu.Classes;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,9 @@ namespace BurgerMenu
         public EkstraMalzemeEkleme()
         {
             InitializeComponent();
+
         }
+
+        
     }
 }
