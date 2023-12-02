@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Burak.Akyil",
-    "\\Burak.Akyil\\BankaUygulama.AltYapi",
-    "\\Burak.Akyil\\BankaUygulama.AltYapi\\Entities",
+    "\\Burak.Akyil\\BurgerMenu",
+    "\\Burak.Akyil\\BurgerMenu\\BurgerMenu",
     "\\Burak.Akyil\\Odev3",
     "\\Burak.Akyil\\Odev3_2",
     "\\Burak.Akyil\\Odev5",
@@ -11,6 +11,6 @@
     "\\Burak.Akyil\\Odev7_3",
     "\\Burak.Akyil\\Sınıf"
   ],
-  "SelectedNode": "\\Burak.Akyil\\BankaUygulama.AltYapi\\Entities\\TitanicNumarator.cs",
+  "SelectedNode": "\\Burak.Akyil\\BurgerMenu\\BurgerMenu\\SiparisEkleme.cs",
   "PreviewInSolutionExplorer": false
 }

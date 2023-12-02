@@ -22,6 +22,7 @@ namespace BurgerMenu
             cmbMenu.Items.Add("Whopper Menü");
             cmbMenu.Items.Add("Chicken Royal Menü");
 
+            clbSos.Items.Add("Ketçap");
 
 
 
