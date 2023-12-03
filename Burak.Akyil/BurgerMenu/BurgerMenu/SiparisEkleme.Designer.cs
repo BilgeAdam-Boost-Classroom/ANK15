@@ -38,14 +38,14 @@
             rdbOrta = new RadioButton();
             clbSos = new CheckedListBox();
             label2 = new Label();
-            numericUpDown1 = new NumericUpDown();
+            nudAdet = new NumericUpDown();
             btnSipraisEkle = new Button();
             lblTutar = new Label();
             lblSiparis = new ListBox();
             btnTamamla = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)nudAdet).BeginInit();
             SuspendLayout();
             // 
             // pictureBox1
@@ -145,12 +145,12 @@
             label2.TabIndex = 6;
             label2.Text = "ADET";
             // 
-            // numericUpDown1
+            // nudAdet
             // 
-            numericUpDown1.Location = new Point(55, 362);
-            numericUpDown1.Name = "numericUpDown1";
-            numericUpDown1.Size = new Size(120, 23);
-            numericUpDown1.TabIndex = 7;
+            nudAdet.Location = new Point(55, 362);
+            nudAdet.Name = "nudAdet";
+            nudAdet.Size = new Size(120, 23);
+            nudAdet.TabIndex = 7;
             // 
             // btnSipraisEkle
             // 
@@ -200,7 +200,7 @@
             Controls.Add(lblSiparis);
             Controls.Add(lblTutar);
             Controls.Add(btnSipraisEkle);
-            Controls.Add(numericUpDown1);
+            Controls.Add(nudAdet);
             Controls.Add(label2);
             Controls.Add(clbSos);
             Controls.Add(groupBox1);
@@ -212,7 +212,7 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)nudAdet).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -228,7 +228,7 @@
         private RadioButton rdbOrta;
         private CheckedListBox clbSos;
         private Label label2;
-        private NumericUpDown numericUpDown1;
+        private NumericUpDown nudAdet;
         private Button btnSipraisEkle;
         private Label lblTutar;
         private ListBox lblSiparis;
