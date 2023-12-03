@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BurgerMenu.Classes
 {
-    public class Siparis
+    public class Siparis : Menu
     {
         public Menu Menu { get; set; }
         public int Adet { get; set; }
