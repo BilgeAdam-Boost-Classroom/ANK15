@@ -19,6 +19,12 @@ namespace BurgerMenu
 
         }
 
-        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            EkstraMalzeme ekstraMalzeme = new EkstraMalzeme();
+            ekstraMalzeme.Ad = txtEkstraMalzeme.Text;
+            ekstraMalzeme.Fiyat = Convert.ToDecimal(nudTutar);
+            
+        }
     }
 }

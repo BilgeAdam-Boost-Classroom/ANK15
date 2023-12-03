@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BurgerMenu.Classes;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -38,6 +39,8 @@ namespace BurgerMenu
         private void btnSipraisEkle_Click(object sender, EventArgs e)
         {
             lbSiparis.Items.Add((string)cmbMenu.SelectedItem);
+            
+
             
         }
     }

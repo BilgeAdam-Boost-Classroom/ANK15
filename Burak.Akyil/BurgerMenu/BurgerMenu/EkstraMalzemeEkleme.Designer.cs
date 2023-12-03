@@ -32,7 +32,7 @@
             button1 = new Button();
             nudTutar = new NumericUpDown();
             label2 = new Label();
-            txtEstraMalzeme = new TextBox();
+            txtEkstraMalzeme = new TextBox();
             label1 = new Label();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)nudTutar).BeginInit();
@@ -43,7 +43,7 @@
             groupBox1.Controls.Add(button1);
             groupBox1.Controls.Add(nudTutar);
             groupBox1.Controls.Add(label2);
-            groupBox1.Controls.Add(txtEstraMalzeme);
+            groupBox1.Controls.Add(txtEkstraMalzeme);
             groupBox1.Controls.Add(label1);
             groupBox1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             groupBox1.Location = new Point(12, 12);
@@ -61,7 +61,7 @@
             button1.TabIndex = 4;
             button1.Text = "EKSTRA MALZEMEYİ KAYDET";
             button1.UseVisualStyleBackColor = true;
-            
+            button1.Click += button1_Click;
             // 
             // nudTutar
             // 
@@ -79,12 +79,12 @@
             label2.TabIndex = 2;
             label2.Text = "Fiyatı:";
             // 
-            // txtEstraMalzeme
+            // txtEkstraMalzeme
             // 
-            txtEstraMalzeme.Location = new Point(131, 28);
-            txtEstraMalzeme.Name = "txtEstraMalzeme";
-            txtEstraMalzeme.Size = new Size(150, 23);
-            txtEstraMalzeme.TabIndex = 1;
+            txtEkstraMalzeme.Location = new Point(131, 28);
+            txtEkstraMalzeme.Name = "txtEkstraMalzeme";
+            txtEkstraMalzeme.Size = new Size(150, 23);
+            txtEkstraMalzeme.TabIndex = 1;
             // 
             // label1
             // 
@@ -114,7 +114,7 @@
         private GroupBox groupBox1;
         private Label label1;
         private Label label2;
-        private TextBox txtEstraMalzeme;
+        private TextBox txtEkstraMalzeme;
         private Button button1;
         private NumericUpDown nudTutar;
     }
