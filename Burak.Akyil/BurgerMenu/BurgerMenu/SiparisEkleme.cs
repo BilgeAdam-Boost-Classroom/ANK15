@@ -38,10 +38,11 @@ namespace BurgerMenu
 
         private void btnSipraisEkle_Click(object sender, EventArgs e)
         {
-            lbSiparis.Items.Add((string)cmbMenu.SelectedItem);
-            
+            lblSiparis.Items.Add((string)cmbMenu.SelectedItem);
+            lblSiparis.Items.Add(clbSos.SelectedItem);
 
-            
+
+
         }
     }
 }

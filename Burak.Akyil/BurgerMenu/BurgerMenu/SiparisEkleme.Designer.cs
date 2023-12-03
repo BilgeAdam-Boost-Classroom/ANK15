@@ -41,7 +41,7 @@
             numericUpDown1 = new NumericUpDown();
             btnSipraisEkle = new Button();
             lblTutar = new Label();
-            lbSiparis = new ListBox();
+            lblSiparis = new ListBox();
             btnTamamla = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             groupBox1.SuspendLayout();
@@ -172,14 +172,14 @@
             lblTutar.Size = new Size(0, 15);
             lblTutar.TabIndex = 10;
             // 
-            // lbSiparis
+            // lblSiparis
             // 
-            lbSiparis.FormattingEnabled = true;
-            lbSiparis.ItemHeight = 15;
-            lbSiparis.Location = new Point(218, 12);
-            lbSiparis.Name = "lbSiparis";
-            lbSiparis.Size = new Size(296, 364);
-            lbSiparis.TabIndex = 11;
+            lblSiparis.FormattingEnabled = true;
+            lblSiparis.ItemHeight = 15;
+            lblSiparis.Location = new Point(218, 12);
+            lblSiparis.Name = "lblSiparis";
+            lblSiparis.Size = new Size(296, 364);
+            lblSiparis.TabIndex = 11;
             // 
             // btnTamamla
             // 
@@ -197,7 +197,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(567, 441);
             Controls.Add(btnTamamla);
-            Controls.Add(lbSiparis);
+            Controls.Add(lblSiparis);
             Controls.Add(lblTutar);
             Controls.Add(btnSipraisEkle);
             Controls.Add(numericUpDown1);
@@ -231,7 +231,7 @@
         private NumericUpDown numericUpDown1;
         private Button btnSipraisEkle;
         private Label lblTutar;
-        private ListBox lbSiparis;
+        private ListBox lblSiparis;
         private Button btnTamamla;
     }
 }
