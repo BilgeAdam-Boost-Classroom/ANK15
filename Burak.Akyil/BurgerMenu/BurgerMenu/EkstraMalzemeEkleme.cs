@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BurgerMenu.Classes;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,21 @@ namespace BurgerMenu
         public EkstraMalzemeEkleme()
         {
             InitializeComponent();
+
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            EkstraMalzeme ekstraMalzeme = new EkstraMalzeme();
+            ekstraMalzeme.Ad = txtEkstraMalzeme.Text;
+            ekstraMalzeme.Fiyat = Convert.ToDecimal(nudTutar.Value);
+            Siparis.ekstraMalzemeler.Add(ekstraMalzeme);
+            
+            
+            
+            
+        }
+        
+        
     }
 }

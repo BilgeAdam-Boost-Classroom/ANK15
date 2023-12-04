@@ -15,7 +15,7 @@ namespace BankaUygulama.AltYapi.Interfaces
         public int GiseSayac { get; set; }
         public int BireyselSayac { get; set; }
         public string SiradakiniGetir();
-        public int NumaraUret();
+        public int NumaraUret(IMusteri musteri);
         
         
     }

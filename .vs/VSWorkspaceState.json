@@ -2,13 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Burak.Akyil",
-    "\\Burak.Akyil\\MusteriTC",
+    "\\Burak.Akyil\\BurgerMenu",
+    "\\Burak.Akyil\\BurgerMenu\\BurgerMenu",
     "\\Burak.Akyil\\Odev3",
     "\\Burak.Akyil\\Odev3_2",
     "\\Burak.Akyil\\Odev5",
     "\\Burak.Akyil\\Odev6",
+    "\\Burak.Akyil\\Odev7_3",
     "\\Burak.Akyil\\Sınıf"
   ],
-  "SelectedNode": "\\Burak.Akyil\\Burak.Akyil.sln",
+  "SelectedNode": "\\Burak.Akyil\\BurgerMenu\\BurgerMenu\\EkstraMalzemeEkleme.cs",
   "PreviewInSolutionExplorer": false
 }

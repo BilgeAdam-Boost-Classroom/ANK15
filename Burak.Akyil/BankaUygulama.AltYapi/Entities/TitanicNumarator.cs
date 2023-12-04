@@ -25,7 +25,7 @@ namespace BankaUygulama.AltYapi.Entities
         
         public string SiradakiniGetir()
         {
-            List<IMusteri> vipListe = BekleyenMusteriler.Where(m => m.MusteriTipi == MusteriTipi.VIP).OrderBy(m => m.Numara).ToList();
+            List<IMusteri> vipListe = BekleyenMusteriler.Where(m => m.MusteriTipi == MusteriTipi.VIP).ToList();
             List<IMusteri> digerleri = BekleyenMusteriler.Where(m => m.MusteriTipi != MusteriTipi.VIP).ToList();
             StringBuilder sonuc = new StringBuilder();
             if(BekleyenMusteriler != null)
@@ -48,7 +48,7 @@ namespace BankaUygulama.AltYapi.Entities
             }
             return sonuc.ToString();
         }
-        public int NumaraUret()
+        public int NumaraUret(IMusteri musteri)
         {
             return Musteri.MusteriTipi == MusteriTipi.VIP ? VIPSayac++ : Musteri.MusteriTipi == MusteriTipi.Bireysel ? BireyselSayac++ : GiseSayac++;
         }

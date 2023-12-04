@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BankaUygulama/1.0.0": {
+        "dependencies": {
+          "BankaUygulama.AltYapi": "1.0.0"
+        },
+        "runtime": {
+          "BankaUygulama.dll": {}
+        }
+      },
+      "BankaUygulama.AltYapi/1.0.0": {
+        "runtime": {
+          "BankaUygulama.AltYapi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankaUygulama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankaUygulama.AltYapi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
