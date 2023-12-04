@@ -10,6 +10,10 @@ namespace BurgerMenu.Classes
     {
         public string Ad { get; set; }
         public decimal Fiyat { get; set; }
+        public override string ToString()
+        {
+            return Ad;
+        }
 
     }
 }

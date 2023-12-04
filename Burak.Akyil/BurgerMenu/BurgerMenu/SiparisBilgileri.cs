@@ -16,10 +16,15 @@ namespace BurgerMenu
         public SiparisBilgileri()
         {
             InitializeComponent();
-            lblCiro.Text = string.Format(new CultureInfo("tr-TR"), "{0:C}", 0.00);
-            lblToplamSiparis.Text = "0";
-            lblEkstraMalzeme.Text = string.Format(new CultureInfo("tr-TR"), "{0:C}", 0.00);
-            lblSatılamUrun.Text = "0";
+            decimal toplamCiro = 0;
+            foreach (var item in SiparisEkleme.siparisler)
+            {
+
+
+                if (item.OnaylandiMi)
+                    toplamCiro += item.ToplamTutar;
+            }
+            lblCiro.Text = toplamCiro.ToString();
             
         }
         

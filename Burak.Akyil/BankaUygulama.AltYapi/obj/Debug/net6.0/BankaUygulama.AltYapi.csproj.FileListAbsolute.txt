@@ -14,3 +14,10 @@ C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Deb
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\refint\BankaUygulama.AltYapi.dll
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.pdb
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\ref\BankaUygulama.AltYapi.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama.AltYapi\bin\Debug\net6.0\BankaUygulama.AltYapi.deps.json
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama.AltYapi\bin\Debug\net6.0\BankaUygulama.AltYapi.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama.AltYapi\bin\Debug\net6.0\BankaUygulama.AltYapi.pdb
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\refint\BankaUygulama.AltYapi.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\BankaUygulama.AltYapi.pdb
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama.AltYapi\obj\Debug\net6.0\ref\BankaUygulama.AltYapi.dll

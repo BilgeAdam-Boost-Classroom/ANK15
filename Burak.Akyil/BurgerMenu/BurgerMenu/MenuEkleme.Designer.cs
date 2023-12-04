@@ -28,92 +28,94 @@
         /// </summary>
         private void InitializeComponent()
         {
-            groupBox1 = new GroupBox();
-            label1 = new Label();
-            textBox1 = new TextBox();
-            label2 = new Label();
-            numericUpDown1 = new NumericUpDown();
-            btnKaydet = new Button();
-            groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
-            SuspendLayout();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnKaydet = new System.Windows.Forms.Button();
+            this.nudMenuFiyat = new System.Windows.Forms.NumericUpDown();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtMenuAdi = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.nudMenuFiyat)).BeginInit();
+            this.SuspendLayout();
             // 
             // groupBox1
             // 
-            groupBox1.Controls.Add(btnKaydet);
-            groupBox1.Controls.Add(numericUpDown1);
-            groupBox1.Controls.Add(label2);
-            groupBox1.Controls.Add(textBox1);
-            groupBox1.Controls.Add(label1);
-            groupBox1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            groupBox1.Location = new Point(12, 12);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(241, 143);
-            groupBox1.TabIndex = 0;
-            groupBox1.TabStop = false;
-            groupBox1.Text = "MENÜ BİLGİLERİ";
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Location = new Point(6, 19);
-            label1.Name = "label1";
-            label1.Size = new Size(63, 15);
-            label1.TabIndex = 0;
-            label1.Text = "Menü Adı:";
-            // 
-            // textBox1
-            // 
-            textBox1.Location = new Point(75, 16);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(146, 23);
-            textBox1.TabIndex = 1;
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(30, 51);
-            label2.Name = "label2";
-            label2.Size = new Size(39, 15);
-            label2.TabIndex = 2;
-            label2.Text = "Fiyatı:";
-            // 
-            // numericUpDown1
-            // 
-            numericUpDown1.Location = new Point(75, 49);
-            numericUpDown1.Name = "numericUpDown1";
-            numericUpDown1.Size = new Size(146, 23);
-            numericUpDown1.TabIndex = 3;
+            this.groupBox1.Controls.Add(this.btnKaydet);
+            this.groupBox1.Controls.Add(this.nudMenuFiyat);
+            this.groupBox1.Controls.Add(this.label2);
+            this.groupBox1.Controls.Add(this.txtMenuAdi);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.groupBox1.Location = new System.Drawing.Point(12, 12);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(241, 143);
+            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "MENÜ BİLGİLERİ";
             // 
             // btnKaydet
             // 
-            btnKaydet.Location = new Point(75, 88);
-            btnKaydet.Name = "btnKaydet";
-            btnKaydet.Size = new Size(146, 38);
-            btnKaydet.TabIndex = 4;
-            btnKaydet.Text = "MENÜYÜ KAYDET";
-            btnKaydet.UseVisualStyleBackColor = true;
+            this.btnKaydet.Location = new System.Drawing.Point(75, 88);
+            this.btnKaydet.Name = "btnKaydet";
+            this.btnKaydet.Size = new System.Drawing.Size(146, 38);
+            this.btnKaydet.TabIndex = 4;
+            this.btnKaydet.Text = "MENÜYÜ KAYDET";
+            this.btnKaydet.UseVisualStyleBackColor = true;
+            this.btnKaydet.Click += new System.EventHandler(this.btnKaydet_Click);
+            // 
+            // nudMenuFiyat
+            // 
+            this.nudMenuFiyat.Location = new System.Drawing.Point(75, 49);
+            this.nudMenuFiyat.Name = "nudMenuFiyat";
+            this.nudMenuFiyat.Size = new System.Drawing.Size(146, 23);
+            this.nudMenuFiyat.TabIndex = 3;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(30, 51);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(39, 15);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Fiyatı:";
+            // 
+            // txtMenuAdi
+            // 
+            this.txtMenuAdi.Location = new System.Drawing.Point(75, 16);
+            this.txtMenuAdi.Name = "txtMenuAdi";
+            this.txtMenuAdi.Size = new System.Drawing.Size(146, 23);
+            this.txtMenuAdi.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(6, 19);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(63, 15);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Menü Adı:";
             // 
             // MenuEkleme
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(264, 167);
-            Controls.Add(groupBox1);
-            Name = "MenuEkleme";
-            Text = "MenuEkleme";
-            groupBox1.ResumeLayout(false);
-            groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
-            ResumeLayout(false);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(264, 167);
+            this.Controls.Add(this.groupBox1);
+            this.Name = "MenuEkleme";
+            this.Text = "MenuEkleme";
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.nudMenuFiyat)).EndInit();
+            this.ResumeLayout(false);
+
         }
 
         #endregion
 
         private GroupBox groupBox1;
-        private NumericUpDown numericUpDown1;
+        private NumericUpDown nudMenuFiyat;
         private Label label2;
-        private TextBox textBox1;
+        private TextBox txtMenuAdi;
         private Label label1;
         private Button btnKaydet;
     }
