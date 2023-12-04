@@ -19,7 +19,7 @@ namespace BurgerMenu
         public SiparisEkleme()
         {
             InitializeComponent();
-            
+            lblTutar.Text = "₺" + siparisler.Sum(s => s.ToplamTutar).ToString();
             cmbMenu.Items.AddRange(menuList.ToArray());
             clbSos.Items.AddRange(ekstraMalzemeler.ToArray());
 

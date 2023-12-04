@@ -50,7 +50,7 @@
             this.lbxSonuc.ItemHeight = 15;
             this.lbxSonuc.Location = new System.Drawing.Point(12, 27);
             this.lbxSonuc.Name = "lbxSonuc";
-            this.lbxSonuc.Size = new System.Drawing.Size(196, 379);
+            this.lbxSonuc.Size = new System.Drawing.Size(330, 379);
             this.lbxSonuc.TabIndex = 0;
             // 
             // label1
@@ -67,7 +67,7 @@
             // 
             this.groupBox1.Controls.Add(this.lblCiro);
             this.groupBox1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox1.Location = new System.Drawing.Point(214, 27);
+            this.groupBox1.Location = new System.Drawing.Point(348, 27);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(200, 49);
             this.groupBox1.TabIndex = 2;
@@ -86,7 +86,7 @@
             // 
             this.groupBox2.Controls.Add(this.lblToplamSiparis);
             this.groupBox2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox2.Location = new System.Drawing.Point(214, 96);
+            this.groupBox2.Location = new System.Drawing.Point(348, 96);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(200, 55);
             this.groupBox2.TabIndex = 3;
@@ -105,7 +105,7 @@
             // 
             this.groupBox3.Controls.Add(this.lblEkstraMalzeme);
             this.groupBox3.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox3.Location = new System.Drawing.Point(214, 170);
+            this.groupBox3.Location = new System.Drawing.Point(348, 170);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(200, 54);
             this.groupBox3.TabIndex = 4;
@@ -124,7 +124,7 @@
             // 
             this.groupBox4.Controls.Add(this.lblSatılanUrun);
             this.groupBox4.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox4.Location = new System.Drawing.Point(214, 241);
+            this.groupBox4.Location = new System.Drawing.Point(348, 241);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(200, 55);
             this.groupBox4.TabIndex = 5;
@@ -143,7 +143,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(431, 424);
+            this.ClientSize = new System.Drawing.Size(741, 424);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
@@ -152,6 +152,7 @@
             this.Controls.Add(this.lbxSonuc);
             this.Name = "SiparisBilgileri";
             this.Text = "SiparisBilgileri";
+            this.Load += new System.EventHandler(this.SiparisBilgileri_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
