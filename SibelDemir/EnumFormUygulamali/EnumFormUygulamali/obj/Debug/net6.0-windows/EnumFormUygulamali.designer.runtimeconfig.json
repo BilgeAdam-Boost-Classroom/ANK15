@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\sibel.babayigit\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\sibel.babayigit\\.nuget\\packages"
+      "C:\\Users\\Sibel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sibel\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

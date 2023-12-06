@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sibel.babayigit\\.nuget\\packages\\": {}
+    "C:\\Users\\Sibel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\Canta\\Canta\\Canta.csproj",
+      "projectUniqueName": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\Canta\\Canta\\Canta.csproj",
       "projectName": "Canta",
-      "projectPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\Canta\\Canta\\Canta.csproj",
-      "packagesPath": "C:\\Users\\sibel.babayigit\\.nuget\\packages\\",
-      "outputPath": "C:\\BilgeAdamSibel\\ank15(uygulama)\\ANK15\\SibelDemir\\Canta\\Canta\\obj\\",
+      "projectPath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\Canta\\Canta\\Canta.csproj",
+      "packagesPath": "C:\\Users\\Sibel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sibel\\Desktop\\Yeni klasör\\ANK15\\SibelDemir\\Canta\\Canta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sibel.babayigit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sibel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
