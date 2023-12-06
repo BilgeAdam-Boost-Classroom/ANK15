@@ -11,5 +11,9 @@ namespace Transcript
         public int Kod { get; set; }
         public string Ad { get; set; }
         public int Kredi { get; set; }
+        public override string ToString()
+        {
+            return Kod.ToString() + " " + Ad;
+        }
     }
 }

@@ -33,8 +33,12 @@
             this.cbxOgrenci = new System.Windows.Forms.ComboBox();
             this.cbxDonem = new System.Windows.Forms.ComboBox();
             this.btnGoster = new System.Windows.Forms.Button();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.dataGridTranscript = new System.Windows.Forms.DataGridView();
+            this.lblDonemKredisi = new System.Windows.Forms.Label();
+            this.lblDonemOrtalaması = new System.Windows.Forms.Label();
+            this.lblToplamKredi = new System.Windows.Forms.Label();
+            this.lblGenelOrtalaması = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridTranscript)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -79,22 +83,63 @@
             this.btnGoster.TabIndex = 3;
             this.btnGoster.Text = "GÖSTER";
             this.btnGoster.UseVisualStyleBackColor = true;
+            this.btnGoster.Click += new System.EventHandler(this.btnGoster_Click);
             // 
-            // dataGridView1
+            // dataGridTranscript
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(113, 78);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowTemplate.Height = 25;
-            this.dataGridView1.Size = new System.Drawing.Size(610, 271);
-            this.dataGridView1.TabIndex = 4;
+            this.dataGridTranscript.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridTranscript.Location = new System.Drawing.Point(113, 78);
+            this.dataGridTranscript.Name = "dataGridTranscript";
+            this.dataGridTranscript.RowTemplate.Height = 25;
+            this.dataGridTranscript.Size = new System.Drawing.Size(610, 271);
+            this.dataGridTranscript.TabIndex = 4;
+            // 
+            // lblDonemKredisi
+            // 
+            this.lblDonemKredisi.AutoSize = true;
+            this.lblDonemKredisi.Location = new System.Drawing.Point(196, 369);
+            this.lblDonemKredisi.Name = "lblDonemKredisi";
+            this.lblDonemKredisi.Size = new System.Drawing.Size(87, 15);
+            this.lblDonemKredisi.TabIndex = 5;
+            this.lblDonemKredisi.Text = "Dönem Kredisi:";
+            // 
+            // lblDonemOrtalaması
+            // 
+            this.lblDonemOrtalaması.AutoSize = true;
+            this.lblDonemOrtalaması.Location = new System.Drawing.Point(404, 369);
+            this.lblDonemOrtalaması.Name = "lblDonemOrtalaması";
+            this.lblDonemOrtalaması.Size = new System.Drawing.Size(109, 15);
+            this.lblDonemOrtalaması.TabIndex = 6;
+            this.lblDonemOrtalaması.Text = "Dönem Ortalaması:";
+            // 
+            // lblToplamKredi
+            // 
+            this.lblToplamKredi.AutoSize = true;
+            this.lblToplamKredi.Location = new System.Drawing.Point(196, 405);
+            this.lblToplamKredi.Name = "lblToplamKredi";
+            this.lblToplamKredi.Size = new System.Drawing.Size(79, 15);
+            this.lblToplamKredi.TabIndex = 7;
+            this.lblToplamKredi.Text = "Toplam Kredi:";
+            // 
+            // lblGenelOrtalaması
+            // 
+            this.lblGenelOrtalaması.AutoSize = true;
+            this.lblGenelOrtalaması.Location = new System.Drawing.Point(404, 405);
+            this.lblGenelOrtalaması.Name = "lblGenelOrtalaması";
+            this.lblGenelOrtalaması.Size = new System.Drawing.Size(100, 15);
+            this.lblGenelOrtalaması.TabIndex = 8;
+            this.lblGenelOrtalaması.Text = "Genel Ortalaması:";
             // 
             // OgrenciTranscript
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.lblGenelOrtalaması);
+            this.Controls.Add(this.lblToplamKredi);
+            this.Controls.Add(this.lblDonemOrtalaması);
+            this.Controls.Add(this.lblDonemKredisi);
+            this.Controls.Add(this.dataGridTranscript);
             this.Controls.Add(this.btnGoster);
             this.Controls.Add(this.cbxDonem);
             this.Controls.Add(this.cbxOgrenci);
@@ -102,7 +147,7 @@
             this.Controls.Add(this.label1);
             this.Name = "OgrenciTranscript";
             this.Text = "OgrenciTranscript";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridTranscript)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -115,6 +160,10 @@
         private ComboBox cbxOgrenci;
         private ComboBox cbxDonem;
         private Button btnGoster;
-        private DataGridView dataGridView1;
+        private DataGridView dataGridTranscript;
+        private Label lblDonemKredisi;
+        private Label lblDonemOrtalaması;
+        private Label lblToplamKredi;
+        private Label lblGenelOrtalaması;
     }
 }

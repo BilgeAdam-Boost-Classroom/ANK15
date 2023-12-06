@@ -32,15 +32,15 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
-            this.comboBox4 = new System.Windows.Forms.ComboBox();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.cbxOgrenci = new System.Windows.Forms.ComboBox();
+            this.cbxDers = new System.Windows.Forms.ComboBox();
+            this.cbxDonem = new System.Windows.Forms.ComboBox();
+            this.cbxHarfNotu = new System.Windows.Forms.ComboBox();
+            this.dataGridOgrenciDers = new System.Windows.Forms.DataGridView();
             this.btnOgrenciDersEkle = new System.Windows.Forms.Button();
             this.btnOgrenciDersCıkar = new System.Windows.Forms.Button();
             this.btnTranscript = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridOgrenciDers)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -79,46 +79,47 @@
             this.label4.TabIndex = 3;
             this.label4.Text = "Harf Notu:";
             // 
-            // comboBox1
+            // cbxOgrenci
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(103, 26);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 23);
-            this.comboBox1.TabIndex = 4;
+            this.cbxOgrenci.FormattingEnabled = true;
+            this.cbxOgrenci.Location = new System.Drawing.Point(103, 26);
+            this.cbxOgrenci.Name = "cbxOgrenci";
+            this.cbxOgrenci.Size = new System.Drawing.Size(121, 23);
+            this.cbxOgrenci.TabIndex = 4;
             // 
-            // comboBox2
+            // cbxDers
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(269, 26);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(121, 23);
-            this.comboBox2.TabIndex = 4;
+            this.cbxDers.FormattingEnabled = true;
+            this.cbxDers.Location = new System.Drawing.Point(269, 26);
+            this.cbxDers.Name = "cbxDers";
+            this.cbxDers.Size = new System.Drawing.Size(121, 23);
+            this.cbxDers.TabIndex = 4;
             // 
-            // comboBox3
+            // cbxDonem
             // 
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(453, 26);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(121, 23);
-            this.comboBox3.TabIndex = 4;
+            this.cbxDonem.FormattingEnabled = true;
+            this.cbxDonem.Location = new System.Drawing.Point(453, 26);
+            this.cbxDonem.Name = "cbxDonem";
+            this.cbxDonem.Size = new System.Drawing.Size(121, 23);
+            this.cbxDonem.TabIndex = 4;
             // 
-            // comboBox4
+            // cbxHarfNotu
             // 
-            this.comboBox4.FormattingEnabled = true;
-            this.comboBox4.Location = new System.Drawing.Point(649, 26);
-            this.comboBox4.Name = "comboBox4";
-            this.comboBox4.Size = new System.Drawing.Size(121, 23);
-            this.comboBox4.TabIndex = 4;
+            this.cbxHarfNotu.FormattingEnabled = true;
+            this.cbxHarfNotu.Location = new System.Drawing.Point(649, 26);
+            this.cbxHarfNotu.Name = "cbxHarfNotu";
+            this.cbxHarfNotu.Size = new System.Drawing.Size(121, 23);
+            this.cbxHarfNotu.TabIndex = 4;
             // 
-            // dataGridView1
+            // dataGridOgrenciDers
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(103, 80);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowTemplate.Height = 25;
-            this.dataGridView1.Size = new System.Drawing.Size(667, 221);
-            this.dataGridView1.TabIndex = 5;
+            this.dataGridOgrenciDers.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridOgrenciDers.Location = new System.Drawing.Point(103, 80);
+            this.dataGridOgrenciDers.Name = "dataGridOgrenciDers";
+            this.dataGridOgrenciDers.RowTemplate.Height = 25;
+            this.dataGridOgrenciDers.Size = new System.Drawing.Size(667, 221);
+            this.dataGridOgrenciDers.TabIndex = 5;
+            this.dataGridOgrenciDers.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridOgrenciDers_CellClick);
             // 
             // btnOgrenciDersEkle
             // 
@@ -128,6 +129,7 @@
             this.btnOgrenciDersEkle.TabIndex = 6;
             this.btnOgrenciDersEkle.Text = "Öğrenciye Ders Ekle";
             this.btnOgrenciDersEkle.UseVisualStyleBackColor = true;
+            this.btnOgrenciDersEkle.Click += new System.EventHandler(this.btnOgrenciDersEkle_Click);
             // 
             // btnOgrenciDersCıkar
             // 
@@ -137,6 +139,7 @@
             this.btnOgrenciDersCıkar.TabIndex = 7;
             this.btnOgrenciDersCıkar.Text = "Öğrenciden Ders Çıkar";
             this.btnOgrenciDersCıkar.UseVisualStyleBackColor = true;
+            this.btnOgrenciDersCıkar.Click += new System.EventHandler(this.btnOgrenciDersCıkar_Click);
             // 
             // btnTranscript
             // 
@@ -155,18 +158,18 @@
             this.Controls.Add(this.btnTranscript);
             this.Controls.Add(this.btnOgrenciDersCıkar);
             this.Controls.Add(this.btnOgrenciDersEkle);
-            this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.comboBox4);
-            this.Controls.Add(this.comboBox3);
-            this.Controls.Add(this.comboBox2);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.dataGridOgrenciDers);
+            this.Controls.Add(this.cbxHarfNotu);
+            this.Controls.Add(this.cbxDonem);
+            this.Controls.Add(this.cbxDers);
+            this.Controls.Add(this.cbxOgrenci);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "OgrenciDersEkle";
             this.Text = "OgrenciDersEkle";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridOgrenciDers)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -178,11 +181,11 @@
         private Label label2;
         private Label label3;
         private Label label4;
-        private ComboBox comboBox1;
-        private ComboBox comboBox2;
-        private ComboBox comboBox3;
-        private ComboBox comboBox4;
-        private DataGridView dataGridView1;
+        private ComboBox cbxOgrenci;
+        private ComboBox cbxDers;
+        private ComboBox cbxDonem;
+        private ComboBox cbxHarfNotu;
+        private DataGridView dataGridOgrenciDers;
         private Button btnOgrenciDersEkle;
         private Button btnOgrenciDersCıkar;
         private Button btnTranscript;

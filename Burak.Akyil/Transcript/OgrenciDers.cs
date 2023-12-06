@@ -11,5 +11,6 @@ namespace Transcript
         public Ogrenci Ogrenci { get; set; }
         public Donem Donem { get; set; }
         public Ders Ders { get; set; }
+        public HarfNotu HarfNotu { get; set; }
     }
 }

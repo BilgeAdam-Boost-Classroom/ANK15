@@ -10,6 +10,10 @@ namespace Transcript
     {
         public int No { get; set; }
         public string Ad { get; set; }
-        
+        public override string ToString()
+        {
+            return No.ToString() + ".dönem" + " " + Ad;
+        }
+
     }
 }
