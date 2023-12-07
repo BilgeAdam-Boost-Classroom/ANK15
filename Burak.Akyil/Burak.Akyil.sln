@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankaUygulama.AltYapi", "Ba
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurgerMenu", "BurgerMenu\BurgerMenu\BurgerMenu.csproj", "{11ADA300-EC59-464F-8271-79907B1F6AA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transcript", "Transcript\Transcript.csproj", "{90946CBD-5980-4DCC-B90F-FEBC2B46356E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transcript", "Transcript\Transcript.csproj", "{90946CBD-5980-4DCC-B90F-FEBC2B46356E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OyunTahmin", "OyunTahmin\OyunTahmin.csproj", "{1B6034E2-9082-4F18-80BA-AC6B1C5FE59E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,6 +145,10 @@ Global
 		{90946CBD-5980-4DCC-B90F-FEBC2B46356E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90946CBD-5980-4DCC-B90F-FEBC2B46356E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90946CBD-5980-4DCC-B90F-FEBC2B46356E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6034E2-9082-4F18-80BA-AC6B1C5FE59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6034E2-9082-4F18-80BA-AC6B1C5FE59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6034E2-9082-4F18-80BA-AC6B1C5FE59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6034E2-9082-4F18-80BA-AC6B1C5FE59E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
