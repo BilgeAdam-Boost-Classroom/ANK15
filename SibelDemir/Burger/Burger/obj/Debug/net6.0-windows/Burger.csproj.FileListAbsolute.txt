@@ -19,3 +19,25 @@ C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Burger\Burger\obj\Debug\net
 C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.genruntimeconfig.cache
 C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\ref\Burger.dll
 C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.Properties.Resources.resources
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\bin\Debug\net6.0-windows\Burger.exe
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\bin\Debug\net6.0-windows\Burger.deps.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\bin\Debug\net6.0-windows\Burger.runtimeconfig.json
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\bin\Debug\net6.0-windows\Burger.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\bin\Debug\net6.0-windows\Burger.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.csproj.AssemblyReference.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.AnaForm.resources
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.EkstraMalzemeEkleme.resources
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.MenuEkleme.resources
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.Properties.Resources.resources
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.SiparisBilgileri.resources
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.SiparisEkleme.resources
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.csproj.GenerateResource.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.GeneratedMSBuildEditorConfig.editorconfig
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.AssemblyInfoInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.AssemblyInfo.cs
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.csproj.CoreCompileInputs.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\refint\Burger.dll
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.pdb
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\Burger.genruntimeconfig.cache
+C:\BilgeAdamSibel\ank15(uygulama)\ANK15\SibelDemir\Burger\Burger\obj\Debug\net6.0-windows\ref\Burger.dll
