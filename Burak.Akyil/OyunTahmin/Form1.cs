@@ -38,7 +38,7 @@ namespace OyunTahmin
             oyun.TahminSayisi++;
             try
             {
-                if(Convert.ToInt32(txtSayi.Text) < || Convert.ToInt32(txtSayi.Text) > 100)
+                if(Convert.ToInt32(txtSayi.Text) < 0 || Convert.ToInt32(txtSayi.Text) > 100)
                 {
                     MessageBox.Show("Lütfen [1, 100] araliðinda bir deðer giriniz.");
                     return;
