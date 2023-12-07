@@ -23,7 +23,7 @@ namespace Transcript
         {
             Ders ders = new Ders();
             ders.Ad = txtDersAd.Text;
-            ders.Kod = Convert.ToInt32(txtDersKod.Text);
+            ders.Kod = txtDersKod.Text;
             ders.Kredi = Convert.ToInt32(txtDersKredi.Text);
             dersler.Add(ders);
             dataGridDers.DataSource = null;
@@ -50,7 +50,7 @@ namespace Transcript
             if(secilenDers != null)
             {
                 secilenDers.Ad = txtDersAd.Text;
-                secilenDers.Kod = Convert.ToInt32(txtDersKod.Text);
+                secilenDers.Kod = txtDersKod.Text;
                 secilenDers.Kredi = Convert.ToInt32(txtDersKredi.Text);
                 dataGridDers.DataSource = null;
                 dataGridDers.DataSource = dersler;

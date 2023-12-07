@@ -149,6 +149,7 @@
             this.btnTranscript.TabIndex = 8;
             this.btnTranscript.Text = "Transcript Gör";
             this.btnTranscript.UseVisualStyleBackColor = true;
+            this.btnTranscript.Click += new System.EventHandler(this.btnTranscript_Click);
             // 
             // OgrenciDersEkle
             // 

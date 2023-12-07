@@ -50,5 +50,10 @@ namespace Transcript
             }
         }
 
+        private void btnTranscript_Click(object sender, EventArgs e)
+        {
+            OgrenciTranscript ogrenciTranscript = new OgrenciTranscript();
+            ogrenciTranscript.Show();
+        }
     }
 }
