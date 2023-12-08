@@ -15,13 +15,17 @@ namespace BurgerMenu
 {
     public partial class SiparisEkleme : Form
     {
-
+        public static List<Siparis> siparisler = new List<Siparis>();
         public SiparisEkleme()
         {
             InitializeComponent();
-            lblTutar.Text = string.Format(new CultureInfo("tr-TR"), "TOPLAM TUTAR: {0:C}", 0.00);
+            lblTutar.Text = "₺" + siparisler.Sum(s => s.ToplamTutar).ToString();
             cmbMenu.Items.AddRange(menuList.ToArray());
             clbSos.Items.AddRange(ekstraMalzemeler.ToArray());
+
+            lbxSiparis.Items.AddRange(siparisler.ToArray());
+
+
 
         }
         public static List<Menu> menuList = new List<Menu>()
@@ -43,24 +47,51 @@ namespace BurgerMenu
 
         private void btnSipraisEkle_Click(object sender, EventArgs e)
         {
-            Menu menu = new Menu();
+            
             Siparis siparis = new Siparis();
+            EkstraMalzeme ekstraMalzeme = new EkstraMalzeme();
             siparis.Ad = cmbMenu.SelectedItem.ToString();
             siparis.Adet = (int)nudAdet.Value;
-            siparis.ToplamTutar = (decimal)(siparis.Adet *((Menu)cmbMenu.SelectedItem).Fiyat);
+            siparis.ToplamTutar = ((siparis.Adet * ((Menu)cmbMenu.SelectedItem).Fiyat));
             lblTutar.Text = siparis.ToplamTutar.ToString();
-            if (rdbKucuk.Checked)
+            for (int i = 0; i < clbSos.Items.Count; i++)
+            {
+                if (clbSos.GetItemChecked(i))
+                {
+                    siparis.ToplamTutar += ((EkstraMalzeme)(clbSos.Items[i])).Fiyat;
+                    siparis.ekstraMalzemeler.Add((EkstraMalzeme)(clbSos.Items[i]));
+                }
+            }
+            if (rdbKucuk.Checked == true)
             {
                 siparis.Boyut = Boyut.Kucuk;
+                siparis.ToplamTutar -= 20;
             }
-            else if (rdbOrta.Checked)
+            else if (rdbOrta.Checked == true)
             {
                 siparis.Boyut = Boyut.Orta;
             }
             else
             {
                 siparis.Boyut = Boyut.Buyuk;
+                siparis.ToplamTutar += 20;
             }
+            siparisler.Add(siparis);
+            lbxSiparis.Items.Add(siparis);
+
+            lblTutar.Text = "₺" + siparisler.Sum(s => s.ToplamTutar).ToString();
+            
+        }
+
+        private void btnTamamla_Click(object sender, EventArgs e)
+        {
+            lbxSiparis.Items.Clear();
+           
+            foreach (var item in siparisler)
+            {
+                item.OnaylandiMi = true;
+            }
+            
         }
     }
 

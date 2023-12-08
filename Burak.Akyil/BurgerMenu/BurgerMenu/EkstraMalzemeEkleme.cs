@@ -24,12 +24,13 @@ namespace BurgerMenu
             EkstraMalzeme ekstraMalzeme = new EkstraMalzeme();
             ekstraMalzeme.Ad = txtEkstraMalzeme.Text;
             ekstraMalzeme.Fiyat = Convert.ToDecimal(nudTutar.Value);
-            Siparis.ekstraMalzemeler.Add(ekstraMalzeme);
+            SiparisEkleme.ekstraMalzemeler.Add(ekstraMalzeme);
             
             
             
             
         }
+       
         
         
     }

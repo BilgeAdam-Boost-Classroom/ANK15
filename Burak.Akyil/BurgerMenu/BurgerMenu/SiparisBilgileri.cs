@@ -16,13 +16,35 @@ namespace BurgerMenu
         public SiparisBilgileri()
         {
             InitializeComponent();
-            lblCiro.Text = string.Format(new CultureInfo("tr-TR"), "{0:C}", 0.00);
-            lblToplamSiparis.Text = "0";
-            lblEkstraMalzeme.Text = string.Format(new CultureInfo("tr-TR"), "{0:C}", 0.00);
-            lblSatılamUrun.Text = "0";
+            decimal toplamCiro = 0;
+            foreach (var item in SiparisEkleme.siparisler)
+            {
+                if (item.OnaylandiMi)
+                    toplamCiro += item.ToplamTutar;
+            }
+            lblCiro.Text = "₺" + toplamCiro.ToString();
+            foreach (var item in SiparisEkleme.siparisler)
+            {
+                if (item.OnaylandiMi)
+                    lbxSonuc.Items.Add(item);
+            }
+
             
         }
-        
 
+        private void SiparisBilgileri_Load(object sender, EventArgs e)
+        {
+            lblToplamSiparis.Text = SiparisEkleme.siparisler.Count.ToString();
+            lblSatılanUrun.Text = SiparisEkleme.siparisler.Where(s => s.OnaylandiMi).Sum(s => s.Adet).ToString();
+            decimal ekstraMalzemeGeliri = 0;
+            foreach (var item in SiparisEkleme.siparisler.Where(s => s.OnaylandiMi))
+            {
+                foreach (var item2 in item.ekstraMalzemeler)
+                {
+                    ekstraMalzemeGeliri += item2.Fiyat;
+                    lblEkstraMalzeme.Text = "₺" + ekstraMalzemeGeliri.ToString();
+                }
+            }
+        }
     }
 }
