@@ -1,0 +1,16 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\bin\Debug\net6.0-windows\OyunUygulama.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\bin\Debug\net6.0-windows\OyunUygulama.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\bin\Debug\net6.0-windows\OyunUygulama.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\bin\Debug\net6.0-windows\OyunUygulama.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\bin\Debug\net6.0-windows\OyunUygulama.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\obj\Debug\net6.0-windows\OyunUygulama.Form1.resources
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\obj\Debug\net6.0-windows\OyunUygulama.csproj.GenerateResource.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\obj\Debug\net6.0-windows\OyunUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\obj\Debug\net6.0-windows\OyunUygulama.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\obj\Debug\net6.0-windows\OyunUygulama.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\obj\Debug\net6.0-windows\OyunUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\obj\Debug\net6.0-windows\OyunUygulama.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\obj\Debug\net6.0-windows\refint\OyunUygulama.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\obj\Debug\net6.0-windows\OyunUygulama.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\obj\Debug\net6.0-windows\OyunUygulama.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\OyunUygulama\OyunUygulama\obj\Debug\net6.0-windows\ref\OyunUygulama.dll
