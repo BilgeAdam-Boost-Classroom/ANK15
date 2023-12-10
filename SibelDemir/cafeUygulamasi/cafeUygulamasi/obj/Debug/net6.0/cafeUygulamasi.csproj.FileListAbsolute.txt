@@ -1,0 +1,14 @@
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\obj\Debug\net6.0\cafeUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\obj\Debug\net6.0\cafeUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\obj\Debug\net6.0\cafeUygulamasi.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\obj\Debug\net6.0\cafeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\bin\Debug\net6.0\cafeUygulamasi.exe
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\bin\Debug\net6.0\cafeUygulamasi.deps.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\bin\Debug\net6.0\cafeUygulamasi.runtimeconfig.json
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\bin\Debug\net6.0\cafeUygulamasi.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\bin\Debug\net6.0\cafeUygulamasi.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\obj\Debug\net6.0\cafeUygulamasi.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\obj\Debug\net6.0\refint\cafeUygulamasi.dll
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\obj\Debug\net6.0\cafeUygulamasi.pdb
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\obj\Debug\net6.0\cafeUygulamasi.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\Yeni klasör\ANK15\SibelDemir\cafeUygulamasi\cafeUygulamasi\obj\Debug\net6.0\ref\cafeUygulamasi.dll
