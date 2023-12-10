@@ -16,19 +16,19 @@ namespace OgrenciSistemi
         List<Donem> donemler;
         List<Ogrenci> ogrenciler;
         List<OgrenciDers> ogrenciDersleri=new List<OgrenciDers>();
+        List<Ders>dersler= new List<Ders>();
 
         public DersEkleme(List<Ogrenci> ogrenciler, List<Ders> dersler, List<Donem> donemler)
         {
             InitializeComponent();
             this.ogrenciler = ogrenciler;
             this.donemler = donemler;
+            this.dersler = dersler;
             cmbxOgrenci.DataSource = ogrenciler;
             cmbxDonem.DataSource = donemler;
             cmbxDers.DataSource = dersler;
             cmbxHarfNotu.DataSource = Enum.GetValues(typeof(HarfNotu));
         }
-
-
         private void DersEkleme_Load(object sender, EventArgs e)
         {
 
@@ -36,8 +36,9 @@ namespace OgrenciSistemi
 
         private void btnOgreciyeDersEkle_Click(object sender, EventArgs e)
         {
-            Ogrenci secilenOgrenci= (Ogrenci)cmbxOgrenci.SelectedItem;
             OgrenciDers ogrenciDers = new OgrenciDers();
+            Ogrenci secilenOgrenci = (Ogrenci)cmbxOgrenci.SelectedItem;
+            ogrenciDers.Ogrenci= secilenOgrenci;
             ogrenciDers.Donem = (Donem)cmbxDonem.SelectedItem;
             ogrenciDers.Ders = (Ders)cmbxDers.SelectedItem;
             ogrenciDers.HarfNotu = (HarfNotu)cmbxHarfNotu.SelectedItem;
@@ -58,10 +59,9 @@ namespace OgrenciSistemi
             MessageBox.Show("öğrenciden ders çıkarıldı");
 
         }
-
         private void btnTranscriptGor_Click(object sender, EventArgs e)
         {
-            Transcript transcript = new Transcript(ogrenciler,donemler);
+            Transcript transcript = new Transcript(ogrenciler,donemler,dersler);
             transcript.Show();
                         
         }

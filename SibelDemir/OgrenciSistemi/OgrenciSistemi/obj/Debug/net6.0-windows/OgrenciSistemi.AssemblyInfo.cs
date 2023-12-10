@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OgrenciSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c79ab7ff1d30965d0e44cf50168924f0b44c0ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("OgrenciSistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OgrenciSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -79,7 +79,7 @@ namespace OgrenciSistemi
 
         private void transcriptGorToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormGoster(new Transcript(ogrenciler,donemler));
+            FormGoster(new Transcript(ogrenciler,donemler,dersler));
         }
     }
 }

@@ -14,7 +14,7 @@ namespace OgrenciSistemi
 
         public override string ToString()
         {
-            return Ad+" ";
+            return Ad+"      "+Kod+"     ";
         }
 
     }
