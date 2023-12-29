@@ -13,3 +13,17 @@ C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\DelegatesEventsShi
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\DelegatesEventsShipment.pdb
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\DelegatesEventsShipment.genruntimeconfig.cache
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\ref\DelegatesEventsShipment.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\bin\Debug\net6.0\DelegatesEventsShipment.exe
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\bin\Debug\net6.0\DelegatesEventsShipment.deps.json
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\bin\Debug\net6.0\DelegatesEventsShipment.runtimeconfig.json
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\bin\Debug\net6.0\DelegatesEventsShipment.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\bin\Debug\net6.0\DelegatesEventsShipment.pdb
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\DelegatesEventsShipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\DelegatesEventsShipment.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\DelegatesEventsShipment.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\DelegatesEventsShipment.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\DelegatesEventsShipment.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\refint\DelegatesEventsShipment.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\DelegatesEventsShipment.pdb
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\DelegatesEventsShipment.genruntimeconfig.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\DelegatesEventsShipment\obj\Debug\net6.0\ref\DelegatesEventsShipment.dll
