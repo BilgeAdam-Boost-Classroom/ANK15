@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\b26re\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\OgrenciSistemi.csproj": {}
+    "C:\\Users\\Sibel\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\OgrenciSistemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\b26re\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\OgrenciSistemi.csproj": {
+    "C:\\Users\\Sibel\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\OgrenciSistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b26re\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\OgrenciSistemi.csproj",
+        "projectUniqueName": "C:\\Users\\Sibel\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\OgrenciSistemi.csproj",
         "projectName": "OgrenciSistemi",
-        "projectPath": "C:\\Users\\b26re\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\OgrenciSistemi.csproj",
-        "packagesPath": "C:\\Users\\b26re\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b26re\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\obj\\",
+        "projectPath": "C:\\Users\\Sibel\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\OgrenciSistemi.csproj",
+        "packagesPath": "C:\\Users\\Sibel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sibel\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\b26re\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sibel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,7 +56,7 @@
               "version": "[6.0.25, 6.0.25]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "name": "Microsoft.NETCore.App.Host.win-arm64",
               "version": "[6.0.25, 6.0.25]"
             },
             {

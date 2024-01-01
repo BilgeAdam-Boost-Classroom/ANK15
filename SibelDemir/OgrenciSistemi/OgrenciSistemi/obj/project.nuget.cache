@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PrmYYT+LgzJPAYAZqxoT5oWE+BLGDFIDDTmJVGfLmNBAqdBtk2a2vkeuFs+eDeYCmnYtWgVIX6j9YTAyRYr1pw==",
+  "dgSpecHash": "jW+zGldK4dzb4rqmCXGx7zHqk2gNBzVSr8NzlwwBNQIJEf2Bevw/udCOmpcWG9XBDAYcrSSDjUpa7yIeOpK8+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\b26re\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\OgrenciSistemi.csproj",
+  "projectFilePath": "C:\\Users\\Sibel\\Desktop\\ANK15\\SibelDemir\\OgrenciSistemi\\OgrenciSistemi\\OgrenciSistemi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\b26re\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\b26re\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\b26re\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\b26re\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+    "C:\\Users\\Sibel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Sibel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Sibel\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.25\\microsoft.netcore.app.host.win-arm64.6.0.25.nupkg.sha512",
+    "C:\\Users\\Sibel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
   ],
   "logs": []
 }

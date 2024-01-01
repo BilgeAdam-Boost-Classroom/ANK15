@@ -122,5 +122,5 @@ C:\Users\Sibel\Desktop\SQL\UniversiteEF1\UniversiteEF1\obj\Debug\net8.0-windows\
 C:\Users\Sibel\Desktop\SQL\UniversiteEF1\UniversiteEF1\obj\Debug\net8.0-windows\UniversiteEF1.Ogrenci.resources
 C:\Users\Sibel\Desktop\SQL\UniversiteEF1\UniversiteEF1\obj\Debug\net8.0-windows\UniversiteEF1.Ders.resources
 C:\Users\Sibel\Desktop\SQL\UniversiteEF1\UniversiteEF1\obj\Debug\net8.0-windows\UniversiteEF1.Diploma.resources
-C:\Users\Sibel\Desktop\SQL\UniversiteEF1\UniversiteEF1\obj\Debug\net8.0-windows\UniversiteEF1.OgrenciyeDanısman.resources
 C:\Users\Sibel\Desktop\SQL\UniversiteEF1\UniversiteEF1\obj\Debug\net8.0-windows\UniversiteEF1.OgrenciyeDers.resources
+C:\Users\Sibel\Desktop\SQL\UniversiteEF1\UniversiteEF1\obj\Debug\net8.0-windows\UniversiteEF1.OgrenciyeDanisman.resources

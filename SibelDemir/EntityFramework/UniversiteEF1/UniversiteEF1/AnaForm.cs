@@ -61,7 +61,7 @@ namespace UniversiteEF1
 
         private void ogrenciyeDanısmanToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormAc(new OgrenciyeDanısman());
+            FormAc(new OgrenciyeDanisman());
         }
     }
 }
