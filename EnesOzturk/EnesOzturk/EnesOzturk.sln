@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev_6Soru2", "Odev_6Soru2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev6Soru3", "Odev6Soru3\Odev6Soru3.csproj", "{AD2CEDA8-7BAD-4729-AA02-220FF7B26BAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codeFirstokul", "codeFirstokul\codeFirstokul.csproj", "{B2F53B6F-E72C-43BE-B748-E0BB65D96834}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{AD2CEDA8-7BAD-4729-AA02-220FF7B26BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD2CEDA8-7BAD-4729-AA02-220FF7B26BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD2CEDA8-7BAD-4729-AA02-220FF7B26BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F53B6F-E72C-43BE-B748-E0BB65D96834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F53B6F-E72C-43BE-B748-E0BB65D96834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F53B6F-E72C-43BE-B748-E0BB65D96834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F53B6F-E72C-43BE-B748-E0BB65D96834}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
