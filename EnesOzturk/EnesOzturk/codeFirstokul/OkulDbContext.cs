@@ -13,7 +13,10 @@ namespace codeFirstokul
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=DESKTOP-A7N4232;database=ANK15OkulDb;trusted_connection=true;trustservercertificate=true;");
+        optionsBuilder.UseSqlServer("server=DESKTOP-                             A7N4232;database=ANK15OkulDb;trusted_connection=true;trustservercertificate=true;");
+
+
+
         }
 
     }
