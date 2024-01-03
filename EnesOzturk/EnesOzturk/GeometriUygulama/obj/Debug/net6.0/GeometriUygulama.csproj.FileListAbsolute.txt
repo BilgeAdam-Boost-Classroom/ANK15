@@ -12,3 +12,4 @@ C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\D
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\GeometriUygulama.pdb
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\GeometriUygulama.genruntimeconfig.cache
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\ref\GeometriUygulama.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriUygulama\obj\Debug\net6.0\GeometriUygulama.sourcelink.json

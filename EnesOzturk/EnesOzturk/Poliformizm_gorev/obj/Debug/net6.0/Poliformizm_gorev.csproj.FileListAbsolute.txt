@@ -1,0 +1,15 @@
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\bin\Debug\net6.0\Poliformizm_gorev.exe
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\bin\Debug\net6.0\Poliformizm_gorev.deps.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\bin\Debug\net6.0\Poliformizm_gorev.runtimeconfig.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\bin\Debug\net6.0\Poliformizm_gorev.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\bin\Debug\net6.0\Poliformizm_gorev.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\obj\Debug\net6.0\Poliformizm_gorev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\obj\Debug\net6.0\Poliformizm_gorev.AssemblyInfoInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\obj\Debug\net6.0\Poliformizm_gorev.AssemblyInfo.cs
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\obj\Debug\net6.0\Poliformizm_gorev.csproj.CoreCompileInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\obj\Debug\net6.0\Poliformizm_gorev.sourcelink.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\obj\Debug\net6.0\Poliformizm_gorev.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\obj\Debug\net6.0\refint\Poliformizm_gorev.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\obj\Debug\net6.0\Poliformizm_gorev.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\obj\Debug\net6.0\Poliformizm_gorev.genruntimeconfig.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\obj\Debug\net6.0\ref\Poliformizm_gorev.dll

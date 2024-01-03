@@ -1,0 +1,15 @@
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\bin\Debug\net6.0\AbstarctionGorevşer.exe
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\bin\Debug\net6.0\AbstarctionGorevşer.deps.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\bin\Debug\net6.0\AbstarctionGorevşer.runtimeconfig.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\bin\Debug\net6.0\AbstarctionGorevşer.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\bin\Debug\net6.0\AbstarctionGorevşer.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\obj\Debug\net6.0\AbstarctionGorevşer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\obj\Debug\net6.0\AbstarctionGorevşer.AssemblyInfoInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\obj\Debug\net6.0\AbstarctionGorevşer.AssemblyInfo.cs
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\obj\Debug\net6.0\AbstarctionGorevşer.csproj.CoreCompileInputs.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\obj\Debug\net6.0\AbstarctionGorevşer.sourcelink.json
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\obj\Debug\net6.0\AbstarctionGorevşer.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\obj\Debug\net6.0\refint\AbstarctionGorevşer.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\obj\Debug\net6.0\AbstarctionGorevşer.pdb
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\obj\Debug\net6.0\AbstarctionGorevşer.genruntimeconfig.cache
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\AbstarctionGorevşer\obj\Debug\net6.0\ref\AbstarctionGorevşer.dll

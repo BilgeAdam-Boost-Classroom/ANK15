@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Poliformizm_gorev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dba0461c0ccd837a6cb4aff3ac88653601a03dd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Poliformizm_gorev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Poliformizm_gorev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

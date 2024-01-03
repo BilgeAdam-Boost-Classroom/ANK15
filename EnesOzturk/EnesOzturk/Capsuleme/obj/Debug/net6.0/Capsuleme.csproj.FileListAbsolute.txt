@@ -12,3 +12,4 @@ C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\ne
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\Capsuleme.pdb
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\Capsuleme.genruntimeconfig.cache
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\ref\Capsuleme.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Capsuleme\obj\Debug\net6.0\Capsuleme.sourcelink.json

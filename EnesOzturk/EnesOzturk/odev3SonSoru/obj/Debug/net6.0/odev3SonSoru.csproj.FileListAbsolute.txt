@@ -12,3 +12,4 @@ C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\odev3SonSoru\obj\Debug
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\odev3SonSoru\obj\Debug\net6.0\odev3SonSoru.pdb
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\odev3SonSoru\obj\Debug\net6.0\odev3SonSoru.genruntimeconfig.cache
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\odev3SonSoru\obj\Debug\net6.0\ref\odev3SonSoru.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\odev3SonSoru\obj\Debug\net6.0\odev3SonSoru.sourcelink.json

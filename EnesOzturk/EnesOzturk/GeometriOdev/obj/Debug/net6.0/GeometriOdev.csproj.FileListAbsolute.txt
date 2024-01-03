@@ -12,3 +12,4 @@ C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\GeometriOdev.pdb
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\GeometriOdev.genruntimeconfig.cache
 C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\ref\GeometriOdev.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\GeometriOdev\obj\Debug\net6.0\GeometriOdev.sourcelink.json

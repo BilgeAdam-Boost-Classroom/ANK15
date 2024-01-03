@@ -27,3 +27,4 @@ C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\ob
 C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\HesapMakinesi.pdb
 C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\HesapMakinesi.genruntimeconfig.cache
 C:\Users\enes.ozturk\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\ref\HesapMakinesi.dll
+C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\HesapMakinesi\obj\Debug\net6.0\HesapMakinesi.sourcelink.json
