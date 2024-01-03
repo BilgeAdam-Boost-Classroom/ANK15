@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Poliformizm_gorev
 build_property.ProjectDir = C:\Users\oztur\Source\Repos\ANK15AP\EnesOzturk\EnesOzturk\Poliformizm_gorev\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
