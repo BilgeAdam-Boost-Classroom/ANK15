@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\OdevForm\\OdevForm.csproj": {}
+    "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\OdevForm\\OdevForm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\OdevForm\\OdevForm.csproj": {
+    "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\OdevForm\\OdevForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\OdevForm\\OdevForm.csproj",
+        "projectUniqueName": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\OdevForm\\OdevForm.csproj",
         "projectName": "OdevForm",
-        "projectPath": "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\OdevForm\\OdevForm.csproj",
+        "projectPath": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\OdevForm\\OdevForm.csproj",
         "packagesPath": "C:\\Users\\Cihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\OdevForm\\obj\\",
+        "outputPath": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\OdevForm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
