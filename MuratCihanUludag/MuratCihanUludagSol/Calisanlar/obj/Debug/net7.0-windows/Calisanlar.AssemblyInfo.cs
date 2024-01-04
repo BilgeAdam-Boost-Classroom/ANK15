@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calisanlar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b70c3ab103b12c25692e7ea85f84aad1a0d083b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calisanlar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calisanlar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

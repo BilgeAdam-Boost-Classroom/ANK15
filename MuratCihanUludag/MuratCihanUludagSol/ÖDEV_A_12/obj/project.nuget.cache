@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RupXU6pAoND8g6QyhEeycm4/jDEbrWsNu1Ik23oOnqiQxVBpmzFia5h3OWA9mC97+XS6DFVZZtbXq5rB3awTcw==",
+  "dgSpecHash": "vUTHtKTQd0K8KpQOdTUdEANfG5WArRvqyYT2NFMLayIPLlrd/aJ7cqt2HPz87wGV5253Efb5WWPN6fi8oCx0nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cihan\\Desktop\\ÖDEV_A_12\\ÖDEV_A_12.csproj",
+  "projectFilePath": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\ÖDEV_A_12\\ÖDEV_A_12.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cihan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Cihan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
