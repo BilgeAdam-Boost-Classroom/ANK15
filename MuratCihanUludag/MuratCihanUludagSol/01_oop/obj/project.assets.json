@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\01_oop\\01_oop.csproj",
+      "projectUniqueName": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\01_oop\\01_oop.csproj",
       "projectName": "01_oop",
-      "projectPath": "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\01_oop\\01_oop.csproj",
+      "projectPath": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\01_oop\\01_oop.csproj",
       "packagesPath": "C:\\Users\\Cihan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cihan\\Desktop\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\01_oop\\obj\\",
+      "outputPath": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\01_oop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
