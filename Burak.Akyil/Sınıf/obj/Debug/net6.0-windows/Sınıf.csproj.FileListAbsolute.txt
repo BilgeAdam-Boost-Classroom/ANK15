@@ -31,3 +31,20 @@ C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Sınıf\obj\Debug\net6.0-wind
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.pdb
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.genruntimeconfig.cache
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\ref\Sınıf.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\bin\Debug\net6.0-windows\Sınıf.exe
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\bin\Debug\net6.0-windows\Sınıf.deps.json
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\bin\Debug\net6.0-windows\Sınıf.runtimeconfig.json
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\bin\Debug\net6.0-windows\Sınıf.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\bin\Debug\net6.0-windows\Sınıf.pdb
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.csproj.AssemblyReference.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.Form1.resources
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.csproj.GenerateResource.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.AssemblyInfoInputs.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.AssemblyInfo.cs
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.csproj.CoreCompileInputs.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\refint\Sınıf.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.pdb
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\Sınıf.genruntimeconfig.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Sınıf\obj\Debug\net6.0-windows\ref\Sınıf.dll

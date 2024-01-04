@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev7\\Odev7.csproj": {}
+    "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Odev7\\Odev7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev7\\Odev7.csproj": {
+    "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Odev7\\Odev7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev7\\Odev7.csproj",
+        "projectUniqueName": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Odev7\\Odev7.csproj",
         "projectName": "Odev7",
-        "projectPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev7\\Odev7.csproj",
-        "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev7\\obj\\",
+        "projectPath": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Odev7\\Odev7.csproj",
+        "packagesPath": "C:\\Users\\burak.akyil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Odev7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\burak.akyil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
