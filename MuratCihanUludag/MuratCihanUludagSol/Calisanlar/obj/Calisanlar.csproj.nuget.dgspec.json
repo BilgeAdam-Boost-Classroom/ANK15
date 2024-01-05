@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Calisanlar\\Calisanlar.csproj": {}
+    "C:\\Users\\Cihan\\Desktop\\Yeni klasör\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Calisanlar\\Calisanlar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Calisanlar\\Calisanlar.csproj": {
+    "C:\\Users\\Cihan\\Desktop\\Yeni klasör\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Calisanlar\\Calisanlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Calisanlar\\Calisanlar.csproj",
+        "projectUniqueName": "C:\\Users\\Cihan\\Desktop\\Yeni klasör\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Calisanlar\\Calisanlar.csproj",
         "projectName": "Calisanlar",
-        "projectPath": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Calisanlar\\Calisanlar.csproj",
+        "projectPath": "C:\\Users\\Cihan\\Desktop\\Yeni klasör\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Calisanlar\\Calisanlar.csproj",
         "packagesPath": "C:\\Users\\Cihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Calisanlar\\obj\\",
+        "outputPath": "C:\\Users\\Cihan\\Desktop\\Yeni klasör\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Calisanlar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
