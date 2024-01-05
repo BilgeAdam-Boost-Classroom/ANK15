@@ -12,3 +12,18 @@ C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUl
 C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\Odev-4.pdb
 C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\Odev-4.genruntimeconfig.cache
 C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\ref\Odev-4.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\bin\Debug\net7.0\Odev-4.exe
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\bin\Debug\net7.0\Odev-4.deps.json
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\bin\Debug\net7.0\Odev-4.runtimeconfig.json
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\bin\Debug\net7.0\Odev-4.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\bin\Debug\net7.0\Odev-4.pdb
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\Odev-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\Odev-4.AssemblyInfoInputs.cache
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\Odev-4.AssemblyInfo.cs
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\Odev-4.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\Odev-4.sourcelink.json
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\Odev-4.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\refint\Odev-4.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\Odev-4.pdb
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\Odev-4.genruntimeconfig.cache
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\Odev-4\obj\Debug\net7.0\ref\Odev-4.dll
