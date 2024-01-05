@@ -14,7 +14,7 @@ namespace Odev6_Araba
         public string UretimYili { get; set; }
         public string OzellikleriYaz()
         {
-            string text = $"Markası: {Marka}\nModel:{Model}\nRengi: {Renk}\nUretim Yılı: {2016}";
+            string text = $"Markası: {Marka}\nModel:{Model}\nRengi: {Renk}\nUretim Yılı: {UretimYili}";
             return text;
         }
     }

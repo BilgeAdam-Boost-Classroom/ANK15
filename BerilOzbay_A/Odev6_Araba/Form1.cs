@@ -17,9 +17,7 @@ namespace Odev6_Araba
             InitializeComponent();
             foreach (Araba araba in arabalar)
             {
-                //lbAraba.Items.Add($"{araba.Marka} - {araba.Model}");
                 lbAraba.Items.Add($"{araba.Marka} - {araba.Model}");
-
             }
         }
 

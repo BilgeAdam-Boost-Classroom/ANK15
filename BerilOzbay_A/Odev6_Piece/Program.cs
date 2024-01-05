@@ -77,7 +77,6 @@
                         {
                             Name = "Vezir",
                             Color = Enum.GetValues<PieceColor>()[randForColor.Next(0, 2)]
-
                         };
                         pieces.Add(quenn);
                         break;
