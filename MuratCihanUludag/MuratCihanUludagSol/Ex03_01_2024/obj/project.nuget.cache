@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aH0l8BPs3NBfLIDtwlNnpYuS0YN/AyS5AOWeto4JXuyGfYagaKzOclddXlnhd59MEK09Wnu1Feekg1VJnJ4afA==",
+  "dgSpecHash": "deC3ynKioVXqptHaXSZc2zcc8joAEEdfzblN4thVO4N4M4zb0kNjzZ8yPgpe23tESaTKvqmltTgcuK1mFbWXZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Ex03_01_2024\\Ex03_01_2024.csproj",
+  "projectFilePath": "C:\\Users\\Cihan\\Desktop\\Yeni klasör\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\Ex03_01_2024\\Ex03_01_2024.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cihan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Cihan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
