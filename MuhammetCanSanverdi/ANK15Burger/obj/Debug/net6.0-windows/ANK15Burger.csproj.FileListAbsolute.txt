@@ -1,0 +1,42 @@
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\bin\Debug\net6.0-windows\ANK15Burger.exe
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\bin\Debug\net6.0-windows\ANK15Burger.deps.json
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\bin\Debug\net6.0-windows\ANK15Burger.runtimeconfig.json
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\bin\Debug\net6.0-windows\ANK15Burger.dll
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\bin\Debug\net6.0-windows\ANK15Burger.pdb
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.AnaForm.resources
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.EkstraMalzemeEkleme.resources
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.MenuEkleme.resources
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.SiparisBilgileri.resources
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.SiparisEkleme.resources
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.dll
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\refint\ANK15Burger.dll
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.pdb
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ref\ANK15Burger.dll
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.Properties.Resources.resources
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\bin\Debug\net6.0-windows\ANK15Burger.exe
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\bin\Debug\net6.0-windows\ANK15Burger.deps.json
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\bin\Debug\net6.0-windows\ANK15Burger.runtimeconfig.json
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\bin\Debug\net6.0-windows\ANK15Burger.dll
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\bin\Debug\net6.0-windows\ANK15Burger.pdb
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.AnaForm.resources
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.EkstraMalzemeEkleme.resources
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.MenuEkleme.resources
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.Properties.Resources.resources
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.SiparisBilgileri.resources
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.SiparisEkleme.resources
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.dll
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\refint\ANK15Burger.dll
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.pdb
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ANK15Burger.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Masaüstü\MuhammetCanSanverdi 2\MuhammetCanSanverdi 2\ANK15Burger\obj\Debug\net6.0-windows\ref\ANK15Burger.dll

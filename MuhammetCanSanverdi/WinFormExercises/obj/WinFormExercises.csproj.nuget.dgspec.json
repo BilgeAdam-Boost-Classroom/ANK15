@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj": {}
+    "C:\\Users\\muham\\OneDrive\\Masaüstü\\Yeni klasör (5)\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj": {
+    "C:\\Users\\muham\\OneDrive\\Masaüstü\\Yeni klasör (5)\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj",
+        "projectUniqueName": "C:\\Users\\muham\\OneDrive\\Masaüstü\\Yeni klasör (5)\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj",
         "projectName": "WinFormExercises",
-        "projectPath": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\WinFormExercises.csproj",
-        "packagesPath": "C:\\Users\\muham_9lszvft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muham_9lszvft\\Desktop\\ANK15\\WinFormExercises\\obj\\",
+        "projectPath": "C:\\Users\\muham\\OneDrive\\Masaüstü\\Yeni klasör (5)\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\WinFormExercises.csproj",
+        "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muham\\OneDrive\\Masaüstü\\Yeni klasör (5)\\ANK15\\MuhammetCanSanverdi\\WinFormExercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\muham_9lszvft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

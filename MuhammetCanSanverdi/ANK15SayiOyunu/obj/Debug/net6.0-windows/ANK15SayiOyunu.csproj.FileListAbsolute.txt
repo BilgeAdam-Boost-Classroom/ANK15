@@ -1,0 +1,16 @@
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\bin\Debug\net6.0-windows\ANK15SayiOyunu.exe
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\bin\Debug\net6.0-windows\ANK15SayiOyunu.deps.json
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\bin\Debug\net6.0-windows\ANK15SayiOyunu.runtimeconfig.json
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\bin\Debug\net6.0-windows\ANK15SayiOyunu.dll
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\bin\Debug\net6.0-windows\ANK15SayiOyunu.pdb
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\obj\Debug\net6.0-windows\ANK15SayiOyunu.Form1.resources
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\obj\Debug\net6.0-windows\ANK15SayiOyunu.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\obj\Debug\net6.0-windows\ANK15SayiOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\obj\Debug\net6.0-windows\ANK15SayiOyunu.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\obj\Debug\net6.0-windows\ANK15SayiOyunu.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\obj\Debug\net6.0-windows\ANK15SayiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\obj\Debug\net6.0-windows\ANK15SayiOyunu.dll
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\obj\Debug\net6.0-windows\refint\ANK15SayiOyunu.dll
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\obj\Debug\net6.0-windows\ANK15SayiOyunu.pdb
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\obj\Debug\net6.0-windows\ANK15SayiOyunu.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SayiOyunu\obj\Debug\net6.0-windows\ref\ANK15SayiOyunu.dll

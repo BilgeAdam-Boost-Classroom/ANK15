@@ -1,0 +1,16 @@
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\bin\Debug\net6.0-windows\ANK15SAYIBUL.exe
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\bin\Debug\net6.0-windows\ANK15SAYIBUL.deps.json
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\bin\Debug\net6.0-windows\ANK15SAYIBUL.runtimeconfig.json
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\bin\Debug\net6.0-windows\ANK15SAYIBUL.dll
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\bin\Debug\net6.0-windows\ANK15SAYIBUL.pdb
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\obj\Debug\net6.0-windows\ANK15SAYIBUL.Form1.resources
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\obj\Debug\net6.0-windows\ANK15SAYIBUL.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\obj\Debug\net6.0-windows\ANK15SAYIBUL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\obj\Debug\net6.0-windows\ANK15SAYIBUL.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\obj\Debug\net6.0-windows\ANK15SAYIBUL.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\obj\Debug\net6.0-windows\ANK15SAYIBUL.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\obj\Debug\net6.0-windows\ANK15SAYIBUL.dll
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\obj\Debug\net6.0-windows\refint\ANK15SAYIBUL.dll
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\obj\Debug\net6.0-windows\ANK15SAYIBUL.pdb
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\obj\Debug\net6.0-windows\ANK15SAYIBUL.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Masaüstü\ANK15-master\MuhammetCanSanverdi\ANK15SAYIBUL\obj\Debug\net6.0-windows\ref\ANK15SAYIBUL.dll

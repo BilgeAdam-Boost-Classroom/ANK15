@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ANK15SAYIBUL/1.0.0": {
+        "runtime": {
+          "ANK15SAYIBUL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ANK15SAYIBUL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
