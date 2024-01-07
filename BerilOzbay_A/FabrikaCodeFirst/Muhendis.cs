@@ -12,5 +12,9 @@ namespace FabrikaCodeFirst
         public string Adi { get; set; }
         public string Soyad { get; set; }
         public ICollection<MuhendisAraba> muhendisAraba { get; set; }
+        public override string ToString()
+        {
+            return Adi + " " + Soyad;
+        }
     }
 }

@@ -11,5 +11,9 @@ namespace FabrikaCodeFirst
         public int Id { get; set; }
         public string Kodu { get; set; }
         public Araba Araba { get; set; }
+        public override string ToString()
+        {
+            return Kodu;
+        }
     }
 }

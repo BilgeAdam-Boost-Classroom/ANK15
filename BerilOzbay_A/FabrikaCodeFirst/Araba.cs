@@ -19,5 +19,10 @@ namespace FabrikaCodeFirst
         public int KisiId { get; set; }
         public Kisi Kisi { get; set; }
         public ICollection<MuhendisAraba> muhendisAraba { get; set; }
+
+        public override string ToString()
+        {
+            return Model + "-" + Yıl;
+        }
     }
 }
