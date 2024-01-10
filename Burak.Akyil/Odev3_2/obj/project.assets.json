@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev3_2\\Odev3_2.csproj",
+      "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev3_2\\Odev3_2.csproj",
       "projectName": "Odev3_2",
-      "projectPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev3_2\\Odev3_2.csproj",
+      "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev3_2\\Odev3_2.csproj",
       "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev3_2\\obj\\",
+      "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev3_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",

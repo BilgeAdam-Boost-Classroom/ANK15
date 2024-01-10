@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev12\\Odev12.csproj",
+      "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev12\\Odev12.csproj",
       "projectName": "Odev12",
-      "projectPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev12\\Odev12.csproj",
+      "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev12\\Odev12.csproj",
       "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev12\\obj\\",
+      "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",

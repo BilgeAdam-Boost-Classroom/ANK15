@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Sınıf\\Sınıf.csproj",
+      "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj",
       "projectName": "Sınıf",
-      "projectPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Sınıf\\Sınıf.csproj",
+      "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj",
       "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Sınıf\\obj\\",
+      "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Sınıf\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",

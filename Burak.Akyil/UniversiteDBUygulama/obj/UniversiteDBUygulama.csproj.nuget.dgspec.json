@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\UniversiteDBUygulama\\UniversiteDBUygulama.csproj": {}
+    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\UniversiteDBUygulama\\UniversiteDBUygulama.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\UniversiteDBUygulama\\UniversiteDBUygulama.csproj": {
+    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\UniversiteDBUygulama\\UniversiteDBUygulama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\UniversiteDBUygulama\\UniversiteDBUygulama.csproj",
+        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\UniversiteDBUygulama\\UniversiteDBUygulama.csproj",
         "projectName": "UniversiteDBUygulama",
-        "projectPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\UniversiteDBUygulama\\UniversiteDBUygulama.csproj",
+        "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\UniversiteDBUygulama\\UniversiteDBUygulama.csproj",
         "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\UniversiteDBUygulama\\obj\\",
+        "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\UniversiteDBUygulama\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",

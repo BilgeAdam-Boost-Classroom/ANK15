@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Polymorphism\\Polymorphism.csproj": {}
+    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Polymorphism\\Polymorphism.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Polymorphism\\Polymorphism.csproj": {
+    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Polymorphism\\Polymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Polymorphism\\Polymorphism.csproj",
+        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Polymorphism\\Polymorphism.csproj",
         "projectName": "Polymorphism",
-        "projectPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Polymorphism\\Polymorphism.csproj",
+        "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Polymorphism\\Polymorphism.csproj",
         "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Polymorphism\\obj\\",
+        "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Polymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",

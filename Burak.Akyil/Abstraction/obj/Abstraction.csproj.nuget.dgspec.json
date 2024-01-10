@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Abstraction\\Abstraction.csproj": {}
+    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Abstraction\\Abstraction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Abstraction\\Abstraction.csproj": {
+    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Abstraction\\Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Abstraction\\Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Abstraction\\Abstraction.csproj",
         "projectName": "Abstraction",
-        "projectPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Abstraction\\Abstraction.csproj",
+        "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Abstraction\\Abstraction.csproj",
         "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Abstraction\\obj\\",
+        "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\EnumPersonel\\EnumPersonel.csproj": {}
+    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\EnumPersonel\\EnumPersonel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\EnumPersonel\\EnumPersonel.csproj": {
+    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\EnumPersonel\\EnumPersonel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\EnumPersonel\\EnumPersonel.csproj",
+        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\EnumPersonel\\EnumPersonel.csproj",
         "projectName": "EnumPersonel",
-        "projectPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\EnumPersonel\\EnumPersonel.csproj",
+        "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\EnumPersonel\\EnumPersonel.csproj",
         "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\EnumPersonel\\obj\\",
+        "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\EnumPersonel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\DelegatesEventsShipment\\DelegatesEventsShipment.csproj": {}
+    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\DelegatesEventsShipment\\DelegatesEventsShipment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\DelegatesEventsShipment\\DelegatesEventsShipment.csproj": {
+    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\DelegatesEventsShipment\\DelegatesEventsShipment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\DelegatesEventsShipment\\DelegatesEventsShipment.csproj",
+        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\DelegatesEventsShipment\\DelegatesEventsShipment.csproj",
         "projectName": "DelegatesEventsShipment",
-        "projectPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\DelegatesEventsShipment\\DelegatesEventsShipment.csproj",
+        "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\DelegatesEventsShipment\\DelegatesEventsShipment.csproj",
         "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\DelegatesEventsShipment\\obj\\",
+        "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\DelegatesEventsShipment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",

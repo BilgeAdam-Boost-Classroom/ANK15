@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nz270hdU87iFUPsKHPpPi5jaVgsH8RbRVKKDrLzudbNx7Ud8WW5A3fZlICzU3VebwfW8tOrSeaZZS4marxO2wQ==",
+  "dgSpecHash": "VAP6zoRVgiRWZaUGqyIz9d/AUip+X5AZ82wjb0VvZ8OsvX8N4c2wWnhPiP9JxqwGRDbCbLi0xF96vtmtwEsjSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\Odev12\\Odev12.csproj",
+  "projectFilePath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev12\\Odev12.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Burak Akyıl\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Burak Akyıl\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

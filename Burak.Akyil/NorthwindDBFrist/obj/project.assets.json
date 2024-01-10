@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\NorthwindDBFrist\\NorthwindDBFrist.csproj",
+      "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\NorthwindDBFrist\\NorthwindDBFrist.csproj",
       "projectName": "NorthwindDBFrist",
-      "projectPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\NorthwindDBFrist\\NorthwindDBFrist.csproj",
+      "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\NorthwindDBFrist\\NorthwindDBFrist.csproj",
       "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\NorthwindDBFrist\\obj\\",
+      "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\NorthwindDBFrist\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",
