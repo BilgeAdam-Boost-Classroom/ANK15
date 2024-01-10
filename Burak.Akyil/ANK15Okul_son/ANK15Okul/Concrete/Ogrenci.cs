@@ -38,6 +38,8 @@ namespace ANK15Okul.Concrete
         public List<OgrenciDers> OgrenciDersler { get; set; }
         public Sube Sube { get; set; }
         public int SubeYabancıAnahtar { get; set; }
+        public int KarneId { get; set; }
+        public Transcript Transcript { get; set; }
 
         public override string ToString()
         {

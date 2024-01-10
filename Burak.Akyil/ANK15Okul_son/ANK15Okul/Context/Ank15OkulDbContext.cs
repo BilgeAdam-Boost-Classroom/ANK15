@@ -21,6 +21,11 @@ namespace ANK15Okul.Context
         public DbSet<Calisan> Calisanlar { get; set; }
         public DbSet<Sube> Subeler { get; set; }
         public DbSet<Laboratuvar> Laboratuvarlar { get; set; }
+        public DbSet<Transcript> Transcriptler { get; set; }
+        public DbSet<Yazar> Yazarlar { get; set; }
+        public DbSet<Kitap> Kitaplar { get; set; }
+        public DbSet<YazarKitap> YazarKitaplar { get; set; }
+
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -31,13 +36,47 @@ namespace ANK15Okul.Context
         {
             modelBuilder.Entity<Sube>()
                 .HasIndex(s => s.Ad).IsUnique();
-            modelBuilder.Entity<Sube>().ToTable("Sections");
-            modelBuilder.Entity<Sube>().HasKey(s => s.SubeBirincilAnahtar);
-            modelBuilder.Entity<Laboratuvar>().HasKey(l => l.L1);
-            modelBuilder.Entity<Laboratuvar>().Property(l => l.L1).HasColumnName("L2");
-            modelBuilder.Entity<Laboratuvar>().Ignore(l => l.Tanim);
-            modelBuilder.Entity<Sube>().Property(s => s.Aciklama).HasColumnType("nvarchar(250)");
-            modelBuilder.Entity<Ogrenci>().HasOne(o => o.Sube).WithMany(d => d.Ogrenciler).HasForeignKey(p => p.SubeYabancıAnahtar);
+
+            modelBuilder.Entity<Sube>()
+                .ToTable("Sections");
+
+            modelBuilder.Entity<Sube>()
+                .HasKey(s => s.SubeBirincilAnahtar);
+
+            modelBuilder.Entity<Laboratuvar>()
+                .HasKey(l => l.L1);
+
+            modelBuilder.Entity<Laboratuvar>()
+                .Property(l => l.L1)
+                .HasColumnName("L2");
+
+            modelBuilder.Entity<Laboratuvar>()
+                .Ignore(l => l.Tanim);
+
+            modelBuilder.Entity<Sube>()
+                .Property(s => s.Aciklama)
+                .HasColumnType("nvarchar(250)");
+
+            modelBuilder.Entity<Ogrenci>()
+                .HasOne(o => o.Sube)
+                .WithMany(d => d.Ogrenciler)
+                .HasForeignKey(p => p.SubeYabancıAnahtar);
+
+            modelBuilder.Entity<Ogrenci>()
+                .HasOne(o => o.Transcript)
+                .WithOne(t => t.Ogrenci)
+                .HasForeignKey<Ogrenci>(o => o.KarneId);
+
+            modelBuilder.Entity<YazarKitap>()
+                .HasOne(y => y.Yazar)
+                .WithMany(y => y.YazarKitaplar)
+                .HasForeignKey(y => y.Author);
+
+            modelBuilder.Entity<YazarKitap>()
+                .HasOne(y => y.Kitap)
+                .WithMany(y => y.KitapYazarlar)
+                .HasForeignKey(y => y.Book);
+
         }
     }
 }
