@@ -110,6 +110,20 @@ namespace ANK15Okul.Migrations
                     b.ToTable("Diplomalar");
                 });
 
+            modelBuilder.Entity("ANK15Okul.Concrete.Laboratuvar", b =>
+                {
+                    b.Property<int>("L1")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("L2");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("L1"), 1L, 1);
+
+                    b.HasKey("L1");
+
+                    b.ToTable("Laboratuvarlar");
+                });
+
             modelBuilder.Entity("ANK15Okul.Concrete.Ogrenci", b =>
                 {
                     b.Property<int>("OgrenciBirincilAnahtar")
@@ -139,6 +153,9 @@ namespace ANK15Okul.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("SubeYabancıAnahtar")
+                        .HasColumnType("int");
+
                     b.HasKey("OgrenciBirincilAnahtar");
 
                     b.HasIndex("DanismanId");
@@ -146,6 +163,8 @@ namespace ANK15Okul.Migrations
                     b.HasIndex("DiplomaYabanciAnahtar")
                         .IsUnique()
                         .HasFilter("[DiplomaYabanciAnahtar] IS NOT NULL");
+
+                    b.HasIndex("SubeYabancıAnahtar");
 
                     b.ToTable("Students");
                 });
@@ -178,20 +197,26 @@ namespace ANK15Okul.Migrations
 
             modelBuilder.Entity("ANK15Okul.Concrete.Sube", b =>
                 {
-                    b.Property<int>("SubePrimaryKey")
+                    b.Property<int>("SubeBirincilAnahtar")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasColumnName("SubeTekilAnahtar");
+                        .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SubePrimaryKey"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SubeBirincilAnahtar"), 1L, 1);
+
+                    b.Property<string>("Aciklama")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(250)");
 
                     b.Property<string>("Ad")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
-                    b.HasKey("SubePrimaryKey");
+                    b.HasKey("SubeBirincilAnahtar");
 
-                    b.ToTable("Subeler");
+                    b.HasIndex("Ad")
+                        .IsUnique();
+
+                    b.ToTable("Sections", (string)null);
                 });
 
             modelBuilder.Entity("ANK15Okul.Concrete.Ogrenci", b =>
@@ -204,9 +229,17 @@ namespace ANK15Okul.Migrations
                         .WithOne("Ogrenci")
                         .HasForeignKey("ANK15Okul.Concrete.Ogrenci", "DiplomaYabanciAnahtar");
 
+                    b.HasOne("ANK15Okul.Concrete.Sube", "Sube")
+                        .WithMany("Ogrenciler")
+                        .HasForeignKey("SubeYabancıAnahtar")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Danisman");
 
                     b.Navigation("Diploma");
+
+                    b.Navigation("Sube");
                 });
 
             modelBuilder.Entity("ANK15Okul.Concrete.OgrenciDers", b =>
@@ -247,6 +280,11 @@ namespace ANK15Okul.Migrations
             modelBuilder.Entity("ANK15Okul.Concrete.Ogrenci", b =>
                 {
                     b.Navigation("OgrenciDersler");
+                });
+
+            modelBuilder.Entity("ANK15Okul.Concrete.Sube", b =>
+                {
+                    b.Navigation("Ogrenciler");
                 });
 #pragma warning restore 612, 618
         }
