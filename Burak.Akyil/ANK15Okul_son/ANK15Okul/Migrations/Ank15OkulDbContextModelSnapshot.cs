@@ -22,6 +22,19 @@ namespace ANK15Okul.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
+            modelBuilder.Entity("ANK15Okul.Concrete.Bandrol", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Bandroller");
+                });
+
             modelBuilder.Entity("ANK15Okul.Concrete.Calisan", b =>
                 {
                     b.Property<int>("CalisanPrimaryKey")
@@ -118,9 +131,56 @@ namespace ANK15Okul.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
+                    b.Property<int>("BandrolNo")
+                        .HasColumnType("int");
+
+                    b.Property<int>("YayinEviNo")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
+                    b.HasIndex("BandrolNo")
+                        .IsUnique();
+
+                    b.HasIndex("YayinEviNo");
+
                     b.ToTable("Kitaplar");
+                });
+
+            modelBuilder.Entity("ANK15Okul.Concrete.Kutuphane", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Kutuphaneler");
+                });
+
+            modelBuilder.Entity("ANK15Okul.Concrete.KutuphaneKitap", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<int>("KitapNo")
+                        .HasColumnType("int");
+
+                    b.Property<int>("KutuphaneNo")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("KitapNo");
+
+                    b.HasIndex("KutuphaneNo");
+
+                    b.ToTable("KutuphaneKitaplar");
                 });
 
             modelBuilder.Entity("ANK15Okul.Concrete.Laboratuvar", b =>
@@ -251,6 +311,19 @@ namespace ANK15Okul.Migrations
                     b.ToTable("Transcriptler");
                 });
 
+            modelBuilder.Entity("ANK15Okul.Concrete.YayinEvi", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.HasKey("Id");
+
+                    b.ToTable("YayinEvleri");
+                });
+
             modelBuilder.Entity("ANK15Okul.Concrete.Yazar", b =>
                 {
                     b.Property<int>("Id")
@@ -285,6 +358,44 @@ namespace ANK15Okul.Migrations
                     b.HasIndex("Book");
 
                     b.ToTable("YazarKitaplar");
+                });
+
+            modelBuilder.Entity("ANK15Okul.Concrete.Kitap", b =>
+                {
+                    b.HasOne("ANK15Okul.Concrete.Bandrol", "Bandrol")
+                        .WithOne("Kitap")
+                        .HasForeignKey("ANK15Okul.Concrete.Kitap", "BandrolNo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("ANK15Okul.Concrete.YayinEvi", "YayinEvi")
+                        .WithMany("Kitaplar")
+                        .HasForeignKey("YayinEviNo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Bandrol");
+
+                    b.Navigation("YayinEvi");
+                });
+
+            modelBuilder.Entity("ANK15Okul.Concrete.KutuphaneKitap", b =>
+                {
+                    b.HasOne("ANK15Okul.Concrete.Kitap", "Kitap")
+                        .WithMany("kutuphaneKitaplar")
+                        .HasForeignKey("KitapNo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("ANK15Okul.Concrete.Kutuphane", "Kutuphane")
+                        .WithMany("kutuphaneKitaplar")
+                        .HasForeignKey("KutuphaneNo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Kitap");
+
+                    b.Navigation("Kutuphane");
                 });
 
             modelBuilder.Entity("ANK15Okul.Concrete.Ogrenci", b =>
@@ -356,6 +467,12 @@ namespace ANK15Okul.Migrations
                     b.Navigation("Yazar");
                 });
 
+            modelBuilder.Entity("ANK15Okul.Concrete.Bandrol", b =>
+                {
+                    b.Navigation("Kitap")
+                        .IsRequired();
+                });
+
             modelBuilder.Entity("ANK15Okul.Concrete.Danisman", b =>
                 {
                     b.Navigation("Ogrenciler");
@@ -375,6 +492,13 @@ namespace ANK15Okul.Migrations
             modelBuilder.Entity("ANK15Okul.Concrete.Kitap", b =>
                 {
                     b.Navigation("KitapYazarlar");
+
+                    b.Navigation("kutuphaneKitaplar");
+                });
+
+            modelBuilder.Entity("ANK15Okul.Concrete.Kutuphane", b =>
+                {
+                    b.Navigation("kutuphaneKitaplar");
                 });
 
             modelBuilder.Entity("ANK15Okul.Concrete.Ogrenci", b =>
@@ -391,6 +515,11 @@ namespace ANK15Okul.Migrations
                 {
                     b.Navigation("Ogrenci")
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("ANK15Okul.Concrete.YayinEvi", b =>
+                {
+                    b.Navigation("Kitaplar");
                 });
 
             modelBuilder.Entity("ANK15Okul.Concrete.Yazar", b =>

@@ -31,3 +31,19 @@ C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev7\obj\Debug\ne
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\Odev7.pdb
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\Odev7.genruntimeconfig.cache
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\ref\Odev7.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\bin\Debug\net6.0-windows\Odev7.exe
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\bin\Debug\net6.0-windows\Odev7.deps.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\bin\Debug\net6.0-windows\Odev7.runtimeconfig.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\bin\Debug\net6.0-windows\Odev7.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\bin\Debug\net6.0-windows\Odev7.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\Odev7.Form1.resources
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\Odev7.csproj.GenerateResource.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\Odev7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\Odev7.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\Odev7.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\Odev7.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\Odev7.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\refint\Odev7.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\Odev7.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\Odev7.genruntimeconfig.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7\obj\Debug\net6.0-windows\ref\Odev7.dll

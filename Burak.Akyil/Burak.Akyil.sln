@@ -57,7 +57,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversiteDBUygulama", "Uni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev12", "Odev12\Odev12.csproj", "{FE10CC58-F162-460A-B151-385261E88CC2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANK15Okul", "ANK15Okul\ANK15Okul\ANK15Okul.csproj", "{BDBC18B6-F889-4DCC-B1E9-9DE4562754ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANK15Okul", "ANK15Okul_son\ANK15Okul\ANK15Okul.csproj", "{87CB125D-A7E7-4B58-B73B-829056B5F0E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -169,10 +169,10 @@ Global
 		{FE10CC58-F162-460A-B151-385261E88CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE10CC58-F162-460A-B151-385261E88CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE10CC58-F162-460A-B151-385261E88CC2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BDBC18B6-F889-4DCC-B1E9-9DE4562754ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BDBC18B6-F889-4DCC-B1E9-9DE4562754ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BDBC18B6-F889-4DCC-B1E9-9DE4562754ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BDBC18B6-F889-4DCC-B1E9-9DE4562754ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87CB125D-A7E7-4B58-B73B-829056B5F0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CB125D-A7E7-4B58-B73B-829056B5F0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CB125D-A7E7-4B58-B73B-829056B5F0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CB125D-A7E7-4B58-B73B-829056B5F0E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

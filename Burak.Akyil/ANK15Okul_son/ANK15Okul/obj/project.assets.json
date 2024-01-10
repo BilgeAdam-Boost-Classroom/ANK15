@@ -2018,19 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD:Burak.Akyil/ANK15Okul/ANK15Okul/obj/project.assets.json
-      "projectUniqueName": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\ANK15Okul\\ANK15Okul\\ANK15Okul.csproj",
+      "projectUniqueName": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\ANK15Okul_son\\ANK15Okul\\ANK15Okul.csproj",
       "projectName": "ANK15Okul",
-      "projectPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\ANK15Okul\\ANK15Okul\\ANK15Okul.csproj",
+      "projectPath": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\ANK15Okul_son\\ANK15Okul\\ANK15Okul.csproj",
       "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\ANK15Okul\\ANK15Okul\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\ANK15Okul_son\\ANK15Okul\\ANK15Okul.csproj",
-      "projectName": "ANK15Okul",
-      "projectPath": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\ANK15Okul_son\\ANK15Okul\\ANK15Okul.csproj",
-      "packagesPath": "C:\\Users\\burak.akyil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\ANK15Okul_son\\ANK15Okul\\obj\\",
->>>>>>> 20be4ad20645117779ed757f8a83098d1fb0666e:Burak.Akyil/ANK15Okul_son/ANK15Okul/obj/project.assets.json
+      "outputPath": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\ANK15Okul_son\\ANK15Okul\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2096,5 +2088,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\ANK15Okul_son\\ANK15Okul\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

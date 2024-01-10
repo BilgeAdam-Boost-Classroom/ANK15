@@ -25,12 +25,16 @@ namespace ANK15Okul.Context
         public DbSet<Yazar> Yazarlar { get; set; }
         public DbSet<Kitap> Kitaplar { get; set; }
         public DbSet<YazarKitap> YazarKitaplar { get; set; }
+        public DbSet<Kutuphane> Kutuphaneler { get; set; }
+        public DbSet<KutuphaneKitap> KutuphaneKitaplar { get; set; }
+        public DbSet<Bandrol> Bandroller { get; set; }
+        public DbSet<YayinEvi> YayinEvleri { get; set; }
 
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=ANK2-YZLMORT-10;databasE=ANK15OkulDb;trusted_connection=true;trustservercertificate=true;");
+            optionsBuilder.UseSqlServer("Server=DESKTOP-O718654;databasE=ANK15OkulDb;trusted_connection=true;trustservercertificate=true;");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -76,6 +80,26 @@ namespace ANK15Okul.Context
                 .HasOne(y => y.Kitap)
                 .WithMany(y => y.KitapYazarlar)
                 .HasForeignKey(y => y.Book);
+
+            modelBuilder.Entity<KutuphaneKitap>()
+                .HasOne(k => k.Kitap)
+                .WithMany(k => k.kutuphaneKitaplar)
+                .HasForeignKey(k => k.KitapNo);
+
+            modelBuilder.Entity<KutuphaneKitap>()
+                .HasOne(k => k.Kutuphane)
+                .WithMany(k => k.kutuphaneKitaplar)
+                .HasForeignKey(k => k.KutuphaneNo);
+
+            modelBuilder.Entity<Kitap>()
+                .HasOne(k => k.Bandrol)
+                .WithOne(b => b.Kitap)
+                .HasForeignKey<Kitap>(k => k.BandrolNo);
+
+            modelBuilder.Entity<Kitap>()
+                .HasOne(k => k.YayinEvi)
+                .WithMany(y => y.Kitaplar)
+                .HasForeignKey(k => k.YayinEviNo);
 
         }
     }

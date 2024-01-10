@@ -62,3 +62,24 @@ C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BurgerMenu\BurgerM
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.pdb
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.genruntimeconfig.cache
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\ref\BurgerMenu.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\bin\Debug\net6.0-windows\BurgerMenu.exe
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\bin\Debug\net6.0-windows\BurgerMenu.deps.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\bin\Debug\net6.0-windows\BurgerMenu.runtimeconfig.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\bin\Debug\net6.0-windows\BurgerMenu.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\bin\Debug\net6.0-windows\BurgerMenu.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.AnaForm.resources
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.EkstraMalzemeEkleme.resources
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.MenuEkleme.resources
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.Properties.Resources.resources
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.SiparisBilgileri.resources
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.SiparisEkleme.resources
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.csproj.GenerateResource.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\refint\BurgerMenu.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\BurgerMenu.genruntimeconfig.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BurgerMenu\BurgerMenu\obj\Debug\net6.0-windows\ref\BurgerMenu.dll

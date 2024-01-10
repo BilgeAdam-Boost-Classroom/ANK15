@@ -27,3 +27,17 @@ C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\MusteriTC\obj\Debu
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\MusteriTC.pdb
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\MusteriTC.genruntimeconfig.cache
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\ref\MusteriTC.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\bin\Debug\net6.0\MusteriTC.exe
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\bin\Debug\net6.0\MusteriTC.deps.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\bin\Debug\net6.0\MusteriTC.runtimeconfig.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\bin\Debug\net6.0\MusteriTC.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\bin\Debug\net6.0\MusteriTC.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\MusteriTC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\MusteriTC.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\MusteriTC.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\MusteriTC.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\MusteriTC.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\refint\MusteriTC.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\MusteriTC.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\MusteriTC.genruntimeconfig.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\MusteriTC\obj\Debug\net6.0\ref\MusteriTC.dll

@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD:Burak.Akyil/ANK15Okul/ANK15Okul/obj/project.nuget.cache
-  "dgSpecHash": "JuMCXzqR9IkilVD2shaUcAxd22QeoE7bf/7guEim6A4wOCx9jR2GiBI7km6R8mJyZk8Q2DOFrdeIizV9TtDt9g==",
+  "dgSpecHash": "7/AvdcGAlpp4lIwUa4zAc989h6uEMl7BvNryf6dIVw2r5AG1N/aitfRMVnNvdJAD1UlEtTieugZW6Rp2b2cMVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Burak Akyıl\\Desktop\\Uygulama\\Burak.Akyil\\ANK15Okul\\ANK15Okul\\ANK15Okul.csproj",
-=======
-  "dgSpecHash": "U3Z1T5DAhUN+lRKhW1iuUvC/IApYsX0vo3G2Tkd/DSy2RvzRtOtZiiY1dwE/wPDQwtVmDDCIek2t+NE6UyF2XQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\ANK15Okul_son\\ANK15Okul\\ANK15Okul.csproj",
->>>>>>> 20be4ad20645117779ed757f8a83098d1fb0666e:Burak.Akyil/ANK15Okul_son/ANK15Okul/obj/project.nuget.cache
+  "projectFilePath": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\ANK15Okul_son\\ANK15Okul\\ANK15Okul.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Burak Akyıl\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Burak Akyıl\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -54,5 +48,12 @@
     "C:\\Users\\Burak Akyıl\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\Burak Akyıl\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\ANK15Okul_son\\ANK15Okul\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
