@@ -1,4 +1,5 @@
-﻿using Ank15LoadingChangeTracker.Context;
+﻿using Ank15LoadingChangeTracker.Concrete;
+using Ank15LoadingChangeTracker.Context;
 using Microsoft.EntityFrameworkCore;
 
 namespace Ank15LoadingChangeTracker
@@ -19,13 +20,15 @@ namespace Ank15LoadingChangeTracker
 
             // LazyLoading turu claslarda da navigasyonlari virtual yapilmistir.
 
-            var urun = _db.Urunler.FirstOrDefault(u => u.Id == 1);
+            //var urun = _db.Urunler.FirstOrDefault(u => u.Id == 1);
 
             //Entery Kullanimi LazyLoading kapaliyken lazyLoading yapar 
 
-            _db.Entry(urun).Reference(u => u.Lisans).Load();
+            //db.Entry(urun).Reference(u => u.Lisans).Load();
 
-            Console.WriteLine(urun.Lisans.No);
+            _db.Bandroller.Add(new Bandrol { Name="test"});
+
+            //Console.WriteLine(urun.Lisans.No);
             Console.ReadLine();
         }
     }

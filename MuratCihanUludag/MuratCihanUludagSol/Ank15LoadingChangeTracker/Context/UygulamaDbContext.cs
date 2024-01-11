@@ -18,5 +18,7 @@ namespace Ank15LoadingChangeTracker.Context
         }
         public DbSet<Lisans> Lisanslar { get; set; }
         public DbSet<Urun> Urunler { get; set; }
+        public DbSet<Bandrol> Bandroller { get; set; }
+        public DbSet<Onay> Onaylar { get; set; }   
     }
 }

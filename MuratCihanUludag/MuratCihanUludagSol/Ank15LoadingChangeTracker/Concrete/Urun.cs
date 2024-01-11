@@ -12,5 +12,7 @@ namespace Ank15LoadingChangeTracker.Concrete
         public string Name { get; set; }
         public int LisansId { get; set; }
         public virtual Lisans Lisans { get; set; }
+        public int BandrolId { get; set; }
+        public virtual Bandrol Bandrol { get; set; }
     }
 }
