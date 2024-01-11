@@ -12,3 +12,18 @@ C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUl
 C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\01_oop.pdb
 C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\01_oop.genruntimeconfig.cache
 C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\ref\01_oop.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\bin\Debug\net7.0\01_oop.exe
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\bin\Debug\net7.0\01_oop.deps.json
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\bin\Debug\net7.0\01_oop.runtimeconfig.json
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\bin\Debug\net7.0\01_oop.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\bin\Debug\net7.0\01_oop.pdb
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\01_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\01_oop.AssemblyInfoInputs.cache
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\01_oop.AssemblyInfo.cs
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\01_oop.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\01_oop.sourcelink.json
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\01_oop.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\refint\01_oop.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\01_oop.pdb
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\01_oop.genruntimeconfig.cache
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\01_oop\obj\Debug\net7.0\ref\01_oop.dll

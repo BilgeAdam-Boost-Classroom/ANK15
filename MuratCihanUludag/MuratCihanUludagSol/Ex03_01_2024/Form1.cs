@@ -98,7 +98,7 @@ namespace Ex03_01_2024
                     newOgrenci.Surname = txtOgrenciSoyad.Text;
                     newOgrenci.BirthDay = dtOgrenciPiker.Value;
                     newOgrenci.DanismanId = (int)cbDanismanOgrenci.SelectedValue;
-                    newOgrenci.DiplomaId = (int)cbOgrenciDiplama.SelectedValue;
+                    newOgrenci.DanismanYabanciAnahtar = (int)cbOgrenciDiplama.SelectedValue;
                     _db.Orenciler.Add(newOgrenci);
                     _db.SaveChanges();
                     OgrenciGoster();
@@ -132,12 +132,12 @@ namespace Ex03_01_2024
                     break;
                 case "ogrenciGuncelle":
                     int id2 = IdFounder(dataGridOgrenci);
-                    var updateOgrenci = _db.Orenciler.FirstOrDefault(d => d.Id == id2);
+                    var updateOgrenci = _db.Orenciler.FirstOrDefault(d => d.OgrenciBirincilAnahtar == id2);
                     updateOgrenci.Name = txtOgrenciAd.Text;
                     updateOgrenci.Surname = txtOgrenciSoyad.Text;
                     updateOgrenci.BirthDay = dtOgrenciPiker.Value;
                     updateOgrenci.DanismanId = (int)cbDanismanOgrenci.SelectedValue;
-                    updateOgrenci.DiplomaId = (int)cbOgrenciDiplama.SelectedValue;
+                    updateOgrenci.DanismanYabanciAnahtar = (int)cbOgrenciDiplama.SelectedValue;
                     _db.Orenciler.Update(updateOgrenci);
                     _db.SaveChanges();
                     OgrenciGoster();
@@ -169,7 +169,7 @@ namespace Ex03_01_2024
                     break;
                 case "OgrenciDelete":
                     int idOgrenci = IdFounder(dataGridOgrenci);
-                    var deleteOgrenci = _db.Orenciler.FirstOrDefault(og => og.Id == idOgrenci);
+                    var deleteOgrenci = _db.Orenciler.FirstOrDefault(og => og.OgrenciBirincilAnahtar == idOgrenci);
                     _db.Orenciler.Remove(deleteOgrenci);
                     _db.SaveChanges();
                     OgrenciGoster();

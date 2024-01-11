@@ -13,7 +13,6 @@ namespace Odev_A_13.Models
         [Key]
         public int Id { get; set; }
         public string PlakaNo { get; set; }
-        public int ArabaId { get; set; }    
         public  Araba Araba { get; set; }
     }
 }

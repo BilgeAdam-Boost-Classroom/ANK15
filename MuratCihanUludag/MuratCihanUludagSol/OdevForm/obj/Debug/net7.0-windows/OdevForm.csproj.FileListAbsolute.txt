@@ -15,3 +15,21 @@ C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUl
 C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.pdb
 C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.genruntimeconfig.cache
 C:\Users\Cihan\Desktop\Ank15_BilgeAdam_Sabah\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\ref\OdevForm.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\bin\Debug\net7.0-windows\OdevForm.exe
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\bin\Debug\net7.0-windows\OdevForm.deps.json
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\bin\Debug\net7.0-windows\OdevForm.runtimeconfig.json
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\bin\Debug\net7.0-windows\OdevForm.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\bin\Debug\net7.0-windows\OdevForm.pdb
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.Form1.resources
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.Form2.resources
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.csproj.GenerateResource.cache
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.AssemblyInfoInputs.cache
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.AssemblyInfo.cs
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.sourcelink.json
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\refint\OdevForm.dll
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.pdb
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\OdevForm.genruntimeconfig.cache
+C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanUludagSol\OdevForm\obj\Debug\net7.0-windows\ref\OdevForm.dll

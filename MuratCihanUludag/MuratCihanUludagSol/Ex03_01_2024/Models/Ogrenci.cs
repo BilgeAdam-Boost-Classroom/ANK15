@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
@@ -7,14 +8,22 @@ using System.Threading.Tasks;
 
 namespace Ex03_01_2024.Models
 {
+    [Table("Students")]
     public class Ogrenci
     {
-        public int Id { get; set; }
+        [Key]
+        [Column("OgrenciTekilAnahatar")]
+        public int OgrenciBirincilAnahtar { get; set; }
+        [Column("OgrenciAd", TypeName = "nvarchar(100)")]
         public string Name { get; set; }
+        [NotMapped]
+        public string Aciklama { get; set; }
         public string Surname { get; set; }
         public DateTime BirthDay { get; set; }
         //Foreing Key
-        public int DiplomaId { get; set; }
+        [Column("DanismanYabanciAnahtar")]
+        [ForeignKey("DanismanYabanciAnahtar")]
+        public int DanismanYabanciAnahtar { get; set; }
         //Foreing Key
         public int DanismanId { get; set; }
         //Navigasion Property
@@ -29,5 +38,9 @@ namespace Ex03_01_2024.Models
 
         [NotMapped]
         public string NameSurname => $"{Name} {Surname}";
+        public int SubeYabanciAnahtar { get; set; }
+        public Sube Sube { get; set; }
+        public int KarneId { get; set; }  
+        public Transcript Transcript { get; set; }
     }
 }

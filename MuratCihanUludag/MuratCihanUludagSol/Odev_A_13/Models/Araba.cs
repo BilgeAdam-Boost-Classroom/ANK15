@@ -16,7 +16,7 @@ namespace Odev_A_13.Models
         public int PlakaId { get; set; }
         public virtual Plaka Plaka { get; set; }
         public int PersonId { get; set; }
-        public  Person Person { get; set; }
+        public   Person Person { get; set; }
         public ICollection<Engineer> Engineers { get; set; }
     }
 }

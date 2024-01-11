@@ -27,14 +27,59 @@ namespace Ex03_01_2024.Migrations
                     b.Property<int>("DerslerId")
                         .HasColumnType("int");
 
-                    b.Property<int>("OgrencilerId")
+                    b.Property<int>("OgrencilerOgrenciBirincilAnahtar")
                         .HasColumnType("int");
 
-                    b.HasKey("DerslerId", "OgrencilerId");
+                    b.HasKey("DerslerId", "OgrencilerOgrenciBirincilAnahtar");
 
-                    b.HasIndex("OgrencilerId");
+                    b.HasIndex("OgrencilerOgrenciBirincilAnahtar");
 
-                    b.ToTable("DersOgrenci");
+                    b.ToTable("DersOgrenci", (string)null);
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Bandrol", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Bandroller", (string)null);
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Calisan", b =>
+                {
+                    b.Property<int>("CalisanPrimaryKey")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CalisanPrimaryKey"));
+
+                    b.Property<string>("Ad")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SicilNo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("Soyad")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("CalisanPrimaryKey");
+
+                    b.HasIndex("SicilNo")
+                        .IsUnique();
+
+                    b.ToTable("Personnel", (string)null);
                 });
 
             modelBuilder.Entity("Ex03_01_2024.Models.Danisman", b =>
@@ -55,7 +100,7 @@ namespace Ex03_01_2024.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("Danismanlar");
+                    b.ToTable("Danismanlar", (string)null);
                 });
 
             modelBuilder.Entity("Ex03_01_2024.Models.Ders", b =>
@@ -79,30 +124,33 @@ namespace Ex03_01_2024.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Dersler");
+                    b.ToTable("Dersler", (string)null);
                 });
 
             modelBuilder.Entity("Ex03_01_2024.Models.Diploma", b =>
                 {
-                    b.Property<int>("ID")
+                    b.Property<int>("DiplomaBirincilAnahtar")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("DiplomaBirincilAnahtar"));
 
                     b.Property<string>("No")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<DateTime>("Tarih")
                         .HasColumnType("datetime2");
 
-                    b.HasKey("ID");
+                    b.HasKey("DiplomaBirincilAnahtar");
 
-                    b.ToTable("Diplomas");
+                    b.HasIndex("No")
+                        .IsUnique();
+
+                    b.ToTable("Diplomas", (string)null);
                 });
 
-            modelBuilder.Entity("Ex03_01_2024.Models.Ogrenci", b =>
+            modelBuilder.Entity("Ex03_01_2024.Models.Kitap", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -110,31 +158,119 @@ namespace Ex03_01_2024.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("BirthDay")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("DanismanId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("DiplomaId")
+                    b.Property<int>("BandrolNo")
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Surname")
+                    b.Property<int>("YayinNo")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BandrolNo")
+                        .IsUnique();
+
+                    b.HasIndex("YayinNo");
+
+                    b.ToTable("Kitaplar", (string)null);
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Kutuphane", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
+                    b.ToTable("Kutuphaneler", (string)null);
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.KutuphaneKitap", b =>
+                {
+                    b.Property<int>("LiblaryNo")
+                        .HasColumnType("int");
+
+                    b.Property<int>("BookNo")
+                        .HasColumnType("int");
+
+                    b.HasKey("LiblaryNo", "BookNo");
+
+                    b.HasIndex("BookNo");
+
+                    b.ToTable("KutuphaneKitaplar", (string)null);
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Laboratuvar", b =>
+                {
+                    b.Property<int>("L1")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("L2");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("L1"));
+
+                    b.HasKey("L1");
+
+                    b.ToTable("Laboratuvarlar", (string)null);
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Ogrenci", b =>
+                {
+                    b.Property<int>("OgrenciBirincilAnahtar")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("OgrenciTekilAnahatar");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OgrenciBirincilAnahtar"));
+
+                    b.Property<DateTime>("BirthDay")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("DanismanId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("DanismanYabanciAnahtar")
+                        .HasColumnType("int")
+                        .HasColumnName("DanismanYabanciAnahtar");
+
+                    b.Property<int>("KarneId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(100)")
+                        .HasColumnName("OgrenciAd");
+
+                    b.Property<int>("SubeYabanciAnahtar")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Surname")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("OgrenciBirincilAnahtar");
+
                     b.HasIndex("DanismanId");
 
-                    b.HasIndex("DiplomaId")
+                    b.HasIndex("DanismanYabanciAnahtar")
                         .IsUnique();
 
-                    b.ToTable("Orenciler");
+                    b.HasIndex("KarneId")
+                        .IsUnique();
+
+                    b.HasIndex("SubeYabanciAnahtar");
+
+                    b.ToTable("Students", (string)null);
                 });
 
             modelBuilder.Entity("Ex03_01_2024.Models.OgrenciDers", b =>
@@ -161,7 +297,98 @@ namespace Ex03_01_2024.Migrations
 
                     b.HasIndex("OgrenciId");
 
-                    b.ToTable("OgrenciDerses");
+                    b.ToTable("OgrenciDerses", (string)null);
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Sube", b =>
+                {
+                    b.Property<int>("SubePrimaryKey")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("SubeTekilAnahtar");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SubePrimaryKey"));
+
+                    b.Property<string>("Aciklama")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(250)");
+
+                    b.Property<string>("Ad")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("SubePrimaryKey");
+
+                    b.HasIndex("Ad")
+                        .IsUnique();
+
+                    b.ToTable("Section", (string)null);
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Transcript", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Transcripts", (string)null);
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.YayinEvi", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("YayinEviler", (string)null);
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Yazar", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Yazarlar", (string)null);
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.YazarKitap", b =>
+                {
+                    b.Property<int>("AuthorId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("BookId")
+                        .HasColumnType("int");
+
+                    b.HasKey("AuthorId", "BookId");
+
+                    b.HasIndex("BookId");
+
+                    b.ToTable("YazarKitaplar", (string)null);
                 });
 
             modelBuilder.Entity("DersOgrenci", b =>
@@ -174,9 +401,47 @@ namespace Ex03_01_2024.Migrations
 
                     b.HasOne("Ex03_01_2024.Models.Ogrenci", null)
                         .WithMany()
-                        .HasForeignKey("OgrencilerId")
+                        .HasForeignKey("OgrencilerOgrenciBirincilAnahtar")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Kitap", b =>
+                {
+                    b.HasOne("Ex03_01_2024.Models.Bandrol", "Bandrol")
+                        .WithOne("Kitap")
+                        .HasForeignKey("Ex03_01_2024.Models.Kitap", "BandrolNo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Ex03_01_2024.Models.YayinEvi", "YayinEvi")
+                        .WithMany("Kitaplar")
+                        .HasForeignKey("YayinNo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Bandrol");
+
+                    b.Navigation("YayinEvi");
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.KutuphaneKitap", b =>
+                {
+                    b.HasOne("Ex03_01_2024.Models.Kitap", "Kitap")
+                        .WithMany("KutuphaneKitaplar")
+                        .HasForeignKey("BookNo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Ex03_01_2024.Models.Kutuphane", "Kutuphane")
+                        .WithMany("KutuphaneKitaplar")
+                        .HasForeignKey("LiblaryNo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Kitap");
+
+                    b.Navigation("Kutuphane");
                 });
 
             modelBuilder.Entity("Ex03_01_2024.Models.Ogrenci", b =>
@@ -189,13 +454,29 @@ namespace Ex03_01_2024.Migrations
 
                     b.HasOne("Ex03_01_2024.Models.Diploma", "Diploma")
                         .WithOne("Ogrenci")
-                        .HasForeignKey("Ex03_01_2024.Models.Ogrenci", "DiplomaId")
+                        .HasForeignKey("Ex03_01_2024.Models.Ogrenci", "DanismanYabanciAnahtar")
                         .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
+                    b.HasOne("Ex03_01_2024.Models.Transcript", "Transcript")
+                        .WithOne("Ogrenci")
+                        .HasForeignKey("Ex03_01_2024.Models.Ogrenci", "KarneId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Ex03_01_2024.Models.Sube", "Sube")
+                        .WithMany("Ogrenciler")
+                        .HasForeignKey("SubeYabanciAnahtar")
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Danisman");
 
                     b.Navigation("Diploma");
+
+                    b.Navigation("Sube");
+
+                    b.Navigation("Transcript");
                 });
 
             modelBuilder.Entity("Ex03_01_2024.Models.OgrenciDers", b =>
@@ -217,6 +498,31 @@ namespace Ex03_01_2024.Migrations
                     b.Navigation("Ogrenci");
                 });
 
+            modelBuilder.Entity("Ex03_01_2024.Models.YazarKitap", b =>
+                {
+                    b.HasOne("Ex03_01_2024.Models.Yazar", "Author")
+                        .WithMany("YazarKitaplar")
+                        .HasForeignKey("AuthorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Ex03_01_2024.Models.Kitap", "Book")
+                        .WithMany("YazarKitaplar")
+                        .HasForeignKey("BookId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Author");
+
+                    b.Navigation("Book");
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Bandrol", b =>
+                {
+                    b.Navigation("Kitap")
+                        .IsRequired();
+                });
+
             modelBuilder.Entity("Ex03_01_2024.Models.Danisman", b =>
                 {
                     b.Navigation("Ogrenciler");
@@ -233,9 +539,42 @@ namespace Ex03_01_2024.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("Ex03_01_2024.Models.Kitap", b =>
+                {
+                    b.Navigation("KutuphaneKitaplar");
+
+                    b.Navigation("YazarKitaplar");
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Kutuphane", b =>
+                {
+                    b.Navigation("KutuphaneKitaplar");
+                });
+
             modelBuilder.Entity("Ex03_01_2024.Models.Ogrenci", b =>
                 {
                     b.Navigation("OgrenciDersler");
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Sube", b =>
+                {
+                    b.Navigation("Ogrenciler");
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Transcript", b =>
+                {
+                    b.Navigation("Ogrenci")
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.YayinEvi", b =>
+                {
+                    b.Navigation("Kitaplar");
+                });
+
+            modelBuilder.Entity("Ex03_01_2024.Models.Yazar", b =>
+                {
+                    b.Navigation("YazarKitaplar");
                 });
 #pragma warning restore 612, 618
         }

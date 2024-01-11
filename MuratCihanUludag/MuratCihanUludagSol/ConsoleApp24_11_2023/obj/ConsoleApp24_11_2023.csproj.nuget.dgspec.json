@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\ConsoleApp24_11_2023\\ConsoleApp24_11_2023.csproj": {}
+    "C:\\Users\\Cihan\\Desktop\\Yeni klasör\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\ConsoleApp24_11_2023\\ConsoleApp24_11_2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\ConsoleApp24_11_2023\\ConsoleApp24_11_2023.csproj": {
+    "C:\\Users\\Cihan\\Desktop\\Yeni klasör\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\ConsoleApp24_11_2023\\ConsoleApp24_11_2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\ConsoleApp24_11_2023\\ConsoleApp24_11_2023.csproj",
+        "projectUniqueName": "C:\\Users\\Cihan\\Desktop\\Yeni klasör\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\ConsoleApp24_11_2023\\ConsoleApp24_11_2023.csproj",
         "projectName": "ConsoleApp24_11_2023",
-        "projectPath": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\ConsoleApp24_11_2023\\ConsoleApp24_11_2023.csproj",
+        "projectPath": "C:\\Users\\Cihan\\Desktop\\Yeni klasör\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\ConsoleApp24_11_2023\\ConsoleApp24_11_2023.csproj",
         "packagesPath": "C:\\Users\\Cihan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cihan\\Desktop\\BilgeAdamGenel\\Ank15_BilgeAdam_Sabah\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\ConsoleApp24_11_2023\\obj\\",
+        "outputPath": "C:\\Users\\Cihan\\Desktop\\Yeni klasör\\ANK15\\MuratCihanUludag\\MuratCihanUludagSol\\ConsoleApp24_11_2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
