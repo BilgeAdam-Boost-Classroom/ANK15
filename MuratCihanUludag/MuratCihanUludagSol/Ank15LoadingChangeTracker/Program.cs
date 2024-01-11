@@ -14,7 +14,7 @@ namespace Ank15LoadingChangeTracker
 
             //var urun = _db.Urunler
             //           .Include(u => u.Lisans)
-            //           .FirstOrDefault(u => u.Id == 1);
+            //           .FirstOrDefault(u => u.Id == 1);asd
 
 
             // LazyLoading turu claslarda da navigasyonlari virtual yapilmistir.
