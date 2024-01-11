@@ -49,7 +49,7 @@ namespace CodeFirstUniversite
                 ogrenci.Soyadı = txtSoyadi.Text;
                 ogrenci.Numara = txtNumara.Text;
                 ogrenci.DanismanId = ((Danisman)cbxDanisman.SelectedItem).Id;
-                ogrenci.DiplomaId = ((Diploma)cbxDiploma.SelectedValue).Id;
+                ogrenci.DiplomaYabanciAnahtar = ((Diploma)cbxDiploma.SelectedValue).DiplomaBirincilAnahtar;
 
                 _db.Ogrencis.Add(ogrenci);
                 _db.SaveChanges();
@@ -74,7 +74,7 @@ namespace CodeFirstUniversite
                     secilenOgrenci.Soyadı = txtSoyadi.Text;
                     secilenOgrenci.Numara = txtNumara.Text;
                     secilenOgrenci.DanismanId = ((Danisman)cbxDanisman.SelectedItem).Id;
-                    secilenOgrenci.DiplomaId = ((Diploma)cbxDiploma.SelectedValue).Id;
+                    secilenOgrenci.DiplomaYabanciAnahtar = ((Diploma)cbxDiploma.SelectedValue).DiplomaBirincilAnahtar;
 
                     _db.SaveChanges();
                     OgrencileriGoster();

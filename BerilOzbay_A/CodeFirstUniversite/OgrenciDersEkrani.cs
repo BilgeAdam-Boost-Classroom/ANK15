@@ -42,7 +42,7 @@ namespace CodeFirstUniversite
             {
                 OgrenciDers ogrenciDers = new OgrenciDers();
                 ogrenciDers.DersId = ((Ders)cbxDers.SelectedItem).Id;
-                ogrenciDers.OgrenciId = ((Ogrenci)cbxOgrenci.SelectedItem).Id;
+                ogrenciDers.OgrenciId = ((Ogrenci)cbxOgrenci.SelectedItem).OgrenciBirincilAnahtar;
                 ogrenciDers.Not = (int)cbxNot.SelectedItem;
 
                 _db.OgrenciDers.Add(ogrenciDers);
