@@ -27,3 +27,17 @@ C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev7_3\obj\Debug\
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\Odev7_3.pdb
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\Odev7_3.genruntimeconfig.cache
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\ref\Odev7_3.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\bin\Debug\net6.0\Odev7_3.exe
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\bin\Debug\net6.0\Odev7_3.deps.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\bin\Debug\net6.0\Odev7_3.runtimeconfig.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\bin\Debug\net6.0\Odev7_3.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\bin\Debug\net6.0\Odev7_3.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\Odev7_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\Odev7_3.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\Odev7_3.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\Odev7_3.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\Odev7_3.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\refint\Odev7_3.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\Odev7_3.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\Odev7_3.genruntimeconfig.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev7_3\obj\Debug\net6.0\ref\Odev7_3.dll

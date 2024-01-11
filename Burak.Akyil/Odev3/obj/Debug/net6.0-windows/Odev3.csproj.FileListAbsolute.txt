@@ -33,3 +33,20 @@ C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3\obj\Debug\ne
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.pdb
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.genruntimeconfig.cache
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\ref\Odev3.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\bin\Debug\net6.0-windows\Odev3.exe
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\bin\Debug\net6.0-windows\Odev3.deps.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\bin\Debug\net6.0-windows\Odev3.runtimeconfig.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\bin\Debug\net6.0-windows\Odev3.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\bin\Debug\net6.0-windows\Odev3.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.Form1.resources
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.Form2.resources
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.csproj.GenerateResource.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\refint\Odev3.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\Odev3.genruntimeconfig.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Odev3\obj\Debug\net6.0-windows\ref\Odev3.dll

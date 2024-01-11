@@ -38,3 +38,23 @@ C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama\obj\
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.pdb
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.genruntimeconfig.cache
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\ref\BankaUygulama.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\bin\Debug\net6.0-windows\BankaUygulama.exe
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\bin\Debug\net6.0-windows\BankaUygulama.deps.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\bin\Debug\net6.0-windows\BankaUygulama.runtimeconfig.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\bin\Debug\net6.0-windows\BankaUygulama.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\bin\Debug\net6.0-windows\BankaUygulama.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\bin\Debug\net6.0-windows\BankaUygulama.AltYapi.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\bin\Debug\net6.0-windows\BankaUygulama.AltYapi.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.csproj.AssemblyReference.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.Form1.resources
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.csproj.GenerateResource.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.csproj.CopyComplete
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\refint\BankaUygulama.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\BankaUygulama.genruntimeconfig.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\BankaUygulama\obj\Debug\net6.0-windows\ref\BankaUygulama.dll

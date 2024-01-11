@@ -27,3 +27,17 @@ C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Inheritance\obj\Debug\net6.0\
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Inheritance\obj\Debug\net6.0\Inheritance.pdb
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
 C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll

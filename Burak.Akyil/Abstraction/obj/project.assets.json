@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\burak.akyil\\.nuget\\packages\\": {}
+    "C:\\Users\\Burak Akyıl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Abstraction\\Abstraction.csproj",
+      "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Abstraction\\Abstraction.csproj",
       "projectName": "Abstraction",
-      "projectPath": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Abstraction\\Abstraction.csproj",
-      "packagesPath": "C:\\Users\\burak.akyil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\burak.akyil\\Desktop\\ANK15-Uygulama\\ANK15\\Burak.Akyil\\Abstraction\\obj\\",
+      "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Abstraction\\Abstraction.csproj",
+      "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Abstraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\burak.akyil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Burak Akyıl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

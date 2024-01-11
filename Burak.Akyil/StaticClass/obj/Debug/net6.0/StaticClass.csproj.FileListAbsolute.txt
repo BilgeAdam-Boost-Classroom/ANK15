@@ -27,3 +27,17 @@ C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\StaticClass\obj\De
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\StaticClass.pdb
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\StaticClass.genruntimeconfig.cache
 C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\ref\StaticClass.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\bin\Debug\net6.0\StaticClass.exe
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\bin\Debug\net6.0\StaticClass.deps.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\bin\Debug\net6.0\StaticClass.runtimeconfig.json
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\bin\Debug\net6.0\StaticClass.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\bin\Debug\net6.0\StaticClass.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\StaticClass.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\refint\StaticClass.dll
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\StaticClass.pdb
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\StaticClass.genruntimeconfig.cache
+C:\Users\Burak Akyıl\Source\Repos\ANK15\Burak.Akyil\StaticClass\obj\Debug\net6.0\ref\StaticClass.dll

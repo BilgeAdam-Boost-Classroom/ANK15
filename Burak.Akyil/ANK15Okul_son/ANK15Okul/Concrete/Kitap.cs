@@ -10,5 +10,10 @@ namespace ANK15Okul.Concrete
     {
         public int Id { get; set; }
         public List<YazarKitap> KitapYazarlar { get; set; }
+        public List<KutuphaneKitap> kutuphaneKitaplar { get; set; }
+        public Bandrol Bandrol { get; set; }
+        public int BandrolNo { get; set; }
+        public YayinEvi YayinEvi { get; set; }
+        public int YayinEviNo { get; set; }
     }
 }

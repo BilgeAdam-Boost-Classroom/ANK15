@@ -1,0 +1,150 @@
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.exe
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.deps.json
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.runtimeconfig.json
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.pdb
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.AssemblyReference.cache
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.Form1.resources
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.GenerateResource.cache
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.AssemblyInfoInputs.cache
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.AssemblyInfo.cs
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.CoreCompileInputs.cache
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.CopyComplete
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\refint\ANK15Okul.dll
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.pdb
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.genruntimeconfig.cache
+C:\Users\alp.ceyhan\source\repos\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ref\ANK15Okul.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.exe
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.deps.json
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.runtimeconfig.json
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.pdb
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.AssemblyReference.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.Form1.resources
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.GenerateResource.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.AssemblyInfoInputs.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.AssemblyInfo.cs
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.CoreCompileInputs.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.CopyComplete
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\refint\ANK15Okul.dll
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.pdb
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.genruntimeconfig.cache
+C:\Users\burak.akyil\Desktop\ANK15-Uygulama\ANK15\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ref\ANK15Okul.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.exe
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.deps.json
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.runtimeconfig.json
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\ANK15Okul.pdb
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.AssemblyReference.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.Form1.resources
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.GenerateResource.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.AssemblyInfoInputs.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.AssemblyInfo.cs
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.csproj.CopyComplete
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\refint\ANK15Okul.dll
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.pdb
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ANK15Okul.genruntimeconfig.cache
+C:\Users\Burak Akyıl\Desktop\Uygulama\Burak.Akyil\ANK15Okul\ANK15Okul\obj\Debug\net6.0-windows\ref\ANK15Okul.dll
