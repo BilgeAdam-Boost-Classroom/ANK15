@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\StaticClass\\StaticClass.csproj": {}
+    "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\StaticClass\\StaticClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\StaticClass\\StaticClass.csproj": {
+    "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\StaticClass\\StaticClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\StaticClass\\StaticClass.csproj",
+        "projectUniqueName": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\StaticClass\\StaticClass.csproj",
         "projectName": "StaticClass",
-        "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\StaticClass\\StaticClass.csproj",
+        "projectPath": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\StaticClass\\StaticClass.csproj",
         "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\StaticClass\\obj\\",
         "projectStyle": "PackageReference",

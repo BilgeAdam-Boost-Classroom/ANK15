@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj": {}
+    "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj": {
+    "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj",
+        "projectUniqueName": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj",
         "projectName": "Sınıf",
-        "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj",
+        "projectPath": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Sınıf\\Sınıf.csproj",
         "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Sınıf\\obj\\",
         "projectStyle": "PackageReference",

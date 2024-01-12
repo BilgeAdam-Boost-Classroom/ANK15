@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PV12pZ+XmWpry1sW8AZNztkwj8QNheG7k1lMmj55f1IOVrHuclJ57KG6msqHOBGSyA9sIx9fQm+ZMUkQDnItsw==",
+  "dgSpecHash": "h0xlWpKg6duaW3VnSBZ0WC6BphtclDYxj/sCJ118LvJlTrXQ+tf6gIwE83tHxcmju3A6qokav2KluI58gQsh8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\NorthwindDBFrist\\NorthwindDBFrist.csproj",
+  "projectFilePath": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\NorthwindDBFrist\\NorthwindDBFrist.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Burak Akyıl\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Burak Akyıl\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\BankaUygulama\\BankaUygulama.csproj",
+      "projectUniqueName": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\BankaUygulama\\BankaUygulama.csproj",
       "projectName": "BankaUygulama",
-      "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\BankaUygulama\\BankaUygulama.csproj",
+      "projectPath": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\BankaUygulama\\BankaUygulama.csproj",
       "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\BankaUygulama\\obj\\",
       "projectStyle": "PackageReference",
@@ -53,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\BankaUygulama.AltYapi\\BankaUygulama.AltYapi.csproj": {
-              "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\BankaUygulama.AltYapi\\BankaUygulama.AltYapi.csproj"
+            "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\BankaUygulama.AltYapi\\BankaUygulama.AltYapi.csproj": {
+              "projectPath": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\BankaUygulama.AltYapi\\BankaUygulama.AltYapi.csproj"
             }
           }
         }

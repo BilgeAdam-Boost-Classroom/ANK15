@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev7_3\\Odev7_3.csproj": {}
+    "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Odev7_3\\Odev7_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev7_3\\Odev7_3.csproj": {
+    "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Odev7_3\\Odev7_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev7_3\\Odev7_3.csproj",
+        "projectUniqueName": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Odev7_3\\Odev7_3.csproj",
         "projectName": "Odev7_3",
-        "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev7_3\\Odev7_3.csproj",
+        "projectPath": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Odev7_3\\Odev7_3.csproj",
         "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev7_3\\obj\\",
         "projectStyle": "PackageReference",

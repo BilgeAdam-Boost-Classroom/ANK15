@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev6\\Odev6.csproj": {}
+    "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Odev6\\Odev6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev6\\Odev6.csproj": {
+    "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Odev6\\Odev6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev6\\Odev6.csproj",
+        "projectUniqueName": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Odev6\\Odev6.csproj",
         "projectName": "Odev6",
-        "projectPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev6\\Odev6.csproj",
+        "projectPath": "C:\\Users\\Burak Akyıl\\source\\repos\\ANK15\\Burak.Akyil\\Odev6\\Odev6.csproj",
         "packagesPath": "C:\\Users\\Burak Akyıl\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Burak Akyıl\\Source\\Repos\\ANK15\\Burak.Akyil\\Odev6\\obj\\",
         "projectStyle": "PackageReference",
