@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LodingChangeTracker", "LodingChangeTracker\LodingChangeTracker.csproj", "{A5EE3080-43E8-407F-A278-128399739A11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5EE3080-43E8-407F-A278-128399739A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EE3080-43E8-407F-A278-128399739A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EE3080-43E8-407F-A278-128399739A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EE3080-43E8-407F-A278-128399739A11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B21ACDDF-B5E6-420C-A19D-70C8248A12F7}
+	EndGlobalSection
+EndGlobal

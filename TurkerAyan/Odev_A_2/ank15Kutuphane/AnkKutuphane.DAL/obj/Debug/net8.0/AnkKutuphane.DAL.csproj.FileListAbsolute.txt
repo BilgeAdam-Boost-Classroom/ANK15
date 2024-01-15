@@ -1,0 +1,15 @@
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\bin\Debug\net8.0\AnkKutuphane.DAL.deps.json
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\bin\Debug\net8.0\AnkKutuphane.DAL.runtimeconfig.json
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\bin\Debug\net8.0\AnkKutuphane.DAL.dll
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\bin\Debug\net8.0\AnkKutuphane.DAL.pdb
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\obj\Debug\net8.0\AnkKutuphane.DAL.csproj.AssemblyReference.cache
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\obj\Debug\net8.0\AnkKutuphane.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\obj\Debug\net8.0\AnkKutuphane.DAL.AssemblyInfoInputs.cache
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\obj\Debug\net8.0\AnkKutuphane.DAL.AssemblyInfo.cs
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\obj\Debug\net8.0\AnkKutuphane.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\obj\Debug\net8.0\AnkKutuphane.DAL.sourcelink.json
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\obj\Debug\net8.0\AnkKutuphane.DAL.dll
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\obj\Debug\net8.0\refint\AnkKutuphane.DAL.dll
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\obj\Debug\net8.0\AnkKutuphane.DAL.pdb
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\obj\Debug\net8.0\AnkKutuphane.DAL.genruntimeconfig.cache
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\AnkKutuphane.DAL\obj\Debug\net8.0\ref\AnkKutuphane.DAL.dll

@@ -1,0 +1,15 @@
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\bin\Debug\net8.0\Toast.exe
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\bin\Debug\net8.0\Toast.deps.json
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\bin\Debug\net8.0\Toast.runtimeconfig.json
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\bin\Debug\net8.0\Toast.dll
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\bin\Debug\net8.0\Toast.pdb
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\obj\Debug\net8.0\Toast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\obj\Debug\net8.0\Toast.AssemblyInfoInputs.cache
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\obj\Debug\net8.0\Toast.AssemblyInfo.cs
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\obj\Debug\net8.0\Toast.csproj.CoreCompileInputs.cache
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\obj\Debug\net8.0\Toast.sourcelink.json
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\obj\Debug\net8.0\Toast.dll
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\obj\Debug\net8.0\refint\Toast.dll
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\obj\Debug\net8.0\Toast.pdb
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\obj\Debug\net8.0\Toast.genruntimeconfig.cache
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Toast\Toast\obj\Debug\net8.0\ref\Toast.dll

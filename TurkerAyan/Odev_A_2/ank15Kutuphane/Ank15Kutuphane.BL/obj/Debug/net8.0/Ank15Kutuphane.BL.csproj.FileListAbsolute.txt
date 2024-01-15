@@ -1,0 +1,16 @@
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\bin\Debug\net8.0\Ank15Kutuphane.BL.deps.json
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\bin\Debug\net8.0\Ank15Kutuphane.BL.dll
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\bin\Debug\net8.0\Ank15Kutuphane.BL.pdb
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\bin\Debug\net8.0\AnkKutuphane.DAL.dll
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\bin\Debug\net8.0\AnkKutuphane.DAL.pdb
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\obj\Debug\net8.0\Ank15Kutuphane.BL.csproj.AssemblyReference.cache
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\obj\Debug\net8.0\Ank15Kutuphane.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\obj\Debug\net8.0\Ank15Kutuphane.BL.AssemblyInfoInputs.cache
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\obj\Debug\net8.0\Ank15Kutuphane.BL.AssemblyInfo.cs
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\obj\Debug\net8.0\Ank15Kutuphane.BL.csproj.CoreCompileInputs.cache
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\obj\Debug\net8.0\Ank15Kutuphane.BL.sourcelink.json
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\obj\Debug\net8.0\Ank15Kutuphane.BL.csproj.CopyComplete
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\obj\Debug\net8.0\Ank15Kutuphane.BL.dll
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\obj\Debug\net8.0\refint\Ank15Kutuphane.BL.dll
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\obj\Debug\net8.0\Ank15Kutuphane.BL.pdb
+C:\Users\Turker's\OneDrive\Desktop\ANK-15-ALP\ANK15\TurkerAyan\Odev_A_2\ank15Kutuphane\Ank15Kutuphane.BL\obj\Debug\net8.0\ref\Ank15Kutuphane.BL.dll
