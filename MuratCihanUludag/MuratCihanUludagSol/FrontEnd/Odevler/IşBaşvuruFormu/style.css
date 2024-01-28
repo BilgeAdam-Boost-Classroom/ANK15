@@ -1,0 +1,98 @@
+:root {
+  --orange: #fbb040;
+  --green: #45d1dbe6;
+  --base-color: #333;
+  --white: #f5f3f3;
+  --font: sans-serif;
+}
+
+body {
+  font-family: var(--font);
+  background-image: url(./img/bg-base-img.jpg);
+  color: var(--base-color);
+  font-weight: 600;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  position: relative;
+  width: calc(100vw - 220px);
+  margin: auto;
+  height: 100vh;
+}
+.form {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  box-shadow: 0px 0px 114px 9px var(--green);
+  padding: 1rem;
+  border-radius: 12px;
+  text-align: center;
+  overflow: hidden;
+  animation: coming 3s ease;
+}
+@keyframes coming {
+  from {
+    left: -50%;
+  }
+  to {
+    left: 50%;
+  }
+}
+.flex-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.flex-div fieldset {
+  width: 48%;
+}
+input,
+textarea,
+select {
+  border: none;
+  background-color: #f5f3f33a;
+  border-radius: 12px;
+  width: 100%;
+  padding-left: 0.5rem;
+  outline: none;
+  font-size: 16px;
+}
+input:focus,
+textarea:focus,
+select:focus {
+  box-shadow: 0px 0px 114px 9px #dfd87e31;
+}
+fieldset {
+  border-radius: 12px;
+  border-color: transparent;
+  box-shadow: 0px 0px 114px 9px #45d1db8c;
+}
+
+fieldset legend {
+  text-align: left;
+  font-weight: 900;
+}
+textarea {
+  max-width: 600px;
+}
+button {
+  margin-top: 1rem;
+  background-color: var(--green);
+  opacity: 0.5;
+  font-size: 18px;
+  border-radius: 12px;
+  padding: 0.35rem 0.75rem;
+  font-weight: 400;
+  cursor: pointer;
+  transition: 0.3s all ease;
+}
+button:hover {
+  box-shadow: 0px 0px 16px 9px var(--green);
+  opacity: 1;
+  background-color: transparent;
+  color: var(--white);
+}

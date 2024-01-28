@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div p{
+            font-style: italic;
+        }
+        div + p {
+        background-color: orange;
+    }
+    div>p{
+        background-color: rgb(80, 80, 168);
+        color: white;
+    }
+    span{
+        background-color: azure;
+        color: black;
+    }
+    a{
+        transition: all 0.3s;
+    }
+    a:visited{
+        background-color: blueviolet;
+    }
+    a:hover{
+        background-color: yellow;
+    }
+    p::first-letter{
+        font-size: 32px;
+        color: brown;
+    }
+    p::first-line{
+        text-decoration: underline;
+    }
+    .latter::first-letter{
+        font-size: 72px;
+        color: brown;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h6::before{
+        content: url(https://picsum.photos/200/300);
+    }
+    h5::after{
+        content: url(https://picsum.photos/200/300);
+    }
+    div::selection{
+        background-color: green;
+        color: red;
+    }
+     li::marker{
+        color: red;
+    }
+    </style>
+</head>
+<body>
+
+<!--====== Gorev-1======-->
+    <div>
+        <p>Lorem ipsum dolor sit.</p>
+        <p>Atque odit hic reiciendis.</p>
+        <p>Architecto magnam quis atque?</p>
+    </div>
+
+<!--====== Gorev-2======-->
+    <div>
+        test
+    </div>
+    <p>Lorem, ipsum dolor.</p>
+    <p>Nemo, natus eos?</p>
+    <p>Fuga, ad debitis.</p>
+
+<!--====== Gorev-3======-->
+    <div>
+        <p>Lorem ipsum dolor sit amet. <span>Lorem, ipsum dolor.</span> </p>
+        <p>Accusamus nobis blanditiis veniam dolorum.</p>
+        <p>Eius quaerat velit quis quas.</p>
+    </div>
+<!--====== Gorev-6-7======-->
+
+    <a href="https://www.google.com">google</a>
+
+<!--====== Gorev-8======-->
+<p class="latter">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum magnam ut ad esse neque dolorem, aut pariatur rerum, consequatur exercitationem in, modi quasi odit fuga similique eligendi! Autem, repellendus cum?</p>
+    
+
+<h6>Lorem ipsum dolor sit.</h6>
+<h5>Lorem ipsum dolor sit.</h5>
+<div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod suscipit expedita, quisquam optio iste nemo, asperiores minus laudantium adipisci tempore aliquam officiis illo fuga earum numquam excepturi soluta facilis corrupti!</div>
+<ul>
+    <li>Lorem ipsum dolor sit amet.</li>
+    <li>Quae consectetur voluptatum facere sint?</li>
+    <li>Aliquid, vero similique? Culpa, ullam.</li>
+    <li>Voluptate minus aliquam voluptates aliquid!</li>
+</ul>
+<ol>
+    <li>Lorem ipsum dolor sit amet.</li>
+    <li>Deleniti quasi illo pariatur ea.</li>
+    <li>Voluptate, quo. Aperiam, nobis corrupti.</li>
+    <li>Labore non ea enim rem.</li>
+    <li>Libero facere veritatis quam placeat!</li>
+</ol>
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+    <style>
+      h2 {
+        background-color: #f5ac23;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Semantik etiketler bizim koda baktigimizda parcalarin nereler oldugunu anlamamizi daha hizli saglayan yapidir
+    Ornek olarak da header section ya da footer verilebilir.
+    -->
+
+    <!--CSS : Cascading Style Sheets acilimi vardir ve html kodumuzun gorunum ozelliklerini ve animasyon dinamiklilikleri eklememize ve 
+    ozellestirmemize saglar.
+    -->
+    <!-- Css turleri inline,internal,Externaldir-->
+    <h1 style="background-color: #0b0b76; color: #fff2ff">
+      Lorem, ipsum dolor.
+    </h1>
+
+    <h2>Lorem, ipsum.</h2>
+    <h2>Tenetur, qui?</h2>
+
+    <h3>Lorem, ipsum dolor.</h3>
+    <h3>Ut, atque possimus?</h3>
+    <h3>Laboriosam, omnis dicta?</h3>
+
+    <p id="p-text">Lorem ipsum dolor sit amet consectetur.</p>
+
+    <!-- Class sinif anlamina gelir ve css te . ifdesi ile kullanilmaya baslar.-->
+    <div class="div-class">Lorem ipsum dolor sit.</div>
+    <div class="div-class">Asperiores repellendus magni sapiente.</div>
+    <div class="div-class">Eveniet excepturi soluta debitis!</div>
+    <div class="div-class-farkli">Temporibus error natus mollitia!</div>
+    <div class="div-class-farkli">Vero quos debitis quam?</div>
+
+    <h4>Lorem ipsum dolor sit.</h4>
+    <h5>Lorem ipsum dolor sit amet.</h5>
+    <h6>Lorem ipsum dolor sit amet consectetur.</h6>
+    <!-- * ile tum elemanlara css verebiliriz ortak sekilde-->
+
+    <div class="opacity">Lorem ipsum dolor sit amet.</div>
+
+    <!--margin: Dis taraftaki nesneler arasindaki uzakligi belirlemede kullanilir
+        padding: Kendi icindeki kapladigi alan mesafesindeki degisikliklerdir.
+    -->
+    <!-- Box model css bir kutunun tum ayritindisini gosteriri. En dista margin sonra border ardindan padding en sonda da content vardir.-->
+    <div
+      style="
+        background-color: red;
+        margin: 1rem;
+        border: 12px solid black;
+        padding: 1rem;
+      "
+    ></div>
+    <div style="display: inline; background-color: #f5ac23; font-size: 23px">
+      inline-div
+    </div>
+    <span
+      style="
+        display: block;
+        background-color: #0b0b76;
+        font-size: 23px;
+        color: #fff2ff;
+      "
+      >block-span</span
+    >
+    
+    <div class="box-shadow"></div>
+
+    <ul style="list-style-type: upper-roman">
+      <li>Lorem, ipsum dolor.</li>
+      <li>Quo, pariatur ducimus?</li>
+      <li>Optio, magnam necessitatibus!</li>
+    </ul>
+
+    <ul style="list-style-type: lower-alpha">
+      <li>Lorem, ipsum dolor.</li>
+      <li>Quo, pariatur ducimus?</li>
+      <li>Optio, magnam necessitatibus!</li>
+    </ul>
+
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Lorem.</th>
+          <th>Harum?</th>
+          <th>Aspernatur!</th>
+          <th>Deleniti?</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Lorem ipsum dolor sit.</td>
+          <td>Unde odio magnam tempora!</td>
+          <td>Velit quae officiis eum?</td>
+          <td>Pariatur ex mollitia veritatis.</td>
+        </tr>
+        <tr>
+          <td>Lorem ipsum dolor sit.</td>
+          <td>Unde odio magnam tempora!</td>
+          <td>Velit quae officiis eum?</td>
+          <td>Pariatur ex mollitia veritatis.</td>
+        </tr>
+      </tbody>
+    </table>
+    <div style="position: relative;">
+        <div style="position: fixed;">
+
+        </div>
+
+    </div>
+  </body>
+</html>
