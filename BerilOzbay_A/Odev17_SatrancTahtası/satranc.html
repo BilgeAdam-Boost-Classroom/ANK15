@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="satranc.css" />
+  </head>
+
+  <body>
+    <div class="satranc"></div>
+    <script>
+        //sınıfı satranc olan divi alır.
+      const satranc = document.querySelector(".satranc");
+
+      for (let i = 0; i < 64; i++) {
+        const hucre = document.createElement("div");
+        hucre.classList.add("hucre");
+
+        // Sıradaki kare beyaz mı siyah mı olacak?
+        if ((i + Math.floor(i / 8)) % 2 === 0) {
+          hucre.classList.add("beyaz");
+        } else {
+          hucre.classList.add("siyah");
+        }
+
+        //olusturulan hucrenin icerisine gorsel eklenir.
+        const sembol = getUnicodeSembol(i);
+        hucre.innerHTML = sembol;
+
+        satranc.appendChild(hucre);
+      }
+
+    function getUnicodeSembol(index) {
+    const satrançSembolleri = [
+        '&#9820;', '&#9822;', '&#9821;', '&#9819;', '&#9818;', '&#9821;', '&#9822;', '&#9820;', // 1. sıra siyah taşlar
+        '&#9823;', '&#9823;', '&#9823;', '&#9823;', '&#9823;', '&#9823;', '&#9823;', '&#9823;', // 2. sıra siyah piyonlar
+        '', '', '', '', '', '', '', '', // Boş satırlar
+        '', '', '', '', '', '', '', '', // Boş satırlar
+        '', '', '', '', '', '', '', '', // Boş satırlar
+        '', '', '', '', '', '', '', '', // Boş satırlar
+        '&#9817;', '&#9817;', '&#9817;', '&#9817;', '&#9817;', '&#9817;', '&#9817;', '&#9817;', // 7. sıra beyaz piyonlar
+        '&#9814;', '&#9816;', '&#9815;', '&#9813;', '&#9812;', '&#9815;', '&#9816;', '&#9814;' // 8. sıra beyaz taşlar
+    ];
+
+    return satrançSembolleri[index];
+    }
+    </script>
+  </body>
+</html>
