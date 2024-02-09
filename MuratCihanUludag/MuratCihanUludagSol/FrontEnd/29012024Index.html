@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    .oval {
+      width: 300px;
+      height: 300px;
+      background-color: red;
+      border-radius: 50%;
+    }
+    .resim {
+      background-image: url(https://picsum.photos/200/300),
+        url(https://picsum.photos/100/300);
+      background-repeat: no-repeat, repeat;
+      background-position: left top, right bottom;
+      width: 50vw;
+      height: 50vh;
+    }
+    .resim.no-repat {
+    }
+    .gradient-up-down {
+      width: 100%;
+      height: 100px;
+      background: linear-gradient(
+        to bottom,
+        rgb(255, 166, 0) 0%,
+        rgb(30, 255, 0) 100%
+      );
+      margin-bottom: 1rem;
+    }
+    .gradient-left-right {
+      width: 100%;
+      height: 100px;
+      background: linear-gradient(
+        to left,
+        rgb(255, 166, 1) 20%,
+        rgb(255, 0, 0) 100%
+      );
+      margin-bottom: 1rem;
+    }
+    .gradient-circle {
+      width: 100%;
+      height: 100px;
+      background: radial-gradient(
+        circle,
+        rgb(120, 255, 1) 20%,
+        rgb(255, 0, 221) 100%
+      );
+    }
+    .transform-translate {
+      transform: translate(100px, 150px);
+      width: 300px;
+      height: 300px;
+      background: linear-gradient(red, blue);
+    }
+    .transform-rotate {
+      transform: rotate(50deg);
+      margin-left: 5rem;
+      width: 300px;
+      height: 300px;
+      background: linear-gradient(red, blue);
+    }
+    .transform-scale {
+      transform: scale(2, 3);
+      margin-left: 5rem;
+      width: 30px;
+      height: 30px;
+      background: linear-gradient(red, blue);
+      margin: 1rem;
+    }
+    .transform-scale-x {
+      transform: scaleX(4);
+      margin-left: 5rem;
+      width: 30px;
+      height: 30px;
+      background: linear-gradient(#ff0000, #0000ff);
+      margin: 1rem;
+    }
+    .transform-scale-y {
+      transform: scaleY(3);
+      margin-left: 5rem;
+      width: 30px;
+      height: 30px;
+      background: linear-gradient(#ff0000, #0000ff);
+      margin: 1rem;
+    }
+    .hover {
+      transition: width 4s, height 6s;
+      width: 200px;
+      height: 200px;
+      background-color: #5f9ea0;
+      margin: 10rem;
+    }
+    .hover:hover {
+      width: 400px;
+      height: 600px;
+    }
+    .hover-rotate {
+      transition: all 2s;
+      width: 200px;
+      height: 200px;
+      background-color: #5f9ea0;
+      margin: 10rem;
+    }
+    .hover-rotate:hover {
+      width: 400px;
+      height: 400px;
+      transform: rotate(180deg);
+    }
+    .hover-duration {
+      transition: all 4s;
+      transition-delay: 1s;
+      width: 200px;
+      height: 200px;
+      background-color: #6e8686;
+      margin: 10rem;
+    }
+    .hover-duration:hover {
+      transition-delay: 2s;
+      width: 400px;
+    }
+    .column-count {
+      column-count: 3;
+      margin-bottom: 2rem;
+    }
+    .column-count.column-rule {
+      column-rule: 4px solid #008000;
+    }
+  </style>
+  <body>
+    <p class="oval"></p>
+    <div class="resim"></div>
+    <div class="gradient-up-down"></div>
+    <div class="gradient-left-right"></div>
+    <div class="gradient-circle"></div>
+    <div class="transform-translate"></div>
+    <div class="transform-rotate"></div>
+    <div class="transform-scale"></div>
+    <div class="transform-scale-x"></div>
+    <div class="transform-scale-y"></div>
+    <div class="hover"></div>
+    <div class="hover-rotate"></div>
+    <div class="hover-duration"></div>
+    <div class="column-count">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum modi optio
+      cumque pariatur minus eius, quisquam alias aliquam placeat autem dolores
+      ut, repellat natus fuga velit nihil corrupti nulla quaerat! Hic voluptate
+      enim deserunt consequatur, unde commodi, eius dolorum distinctio, esse
+      eaque impedit rem eos facere sint pariatur culpa illum modi atque optio
+      illo consequuntur quisquam architecto veniam iste? Beatae. Vel voluptas,
+      voluptatem natus voluptatibus sunt, quis consequatur est qui assumenda
+      magni quas pariatur culpa labore libero dolorem amet reprehenderit eum
+      praesentium similique inventore unde. Ad tempora nihil fugiat beatae. Modi
+      quas voluptas, fugit magni natus officia fugiat consectetur ipsum sunt
+      adipisci saepe esse, ab iusto quis dolorum exercitationem dicta ipsam hic
+      qui nisi obcaecati error voluptatum sint rerum. Labore! Lorem ipsum, dolor
+      sit amet consectetur adipisicing elit. Harum modi optio cumque pariatur
+      minus eius, quisquam alias aliquam placeat autem dolores ut, repellat
+      natus fuga velit nihil corrupti nulla quaerat! Hic voluptate enim deserunt
+      consequatur, unde commodi, eius dolorum distinctio, esse eaque impedit rem
+      eos facere sint pariatur culpa illum modi atque optio illo consequuntur
+      quisquam architecto veniam iste? Beatae. Vel voluptas, voluptatem natus
+      voluptatibus sunt, quis consequatur est qui assumenda magni quas pariatur
+      culpa labore libero dolorem amet reprehenderit eum praesentium similique
+      inventore unde. Ad tempora nihil fugiat beatae. Modi quas voluptas, fugit
+      magni natus officia fugiat consectetur ipsum sunt adipisci saepe esse, ab
+      iusto quis dolorum exercitationem dicta ipsam hic qui nisi obcaecati error
+      voluptatum sint rerum. Labore!
+    </div>
+    <div class="column-count column-rule">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum modi optio
+      cumque pariatur minus eius, quisquam alias aliquam placeat autem dolores
+      ut, repellat natus fuga velit nihil corrupti nulla quaerat! Hic voluptate
+      enim deserunt consequatur, unde commodi, eius dolorum distinctio, esse
+      eaque impedit rem eos facere sint pariatur culpa illum modi atque optio
+      illo consequuntur quisquam architecto veniam iste? Beatae. Vel voluptas,
+      voluptatem natus voluptatibus sunt, quis consequatur est qui assumenda
+      magni quas pariatur culpa labore libero dolorem amet reprehenderit eum
+      praesentium similique inventore unde. Ad tempora nihil fugiat beatae. Modi
+      quas voluptas, fugit magni natus officia fugiat consectetur ipsum sunt
+      adipisci saepe esse, ab iusto quis dolorum exercitationem dicta ipsam hic
+      qui nisi obcaecati error voluptatum sint rerum. Labore! Lorem ipsum, dolor
+      sit amet consectetur adipisicing elit. Harum modi optio cumque pariatur
+      minus eius, quisquam alias aliquam placeat autem dolores ut, repellat
+      natus fuga velit nihil corrupti nulla quaerat! Hic voluptate enim deserunt
+      consequatur, unde commodi, eius dolorum distinctio, esse eaque impedit rem
+      eos facere sint pariatur culpa illum modi atque optio illo consequuntur
+      quisquam architecto veniam iste? Beatae. Vel voluptas, voluptatem natus
+      voluptatibus sunt, quis consequatur est qui assumenda magni quas pariatur
+      culpa labore libero dolorem amet reprehenderit eum praesentium similique
+      inventore unde. Ad tempora nihil fugiat beatae. Modi quas voluptas, fugit
+      magni natus officia fugiat consectetur ipsum sunt adipisci saepe esse, ab
+      iusto quis dolorum exercitationem dicta ipsam hic qui nisi obcaecati error
+      voluptatum sint rerum. Labore!
+    </div>
+
+    <div style="display: flex; border: 1px solid black; padding: 1rem;">
+        <div style="margin-right: 1rem; color: white; font-size: 42px;font-weight: 600; width: 100px; height: 100px; background-color: red">1</div>
+        <div style="margin-right: 1rem; color: white; font-size: 42px;font-weight: 600; width: 100px; height: 100px; background-color: blue">2</div>
+        <div style="margin-right: 1rem; color: white; font-size: 42px;font-weight: 600; width: 100px; height: 100px; background-color: red">3</div>
+        <div style="margin-right: 1rem; color: white; font-size: 42px;font-weight: 600; width: 100px; height: 100px; background-color: blue">4</div>
+    </div>
+  </body>
+</html>

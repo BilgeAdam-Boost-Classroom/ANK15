@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Ank15LoadingChangeTracker.Migrations
 {
     [DbContext(typeof(UygulamaDbContext))]
-    [Migration("20240111065114_Linsan and Urun Initilation")]
-    partial class LinsanandUrunInitilation
+    [Migration("20240111081422_Initilation")]
+    partial class Initilation
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -23,6 +23,29 @@ namespace Ank15LoadingChangeTracker.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("Ank15LoadingChangeTracker.Concrete.Bandrol", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("OnayId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("OnayId")
+                        .IsUnique();
+
+                    b.ToTable("Bandroller");
+                });
 
             modelBuilder.Entity("Ank15LoadingChangeTracker.Concrete.Lisans", b =>
                 {
@@ -45,6 +68,22 @@ namespace Ank15LoadingChangeTracker.Migrations
                     b.ToTable("Lisanslar");
                 });
 
+            modelBuilder.Entity("Ank15LoadingChangeTracker.Concrete.Onay", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("IsSuccess")
+                        .HasColumnType("bit");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Onaylar");
+                });
+
             modelBuilder.Entity("Ank15LoadingChangeTracker.Concrete.Urun", b =>
                 {
                     b.Property<int>("Id")
@@ -52,6 +91,9 @@ namespace Ank15LoadingChangeTracker.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BandrolId")
+                        .HasColumnType("int");
 
                     b.Property<int>("LisansId")
                         .HasColumnType("int");
@@ -62,26 +104,60 @@ namespace Ank15LoadingChangeTracker.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("BandrolId")
+                        .IsUnique();
+
                     b.HasIndex("LisansId")
                         .IsUnique();
 
                     b.ToTable("Urunler");
                 });
 
+            modelBuilder.Entity("Ank15LoadingChangeTracker.Concrete.Bandrol", b =>
+                {
+                    b.HasOne("Ank15LoadingChangeTracker.Concrete.Onay", "Onay")
+                        .WithOne("Bandrol")
+                        .HasForeignKey("Ank15LoadingChangeTracker.Concrete.Bandrol", "OnayId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Onay");
+                });
+
             modelBuilder.Entity("Ank15LoadingChangeTracker.Concrete.Urun", b =>
                 {
+                    b.HasOne("Ank15LoadingChangeTracker.Concrete.Bandrol", "Bandrol")
+                        .WithOne("Urun")
+                        .HasForeignKey("Ank15LoadingChangeTracker.Concrete.Urun", "BandrolId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("Ank15LoadingChangeTracker.Concrete.Lisans", "Lisans")
                         .WithOne("Urun")
                         .HasForeignKey("Ank15LoadingChangeTracker.Concrete.Urun", "LisansId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.Navigation("Bandrol");
+
                     b.Navigation("Lisans");
+                });
+
+            modelBuilder.Entity("Ank15LoadingChangeTracker.Concrete.Bandrol", b =>
+                {
+                    b.Navigation("Urun")
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("Ank15LoadingChangeTracker.Concrete.Lisans", b =>
                 {
                     b.Navigation("Urun")
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Ank15LoadingChangeTracker.Concrete.Onay", b =>
+                {
+                    b.Navigation("Bandrol")
                         .IsRequired();
                 });
 #pragma warning restore 612, 618

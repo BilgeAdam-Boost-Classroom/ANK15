@@ -1,0 +1,97 @@
+body {
+  background-color: rgba(203, 238, 255, 0.677);
+}
+.custom-container {
+  width: 800px;
+  height: 800px;
+  margin: auto;
+  position: relative;
+  margin-top: 4rem;
+  box-shadow: 10px 13px 26px -11px #bfbfbf;
+}
+i {
+  font-size: 64px;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 99;
+}
+.box {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+.box-b {
+  background-color: rgb(247, 245, 245);
+}
+.box-s {
+  background-color: rgb(255, 96, 96);
+}
+
+.row {
+  position: absolute;
+}
+.row-8 {
+  top: 0;
+}
+.row-7 {
+  top: 100px;
+}
+.row-6 {
+  top: 200px;
+}
+.row-5 {
+  top: 300px;
+}
+.row-4 {
+  top: 400px;
+}
+.row-3 {
+  top: 500px;
+}
+.row-2 {
+  top: 600px;
+}
+.row-1 {
+  top: 700px;
+}
+.row-0 {
+  top: 800px;
+}
+.row-number {
+  position: absolute;
+  left: -50px;
+  font-size: 42px;
+  top: 30px;
+}
+.row-word {
+  position: absolute;
+  top: 10px;
+  font-size: 33px;
+}
+.row-word.word-a {
+  left: calc(100px - (33px + 25px));
+}
+.row-word.word-b {
+  left: calc(200px - (33px + 25px));
+}
+.row-word.word-c {
+  left: calc(300px - (33px + 25px));
+}
+.row-word.word-d {
+  left: calc(400px - (33px + 25px));
+}
+.row-word.word-e {
+  left: calc(500px - (33px + 25px));
+}
+.row-word.word-f {
+  left: calc(600px - (33px + 25px));
+}
+.row-word.word-g {
+  left: calc(700px - (33px + 25px));
+}
+.row-word.word-h {
+  left: calc(800px - (33px + 25px));
+}

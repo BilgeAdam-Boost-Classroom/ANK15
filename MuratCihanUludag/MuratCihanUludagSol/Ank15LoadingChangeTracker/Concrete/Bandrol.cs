@@ -11,6 +11,7 @@ namespace Ank15LoadingChangeTracker.Concrete
         public int Id { get; set; } 
         public string Name { get; set; }
         public int OnayId { get; set; } 
-        public Onay Onay { get; set; }  
+        public virtual Onay Onay { get; set; }  
+        public virtual Urun Urun { get; set; }  
     }
 }

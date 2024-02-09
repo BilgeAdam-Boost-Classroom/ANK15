@@ -1,6 +1,6 @@
 :root {
   --orange: #fbb040;
-  --green: #45d1dbe6;
+  --green: rgba(67, 209, 219, 0.902);
   --base-color: #333;
   --white: #f5f3f3;
   --font: sans-serif;
@@ -64,7 +64,7 @@ select {
 input:focus,
 textarea:focus,
 select:focus {
-  box-shadow: 0px 0px 114px 9px #dfd87e31;
+  box-shadow: 0px 0px 114px 9px #dfd97e47;
 }
 fieldset {
   border-radius: 12px;

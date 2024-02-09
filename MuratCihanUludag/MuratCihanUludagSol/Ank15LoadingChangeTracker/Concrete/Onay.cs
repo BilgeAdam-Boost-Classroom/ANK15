@@ -10,6 +10,6 @@ namespace Ank15LoadingChangeTracker.Concrete
     {
         public int Id { get; set; } 
         public bool IsSuccess { get; set; }   
-        public Bandrol Bandrol { get; set; }
+        public virtual Bandrol Bandrol { get; set; }
     }
 }
