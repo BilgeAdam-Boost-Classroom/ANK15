@@ -1,0 +1,35 @@
+﻿@{
+
+    List<string> Paws = new List<string>();
+    Paws.Add("&#9812");
+    Paws.Add("&#9813");
+    Paws.Add("&#9814");
+    Paws.Add("&#9815");
+    Paws.Add("&#9816");
+    Paws.Add("&#9817");
+    Paws.Add("&#9818");
+    Paws.Add("&#9819");
+    Paws.Add("&#9820");
+    Paws.Add("&#9821");
+    Paws.Add("&#9822");
+    Paws.Add("&#9823");
+
+    int number = (int)ViewData["Count"];
+    <ul>
+        @{
+            Random rnd = new Random();
+            void RandomPaw()
+            {
+                var rnd2 = rnd.Next(0, Paws.Count);
+                <li>@Html.Raw(Paws[rnd2])</li>
+            }
+
+            for (int i = 0; i < number; i++)
+            {
+                RandomPaw();
+            }
+        }
+    </ul>
+
+}
+

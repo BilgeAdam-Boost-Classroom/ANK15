@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    string color;
+    int number = (int)ViewData["SiteRandom2"];
+    if (number % 3 == 0 && number % 5 == 0)
+    {
+        color = "orange";
+    }
+    else if (number % 3 == 0)
+    {
+        color = "green";
+    }
+    else if (number % 5 == 0)
+    {
+        color = "blue";
+    }
+    else
+    {
+        color = "gray";
+    }
+
+    <h1 style="background-color:@color">
+        @ViewData["SiteRandom2"]
+    </h1>
+}

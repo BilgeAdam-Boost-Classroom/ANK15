@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MvcOnIkiSubat
+build_property.RootNamespace = MvcOnIkiSubat
+build_property.ProjectDir = C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanMVC\MuratCihanMvc\MvcOnIkiSubat\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanMVC\MuratCihanMvc\MvcOnIkiSubat
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Goruntu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29ydW50dVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Goruntu/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29ydW50dVxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Goruntu/Index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29ydW50dVxJbmRleDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Goruntu/Index4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29ydW50dVxJbmRleDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Goruntu/Index5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29ydW50dVxJbmRleDUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Goruntu/Index6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29ydW50dVxJbmRleDYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Goruntu/Index7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29ydW50dVxJbmRleDcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Goruntu/Rastgele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29ydW50dVxSYXN0Z2VsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Goruntu/Rastgele2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29ydW50dVxSYXN0Z2VsZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Home/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Home/Index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/ModelUygulama/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxVeWd1bGFtYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/ModelUygulama/Index10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxVeWd1bGFtYVxJbmRleDEwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/ModelUygulama/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxVeWd1bGFtYVxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/ModelUygulama/Index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxVeWd1bGFtYVxJbmRleDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/ModelUygulama/Index4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxVeWd1bGFtYVxJbmRleDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/ModelUygulama/Index5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxVeWd1bGFtYVxJbmRleDUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/ModelUygulama/Index6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxVeWd1bGFtYVxJbmRleDYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/ModelUygulama/Index7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxVeWd1bGFtYVxJbmRleDcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/ModelUygulama/Index8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxVeWd1bGFtYVxJbmRleDguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/ModelUygulama/Index9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxVeWd1bGFtYVxJbmRleDkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Satranc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F0cmFuY1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gq6da3hd0g

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ODEV_A_20/1.0.0": {
+        "runtime": {
+          "ODEV_A_20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ODEV_A_20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

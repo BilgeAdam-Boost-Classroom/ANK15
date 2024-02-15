@@ -1,0 +1,10 @@
+﻿@{
+    List<int> numberList = (List<int>)ViewData["SiteMsg6"];
+
+    <ul>
+        @foreach (var number in numberList)
+        {
+            <li>@number</li>
+        }
+    </ul>
+}

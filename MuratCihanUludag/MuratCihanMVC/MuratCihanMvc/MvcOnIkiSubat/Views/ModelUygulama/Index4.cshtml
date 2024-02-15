@@ -1,0 +1,23 @@
+﻿
+
+
+<table class="table table-hover table-bordered">
+    <thead>
+        <tr class="text-center">
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var calisan in Model)
+        {
+            <tr class="text-center">
+                <td>@calisan.Name</td>
+                <td>@calisan.Surname</td>
+                <td>@calisan.Age</td>
+            </tr>
+        }
+    </tbody>
+
+</table>

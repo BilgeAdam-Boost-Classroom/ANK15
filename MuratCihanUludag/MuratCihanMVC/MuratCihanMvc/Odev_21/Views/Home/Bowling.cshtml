@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<style>
+    ul {
+        list-style: none;
+    }
+
+        ul li {
+            margin-bottom: 0 !important;
+            font-weight: 600;
+        }
+</style>
+@{
+    Random rnd = new Random();
+    int randomNumber;
+    <ul>
+        @for (int i = 1; i < 16; i++)
+        {
+            randomNumber = rnd.Next(180, 241);
+
+            List<string> colorAndLig =
+            (randomNumber >= 180 && randomNumber <= 190) ? new List<string>() { "secondary", "Amatör" } :
+            (randomNumber >= 191 && randomNumber <= 219) ? new List<string>() { "success", "Yarı Profesyonel" } :
+            new List<string>() { "danger", "Profesyonel" };
+
+            RandomList(i, colorAndLig, randomNumber);
+
+        }
+    </ul>
+}
+@{
+    void RandomList(int i, List<string> colorAndLig, int randomNumber)
+    {
+        <li class="alert alert-@colorAndLig[0]" role="alert">
+            @i-@colorAndLig[1] Lig: @randomNumber
+        </li>
+    }
+}
+
+

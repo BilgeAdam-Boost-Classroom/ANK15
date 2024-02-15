@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form asp-action="Index6" asp-controller="ModelUygulama" method="post">
+    <div class="form-floating mb-3">
+        <input type="text" class="form-control" name="Name" id="Name" placeholder="name">
+        <label for="floatingInput">Name</label>
+    </div>
+    <div class="form-floating mb-3">
+        <input type="text" class="form-control" name="Surname" id="Surname" placeholder="surname">
+        <label for="floatingInput">Surname</label>
+    </div>
+    <div class="form-floating mb-3">
+        <input type="text" class="form-control" name="Age" id="Age" placeholder="18">
+        <label for="floatingInput">Age</label>
+    </div>
+    <button type="submit" class="btn btn-info">Submit</button>
+</form>
+
+@if (Model != null)
+{
+    @if (Convert.ToInt32(Model.Age) < 18)
+    {
+        <div class="alert alert-danger position-fixed top-0 start-0 w-100" role="alert">
+            Kayit Olamazsiniz
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-success position-fixed top-0 start-0 w-100" role="alert">
+            Hosgeldiniz
+        </div>
+
+    }
+}
+@* @{
+    <li>Name:@Model.Name</li>
+    <li>Surname:@Model.Surname</li>
+    <li>Age:@Model.Age</li>
+} *@

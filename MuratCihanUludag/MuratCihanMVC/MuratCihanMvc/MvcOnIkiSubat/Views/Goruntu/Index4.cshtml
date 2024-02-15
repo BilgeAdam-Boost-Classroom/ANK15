@@ -1,0 +1,7 @@
+﻿@{
+    var color = (int)@ViewData["SiteMsg4"] % 2 == 0 ? "info" : "danger";
+
+    <h1 class=" text-light text-center bg-@color">
+        @ViewData["SiteMsg4"]
+    </h1>
+}

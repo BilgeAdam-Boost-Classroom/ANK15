@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    //Razor bizim @yanina da suslu scoplerimizi acaraka icine c# kodlari yazdigimiz yerin ismidir.
+    //ViewBag  verileri Controlleridan viewlere tasimimizi saglayan dinamik bir nesnedir.
+    //viewData Calisma prensibi ViewBag ile aynidir sadece anahtar key mantigi ile (Dictionary) calisir.
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<ul>
+    <li>@ViewBag.test1</li>
+    <li>@ViewData["test2"]</li>
+    <li>@TempData["test3"]</li>
+</ul>
