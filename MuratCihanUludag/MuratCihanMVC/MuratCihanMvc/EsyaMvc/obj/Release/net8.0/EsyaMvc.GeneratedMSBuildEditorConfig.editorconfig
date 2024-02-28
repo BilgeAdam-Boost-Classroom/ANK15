@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EsyaMvc
+build_property.RootNamespace = EsyaMvc
+build_property.ProjectDir = C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanMVC\MuratCihanMvc\EsyaMvc\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Cihan\Desktop\Yeni klasör\ANK15\MuratCihanUludag\MuratCihanMVC\MuratCihanMvc\EsyaMvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Components/Forms/Ara/Esya.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50c1xGb3Jtc1xBcmFcRXN5YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Components/Forms/Ekle/Esya.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50c1xGb3Jtc1xFa2xlXEVzeWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Components/Forms/Guncelle/Esya.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50c1xGb3Jtc1xHdW5jZWxsZVxFc3lhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Components/Forms/Sil/Esya.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50c1xGb3Jtc1xTaWxcRXN5YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Components/Table/EsyaTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50c1xUYWJsZVxFc3lhVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Components/Table/Rows/EsyaRow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50c1xUYWJsZVxSb3dzXEVzeWFSb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Esya/AntikaOlmayanlar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN5YVxBbnRpa2FPbG1heWFubGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Esya/Ara.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN5YVxBcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Esya/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN5YVxFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Esya/Guncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN5YVxHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Esya/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN5YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Esya/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN5YVxTaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/EsyaMvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-p47nh44fqs

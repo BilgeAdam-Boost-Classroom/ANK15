@@ -1,0 +1,50 @@
+﻿@using Ank15SuperMarket.Entities
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model List<Urun>
+@foreach (var ml in Model)
+{
+    <tr class="text-center">
+        <td>@ml.Ad</td>
+        <td>@ml.Fiyat</td>
+        @if (ml.StokDurumu)
+        {
+            <td>Var</td>
+        }
+        else
+        {
+            <td>Yok</td>
+        }
+        <td><a class="btn btn-warning" asp-action="Guncelle" asp-route-id="@ml.Id">Guncelle</a></td>
+        @* <td><a class="btn btn-danger"  asp-action="Sil" asp-route-id="@ml.Id">Sil</a></td> *@
+        <td>
+            <button class="btn btn-outline-danger" onclick="Delete('@ml.Ad', @ml.Id)" data-bs-toggle="modal" data-bs-target="#DeleteUrun">Sil</button>
+        </td>
+    </tr>
+}
+<script>
+    const Delete = (ad, id) => {
+        document.querySelector(".urun-ad").innerHTML = ad;
+        document.querySelector("#deleteButton").setAttribute("data-id", id);
+
+    }
+</script>
+
+<div class="modal fade" id="DeleteUrun" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p class="urun-ad"></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" id="" data-id="" class="btn btn-danger">Sil</button>
+            </div>
+        </div>
+    </div>
+</div>

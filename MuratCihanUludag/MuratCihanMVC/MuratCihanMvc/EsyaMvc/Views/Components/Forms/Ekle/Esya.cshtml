@@ -1,0 +1,19 @@
+﻿@using EsyaMvc.Entitiys
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Esya;
+
+<form asp-action="Ekle" asp-controller="Esya">
+    <div class="form-group mb-2">
+        <label class="form-label" asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+    </div>
+    <div class="form-group mb-2 ">
+        <label class="form-label" asp-for="isAntika"></label>
+        <input class="form-check" asp-for="isAntika" type="checkbox" />
+    </div>
+    <button class="btn btn-outline-primary mt-3" type="submit">Esya Ekle</button>
+</form>

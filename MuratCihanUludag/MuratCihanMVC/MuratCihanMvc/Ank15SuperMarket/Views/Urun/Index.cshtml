@@ -1,0 +1,12 @@
+﻿@using Ank15SuperMarket.Entities
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<a asp-action="Ekle" class="btn btn-info">Ekle</a>
+@model List<Urun>
+@{
+    // Contorllerdan gelen modeli listeleyim
+    List<string> basliklar = new List<string>() { "Ad", "Fiyat", "Stok Durumu", "Guncelle", "Sil" };
+    ViewBag.tabloBaslik = basliklar;
+    <partial name="~/Views/Components/Tables/UrunTable.cshtml" model="@Model" />
+}

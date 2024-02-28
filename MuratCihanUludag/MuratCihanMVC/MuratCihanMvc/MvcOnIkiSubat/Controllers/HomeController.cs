@@ -40,6 +40,15 @@ namespace MvcOnIkiSubat.Controllers
             TempData["sayi"] = 54;
             return View();
         }
+        public IActionResult YurtIci()
+        {
+            return View();
+        }
+        public IActionResult YurtDisi()
+        {
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

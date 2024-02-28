@@ -1,0 +1,15 @@
+﻿@using Ank15SuperMarket.Entities
+
+<table class="table table-hover">
+    <thead>
+        <tr class="text-center">
+            @foreach (var baslik in ViewBag.tabloBaslik)
+            {
+                <th>@baslik</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        <partial name="~/Views/Components/Tables/Rows/UrunRow.cshtml"  />
+    </tbody>
+</table>

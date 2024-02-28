@@ -54,6 +54,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29ydW50dVxSYXN0Z2VsZTIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Home/Akdeniz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBa2Rlbml6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -68,6 +72,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Home/YurtDisi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZdXJ0RGlzaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Home/YurtIci.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZdXJ0SWNpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/ModelUygulama/Index.cshtml]
@@ -118,8 +130,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Shared/_NestedLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OZXN0ZWRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/Shared/_YurtIciNestedLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9ZdXJ0SWNpTmVzdGVkTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/YurtIci/Akdeniz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVydEljaVxBa2Rlbml6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/YurtIci/Ege.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVydEljaVxFZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Cihan/Desktop/Yeni klasör/ANK15/MuratCihanUludag/MuratCihanMVC/MuratCihanMvc/MvcOnIkiSubat/Views/_ViewImports.cshtml]
