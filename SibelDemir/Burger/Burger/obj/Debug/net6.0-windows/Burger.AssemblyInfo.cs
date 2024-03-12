@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Burger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86c101703922bcdfc5e4639960104830bccb6a68")]
 [assembly: System.Reflection.AssemblyProductAttribute("Burger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Burger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
