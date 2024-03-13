@@ -1,0 +1,10 @@
+﻿@using ANK15Identity.Areas.Identity.Data
+
+@model ANK15IdentityUser
+<h2>@Model.Name @Model.SurName isimli kişiden öğrenci rolünü çıkarmak istediğinize emin misiniz?</h2>
+<form asp-action="Sil" method="post">
+
+    <button class="btn btn-success">EVET</button>
+    <a class="btn btn-danger" asp-action="Index">Hayır</a>
+
+</form>
